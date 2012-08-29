@@ -1,0 +1,1349 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+var current=0;var prev=0;var next=0;var totalCount=3;function hideShow(num,count){if(num==1){prev=1;}else{prev=num-1;}next=num+1;current=num;hideAll(count);document.getElementById('mail'+current).style.display='block';}function hideAll(count){totalCount=count;for(var i=1;i <=totalCount;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}function showNext(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=2;next=3;}else{if( current != totalCount){prev=current;}current=next;if( current != totalCount){next=next+1;}}document.getElementById('mail'+current).style.display='block';}function showPrev(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=1;next=2;}else{if(current!=1){next=current;current=prev;}if(prev!=1){prev=prev-1;}}document.getElementById('mail'+current).style.display='block';}function showFirst(){hideAll(totalCount);prev=1; current=1; next=2;document.getElementById('mail'+current).style.display='block';}function showLast(){hideAll(totalCount);prev=totalCount-1; current=totalCount; next=totalCount;document.getElementById('mail'+current).style.display='block';}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color     :       #C8E2EB;width                           :       1000px;margin                           :       auto;}#main{font-family :       sans-serif;font-size            :       14px;width                      :       auto;height                     :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #008000;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       12px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{white-space: nowrap;font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:25px;color:        black;}#mailheader td{vertical-align: top; }#mailcontent{padding:10px;overflow-x:auto;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+<title>PAYBACK</title>
+<style type="text/css">
+/*<![CDATA[*/
+<!--#yiv1858960678 body {margin-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;background:#e1eaf7;}-->
+/*]]>*/
+</style>
+<title>Untitled Document</title>
+<title>Small Biz Canada</title>
+<style type="text/css">
+/*<![CDATA[*/
+#yiv744298335 a:link, #yiv744298335 a:visited, #yiv744298335 area{color:#36C;}
+/*]]>*/
+</style>
+<style type="text/css">
+/*<![CDATA[*/
+#yiv744298335 a:link, #yiv744298335 a:visited{color:#36C;}
+/*]]>*/
+</style>
+</head>
+<body onload='hideShow(1,3);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='showprev' onclick='showPrev()'
+href='javascript:void(0)'>prev</a>&#160;&#160;<a id='shownext'
+onclick='showNext()' href='javascript:void(0)'>next</a><br />
+<a id='showFirst' onclick='showFirst()'
+href='javascript:void(0)'>First</a>&#160;&#160;<a id='page1'
+onclick='hideShow(1,3)' href='javascript:void(0)'>1</a> <a
+id='page2' onclick='hideShow(2,3)' href='javascript:void(0)'>2</a>
+<a id='page3' onclick='hideShow(3,3)'
+href='javascript:void(0)'>3</a> <a id='showLast'
+onclick='showLast()'
+href='javascript:void(0)'>Last</a>&#160;&#160;<a id='showall'
+onclick='showAll(3)' href='javascript:void(0)'>Show All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Exclusive Offer for PAYBACK members only!
+Flat 50% OFF + Earn 5 Times PAYBACK pts!<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:18:01 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> PAYBACK
+&lt;newsletter@mail.payback.in&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 7:59 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Exclusive
+Offer for PAYBACK members only! Flat 50% OFF + Earn 5 Times PAYBACK
+pts!<br />
+</font></div>
+<br />
+<div id="yiv1858960678">
+<div><img
+src="http://mail.payback.in/tr/p.gif?uid=12030660357&amp;mid=1200304001&amp;msd=1343743461445"
+ height="1" width="1" />
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="708">
+<tbody>
+<tr>
+<td style="text-align:center;background-color:rgb(225, 234, 247);"
+height="50" width="706"><font
+style="font-size:11px;line-height:14px;font-family:Verdana, Geneva, sans-serif;color:rgb(88, 89, 91);">Over
+active email filters could be preventing you from getting your
+rewards. To avoid this, add<br />
+<a rel="nofollow" ymailto="mailto:newsletter@mail.payback.in"
+target="_blank" href="mailto:newsletter@mail.payback.in"
+style="color:rgb(0, 51, 153);">newsletter@mail.payback.in</a> to
+your address book. Having trouble viewing the email below? <a
+rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=BjumohtI5iyqsxxIh5b32b0oI&amp;u=http%3A%2F%2Fmail.payback.in%2Fpublic%2Fread_message.jsp%3Ftsp%3D1343744975706%26custid%3D12151%26uid%3D12030660357%26sig%3DKNKLGBIOOJDBFNBI%26mid%3D1200304001&amp;s=FIFIPOJOHKOLBDIP"
+ style="color:rgb(0, 51, 153);">Click here</a></font></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682452/zovi_pic1.jpg"
+usemap="#map4" style="display:block;" border="0" height="106"
+width="708" /></td>
+</tr>
+<tr>
+<td align="left" height="140" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="140" valign="top" width="708">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="140" valign="top" width="29"><img
+src="http://mail.payback.in/imgproxy/img/620682453/zovi_pic2.jpg"
+style="display:block;" height="190" width="29" /></td>
+<td align="left" bgcolor="#FFFFFF" valign="top" width="322">
+<table border="0" cellpadding="0" cellspacing="0" width="322">
+<tbody>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="25" valign="top"
+width="322"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;">Dear
+Gaurav Sachdeva,</font></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="48" valign="top"
+width="307"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;line-height:16px;">Re-defining
+style now comes easy with Central. Take your pick from over 100
+brands on display and get a flat 50% off.</font></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="42" valign="top"
+width="307"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;line-height:16px;">Just
+flash your PAYBACK card at the billing counter and earn 5X bonus
+PAYBACK points on your purchase.</font></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="42" valign="top"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;line-height:16px;">So,
+mark the date today as the offer is valid on 01 Aug 12
+only!</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" bgcolor="#FFFFFF" valign="top" width="333">
+<table border="0" cellpadding="0" cellspacing="0" width="333">
+<tbody>
+<tr>
+<td colspan="3" align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682454/red_nl03.jpg"
+style="display:block;" height="33" width="333" /></td>
+</tr>
+<tr>
+<td align="left" height="60" valign="top" width="43"><img
+src="http://mail.payback.in/imgproxy/img/620682455/red_nl04.jpg"
+style="display:block;" height="60" width="43" /></td>
+<td align="left" bgcolor="#D2EAF4" valign="top" width="252">
+<table style="line-height:18px;" align="left" bgcolor="#D3E6F8"
+border="0" cellpadding="0" cellspacing="0" width="248">
+<tbody>
+<tr>
+<td id="yiv1858960678Td_Height" align="left" bgcolor="#D2EAF6"
+height="20" valign="top" width="248"><font
+style="font-family:InterstatePl Regular, Arial;color:#003399;font-size:12px;line-height:12px;display:block;"><b>Your
+PAYBACK number</b>:</font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" bgcolor="#D2EAF6" height="18"
+valign="top" width="248"><font
+style="font-family:InterstatePl Regular, Arial;color:#003399;font-size:12px;display:block;"><b>9401152867000304</b></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="38"><img
+src="http://mail.payback.in/imgproxy/img/620682456/red_nl05.jpg"
+style="display:block;" height="60" width="38" /></td>
+</tr>
+<tr>
+<td colspan="3" align="left" height="31" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682457/red_nl07.jpg"
+style="display:block;" height="31" width="333" /></td>
+</tr>
+<tr>
+<td colspan="3" align="center" height="31" valign="top"><img
+style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620682458/rem.jpg"
+height="56" width="258" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="24"><img
+src="http://mail.payback.in/imgproxy/img/620682459/zovi_pic3.jpg"
+style="display:block;" height="190" width="24" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"><img style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620712330/cen-01.jpg"
+alt="cen-01" height="184" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620682461/cen-02.jpg"
+height="243" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" valign="top" width="708"><img
+style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620712331/cen-03.jpg"
+height="175" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="708"><img
+style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620682463/cen-04.jpg"
+usemap="#map3map" border="0" height="158" width="708" /> <map
+name="Map3Map" id="yiv1858960678Map3Map">
+<area shape="rect" coords="250,116,354,142" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI5" />
+</map></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682464/zovi_pic8.jpg"
+usemap="#map5" style="display:block;" border="0" height="127"
+width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682465/i_mint.jpg"
+style="display:block;" border="0" height="56" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682466/ipin.jpg"
+usemap="#map6map" style="display:block;" border="0" height="62"
+width="708" /> <map name="Map6Map" id="yiv1858960678Map6Map">
+<area shape="rect" coords="571,16,639,39" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI6" />
+</map></td>
+</tr>
+<tr>
+<td align="left" height="154" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td colspan="4" align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682467/info-links-top.jpg"
+ alt="info-links-top" style="display:block;" height="19"
+width="708" /></td>
+</tr>
+<tr>
+<td align="left" height="77" valign="top" width="57"><img
+src="http://mail.payback.in/imgproxy/img/620682468/info-links-lft.jpg"
+ alt="info-links-lft" style="display:block;" height="77"
+width="57" /></td>
+<td align="left" bgcolor="#003399" valign="top" width="372">
+<table border="0" cellpadding="0" cellspacing="0" width="372">
+<tbody>
+<tr>
+<td height="20" width="372"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">Services</span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI0"
+title="PAYBACK online Coupon Center" style="color:#FFFFFF;">PAYBACK
+online Coupon Center</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI1"
+title="Shop and earn online" style="color:#FFFFFF;">Shop and earn
+online</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI2"
+title="Contact &amp; FAQ's"
+style="color:#FFFFFF;">FAQ's</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" bgcolor="#003399" valign="top" width="243">
+<table border="0" cellpadding="0" cellspacing="0" width="243">
+<tbody>
+<tr>
+<td height="20" width="243"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">Manage
+your account</span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI3"
+title="To my account" style="color:#FFFFFF;">Contact
+us</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI4"
+title="To my account" style="color:#FFFFFF;">To my
+account</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/public/unsubscribe.jsp?gid=1200034080&amp;uid=12030660357&amp;mid=1200304001&amp;sig=JJFNPMHHNJHCAACB"
+ title="Newsletter Unsubscribe" style="color:#FFFFFF;">Newsletter
+Unsubscribe</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="36"><img
+src="http://mail.payback.in/imgproxy/img/620682469/info-links-rht.jpg"
+ alt="info-links-rht" style="display:block;" height="77"
+width="36" /></td>
+</tr>
+<tr>
+<td colspan="4" align="left" height="32" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="32" valign="top" width="708"><img
+src="http://mail.payback.in/imgproxy/img/620682470/fblogo.jpg"
+alt="info-links-lft-01" usemap="#map2" style="display:block;"
+border="0" height="32" width="708" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="left" height="26" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682471/info-links-bottom.jpg"
+ alt="info-links-bottom" style="display:block;" height="26"
+width="708" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#E1EAF7" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="39" valign="top" width="25">&#160;</td>
+<td align="left" valign="top" width="658"><font
+style="font-size:10px;font-weight:normal;font-family:Arial, Helvetica, sans-serif;color:rgb(102, 102, 102);text-align:left;">You
+receive this newsletter because you are a member of PAYBACK Loyalty
+Program owned by Loyalty Solutions and Research Private Limited
+("LSRPL"). LSRPL does not guarantee the completeness, accuracy and
+validity of this letter and its contents, including any offers
+stated in it. All offers are subject to the terms and conditions or
+any change to each such individual offer as specified by the
+partners or by LSRPL. This newsletter is a copyright of LSRPL and
+may not be reproduced without permission of LSRPL. The "PAYBACK"
+brand and trademark is owned by PAYBACK GmbH and "i-mint" brand and
+trademark is owned by LSRPL. All other brand names and trademarks
+are owned by their respective owners. Links to other sites on the
+newsletter do not imply approval or endorsement of the content at
+those links. LSRPL takes no responsibility for any loss or damage
+suffered as a result of using the linked Websites or as a result of
+using the information published on any of the pages of the linked
+Websites. All products /rewards herein are offered by LSRPL's
+outsourced third party Vendors directly. Every effort has been made
+to properly capitalize, punctuate, identify and attribute
+trademarks and trade names to their respective owners, including
+the use of =C2=AE and =84=A2 (TM ) wherever possible and practical.
+LSRPL shall not assume any legal liability or responsibility for
+any consequences, direct or indirect arising out of the use/misuse
+of any such information /trademark from this material, whatsoever.
+This promotion is open for all residents of India. However,
+residents of the State of Tamil Nadu and other States where
+applicable laws prohibit participation in the sweepstakes or any
+kind of such contest /offer or lucky draw, the sweepstakes, if any,
+will be not be applicable. To stop receiving these emails please
+click on the newsletter unsubscribe button above.</font></td>
+<td align="left" valign="top" width="25">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<map name="Map2" id="yiv1858960678Map2">
+<area shape="rect" coords="629,4,652,29" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI7" />
+</map><map name="Map4" id="yiv1858960678Map4">
+<area shape="rect" coords="31,23,159,70" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI8" />
+</map><map name="Map5" id="yiv1858960678Map5">
+<area shape="rect" coords="526,40,620,53" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI9" />
+<area shape="rect" coords="510,95,600,107" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxIa" />
+</map></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail2' class='mails'>
+<div id='mailcount'>Mail - 2</div>
+<div id='mailbody'>
+<div id='mailheader'>Aparna showed interest in your profile..<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:18:23 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Aparna
+&lt;aparna8@moneybazar.biz&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Wednesday, 1
+August 2012 6:10 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Aparna
+showed interest in your profile..<br />
+</font></div>
+<br />
+<div id="yiv2143081907">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr align="center">
+<td><a rel="nofollow" target="_blank"
+href="http://fundbazzar.zeemail.in/fundbazzar/lt.php?id=LUhTBggCUQEDUkUGBAFQAE0=BFQEVwAJBgofU1FMFAcVFgZQdkFfA1xaS1pZWQ==">View
+this message in your browser</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><b>Hi,<br />
+<br />
+Getting a right partner should be a matter of choice<br />
+<br />
+<a rel="nofollow" target="_blank"
+href="http://fundbazzar.zeemail.in/fundbazzar/lt.php?id=LUhTBggCUAMDUEUGBAFQAE0=BFQEVwAJBgofU1FMFAcVFgZQdkFfA1xaS1pZWQ==">Click
+here to Search from millions of profiles.</a><br />
+<br />
+Regards<br />
+<br />
+Aparna</b><br />
+</div>
+<br />
+<br />
+<div class="yiv2143081907emailfooter">
+<div>--<br />
+To unsubscribe from further emails, <a rel="nofollow"
+target="_blank"
+href="http://fundbazzar.zeemail.in/fundbazzar/lt.php?id=LUhTBggCUQEDXUUGBAFQAE0=BFQEVwAJBgofU1FMFAcVFgZQdkFfA1xaS1pZWQ==">this
+link</a><br />
+<br />
+</div>
+</div>
+<img
+src="http://fundbazzar.zeemail.in/fundbazzar/ut.php?m=345&amp;u=c1e04da3ae67fef2a7328376b3c3a5c6"
+ border="0" /></div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail3' class='mails'>
+<div id='mailcount'>Mail - 3</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: About Small Biz Canada: 7 Ways to Beat
+Summer Slowdown<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:18:45 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Susan Ward -
+About.com Small Biz Canada Guide
+&lt;newsletters@about.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@YMAIL.COM<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 6:57 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> About
+Small Biz Canada: 7 Ways to Beat Summer Slowdown<br />
+</font></div>
+<br />
+<div id="yiv744298335">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="832">
+<tbody>
+<tr>
+<td>
+<center><a rel="nofollow" style="text-decoration:none;"
+target="_blank"
+href="http://clk.about.com/?zi=1/1UY&amp;sdn=sbinfocanada&amp;zu=http://specials.about.com/service/newsletters/sbinfocanada/1343696400.htm"><font
+ color="#5C5C5C" face="Arial, Helvetica, sans-serif" size="2">If
+you can't see this email, <u>click here</u></font></a></center>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="832">
+<tbody>
+<tr>
+<td bgcolor="#FF3400" height="3"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="832">
+<tbody>
+<tr>
+<td bgcolor="#EBE6DB" width="2"></td>
+<td bgcolor="#ffffff" width="830">
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0"
+width="830">
+<tbody>
+<tr>
+<td width="18"></td>
+<td align="left" valign="top" width="190">
+<div style="margin:26px 0 0 0;"><a rel="nofollow" target="_blank"
+href="http://www.about.com/?nl=1"><img
+src="http://0.tqn.com/f/d/an10.gif" alt="About.com" border="0"
+height="28" width="186" /></a></div>
+</td>
+<td align="left" valign="top">
+<div style="margin:15px 0 0 0;"><a rel="nofollow"
+style="text-decoration:none;" target="_blank"
+href="http://glclk.about.com/?zi/Gql3"><font
+style="font-size:40px;" color="#A69E8C"
+face="Georgia, Times New Roman, Times, serif" size="6">Small Biz
+Canada</font></a></div>
+</td>
+<td align="center" valign="middle" width="100"></td>
+</tr>
+</tbody>
+</table>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0"
+width="830">
+<tbody>
+<tr>
+<td><img src="http://0.tqn.com/f/d/news.jpg" height="26"
+width="828" /></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="830">
+<tbody>
+<tr>
+<td bgcolor="#EBE6DB" height="1"></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" height="25"
+width="830">
+<tbody>
+<tr>
+<td height="25" width="95"></td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql3">Small Biz
+Canada</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql6">Start
+Up</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql7">Manage &amp;
+Grow</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql8">Tools &amp;
+Tech</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td height="25" width="95"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#EBE6DB" height="1"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="830">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="19"><br />
+</td>
+<td valign="top"><br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="540">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="540">
+<tbody>
+<tr>
+<td valign="top" width="90"><a rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1"><img
+ src="http://0.tqn.com/d/g/6453.jpg" border="0" height="65"
+width="65" /></a></td>
+<td>
+<div><font color="#777777" face="Georgia,Times New Roman,serif"
+size="2"><b><i>From <a rel="nofollow"
+style="color:#36C;text-decoration:none;" target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1">Susan
+Ward</a>, your Guide to Small Biz Canada</i></b></font></div>
+<div style="line-height:18px;margin:12px 0;">
+<div><font color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">This is the
+season when I curse the fact my office has a window. If it didn't,
+I wouldn't be able to see how nice it is outside and spurred to
+concentrate on all the fun things I could be doing out there
+instead of concentrating on my work.</font></div>
+<div><font color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">But I'll keep
+at it because over the years I've learned how to cope with the
+I-am-the-only-person-in-the-universe-working-and-its-hot-and-sunny-out
+feeling - and just in case you're having trouble getting down to
+it, I'm sharing my knowledge in today's lead article, 7 Ways to
+Bear Summer Slowdown.</font></div>
+<div><font color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">I also need
+to mention today that GST/HST is due tomorrow for last quarter. If
+you're curious, I've laid out <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2Fb%2F2012%2F07%2F27%2Ftime-to-file-gst-hst-again-and-the-penalty-if-you-dont.htm%3Fnl%3D1">the
+penalties for late filing here</a>.</font></div>
+<div>Scroll down to find 5 Ways Your Business Can Make More Money
+and How to Remember Names among other things.</div>
+<div>And your daily vote matter so much - please <a rel="nofollow"
+target="_blank"
+href="http://influencers.smallbiztrends.com/small-business-journalists-2012/susan-ward-1/">vote
+for me</a> and <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Finfluencers.smallbiztrends.com%2Fsmall-business-experts-2012%2Fgregory-alyssa-2%2F%3Fnl%3D1">for
+my colleague, Alyssa Gregory</a> all this week. :-)</div>
+<div>And as always, please forward this newsletter, in its
+entirety, to your colleagues, coworkers and friends, because you
+want to add value to their work and lives. And don't forget to <a
+rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2F%3Fnl%3D1">check
+out my blog</a> in the center column on the website's home page;
+there's a new entry every day.</div>
+<div>Wishing you a productive, profitable week,</div>
+<div>Susan</div>
+<div><a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2F%3Fnl%3D1">Website</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fwww.facebook.com%2FSmallBizCanada%3Fsk%3Dwall%26nl%3D1">Facebook</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Ftwitter.com%2FSmallBizCanada%3Fnl%3D1">Twitter</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=https%3A%2F%2Fplus.google.com%2Fu%2F0%2F112270862214545903654%2Fposts%3Fnl%3D1">Google+</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fwww.linkedin.com%2Fpub%2Fsusan-ward%2F1%2F34%2F7a8%3Fnl%3D1">LinkedIn</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2Fgi%2Fpages%2Fstay.htm%3Fnl%3D1">Free
+Newsletters</a></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><br />
+ <font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqkt">7 Ways to Beat Summer
+Slowdown and Get Your Work Done</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="margin-bottom:6px;" color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">When you're
+finding it hard to resist the siren call of summer and focus on the
+work you should be doing for clients, keep your work motivation and
+productivity high with these seven tips.</font></div>
+<div style="color:#666666;font:11px Verdana;padding:0px 8px;"><span
+style="font-weight:bold;">See More About:&#160;&#160;</span><a
+rel="nofollow" style="font:11px Verdana;padding-left:2px;"
+target="_blank"
+href="http://sbinfocanada.about.com/lr/motivation/1820314/1/?nl=1">motivation</a>&#160;
+<a rel="nofollow" style="font:11px Verdana;padding-left:2px;"
+target="_blank"
+href="http://sbinfocanada.about.com/lr/business_motivation/1820314/2/?nl=1">business
+motivation</a>&#160; <a rel="nofollow"
+style="font:11px Verdana;padding-left:2px;" target="_blank"
+href="http://sbinfocanada.about.com/lr/increasing_productivity/1820314/3/?nl=1">increasing
+productivity</a></div>
+<br />
+</td>
+</tr>
+<tr>
+<td><font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;margin-bottom:6px;"
+target="_blank" href="http://glclk.about.com/?zi/Gqku">Time to File
+GST / HST Again - And the Penalty If You Don't</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="margin-bottom:6px;" color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">GST / HST is
+due July 31st for the reporting period April 1 through June 30th.
+And you don't want to file late because of tax penalties... <a
+rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gqku&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2Fb%2F2012%2F07%2F27%2Ftime-to-file-gst-hst-again-and-the-penalty-if-you-dont.htm%3Fnl%3D1">Read
+more</a></font></div>
+<div style="color:#666666;font:11px Verdana;padding:0px 8px;"><span
+style="font-weight:bold;">See More About:&#160;&#160;</span><a
+rel="nofollow" style="font:11px Verdana;padding-left:2px;"
+target="_blank"
+href="http://sbinfocanada.about.com/lr/goods_and_services_tax/1816321/1/?nl=1">goods
+and services tax</a>&#160; <a rel="nofollow"
+style="font:11px Verdana;padding-left:2px;" target="_blank"
+href="http://sbinfocanada.about.com/lr/harmonized_sales_tax/1816321/2/?nl=1">harmonized
+sales tax</a>&#160; <a rel="nofollow"
+style="font:11px Verdana;padding-left:2px;" target="_blank"
+href="http://sbinfocanada.about.com/lr/filing_gst/1816321/3/?nl=1">filing
+gst</a></div>
+<br />
+</td>
+</tr>
+<tr>
+<td><font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;margin-bottom:6px;"
+target="_blank" href="http://glclk.about.com/?zi/Gqkv">Trade Shows
+vs. Cold Calling - Which is Best?</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="color:#333333;margin-bottom:6px;"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">Are they
+really worth all the time, money and craziness that goes along with
+them? Or is cold calling a better use of time? Read my
+reply.</font></div>
+<br />
+</td>
+</tr>
+<tr>
+<td><font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;margin-bottom:6px;"
+target="_blank" href="http://glclk.about.com/?zi/Gqkw">Why Buying a
+Franchise Is a Very Good Thing: BMO Study</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="color:#333333;margin-bottom:6px;"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">Find out why
+current franchise owners chose to buy franchises rather than start
+their own businesses and why buying a franchise can be the best
+route to success - for some.</font></div>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="18">&#160;</td>
+<td width="540">
+<div style="margin-left:0;padding:4px;"><img
+src="http://nlsl.about.com/img?nl=sbinfocanada&amp;ts=1343696400&amp;uid=36819&amp;channel=about_newsletters_sbinfocanada%20test0&amp;url=http%3A%2F%2Fspecials.about.com%2Fservice%2Fnewsletters%2Fsbinfocanada%2F1343696400.htm&amp;adtest=off"
+ usemap="#nlsl_map" border="0" /><map id="nlsl_map"
+name="nlsl_map">
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=0"
+ coords="0,25,196,37" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=0"
+ coords="0,55,235,67" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=1"
+ coords="0,80,196,92" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=1"
+ coords="0,110,235,122" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=2"
+ coords="0,135,196,147" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=2"
+ coords="0,165,235,177" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=3"
+ coords="0,190,196,202" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=3"
+ coords="0,220,235,232" />
+</map></div>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" height="2"
+width="570">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+<td bgcolor="#F7F5F1" height="2" width="534"></td>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+</tr>
+</tbody>
+</table>
+<br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="20"></td>
+<td valign="top" width="230"><font style="color:#36C;"
+face="Georgia, Times New Roman, Times, serif" size="2"><font
+color="#777777" face="Georgia, Times New Roman, Times, serif"
+size="4">Small Business: Canada Ads<br />
+</font></font>
+<ul style="color:#888;margin:8px 0pt 0pt 15px;padding:0;">
+<li style="font-size:11px;margin-bottom:6px;"><font
+style="color:#36C;" face="Georgia, Times New Roman, Times, serif"
+size="2"><font color="#FD340A" face="arial" size="2"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Franchise%20Business&amp;d=Franchise%20Business&amp;r=Franchise%20Business&amp;nl=1">Franchise
+Business</a></font></font></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Sales%20Tax&amp;d=Sales%20Tax&amp;r=Sales%20Tax&amp;nl=1">Sales
+Tax</a></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Business%20Plan%20Sample&amp;d=Business%20Plan%20Sample&amp;r=Business%20Plan%20Sample&amp;nl=1">Business
+Plan Sample</a></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Best%20Business%20Ideas&amp;d=Best%20Business%20Ideas&amp;r=Best%20Business%20Ideas&amp;nl=1">Best
+Business Ideas</a></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Sample%20Business%20Plan&amp;d=Sample%20Business%20Plan&amp;r=Sample%20Business%20Plan&amp;nl=1">Sample
+Business Plan</a></font></li>
+</ul>
+</td>
+<td width="20"></td>
+<td bgcolor="#F7F5F1" width="2"></td>
+<td width="20"></td>
+<td valign="top" width="240">
+<div style="margin:0 0 0 12px;padding:0;"><font
+style="color:#777777;"
+face="Georgia, Times New Roman, Times, serif" size="4">Featured
+Articles</font></div>
+<table style="margin-top:3px;" border="0" cellpadding="4"
+cellspacing="2">
+<tbody>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqkx">How to Remember
+Names</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqky">7 Government Grants Your
+Business May Qualify For</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqkz">Top Lightweight Portable
+Projectors</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gql0">Sample Misson
+Statements</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gql1">How to Write a Mission
+Statement</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gql2">5 Ways Your Business Can
+Make More Money</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" height="2"
+width="570">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+<td bgcolor="#F7F5F1" height="2" width="534"></td>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="10" width="500">&#160;</td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="20"></td>
+<td valign="top" width="230">
+<div><i><font color="#777777"
+face="Georgia, Times New Roman, Times, serif" size="2">More from
+About.com</font></i></div>
+</td>
+<td width="20"></td>
+<td></td>
+<td width="20"></td>
+<td width="240"></td>
+</tr>
+<tr>
+<td width="20"></td>
+<td valign="top" width="230"><font
+face="Georgia, Times New Roman, Times, serif" size="3"><a
+rel="nofollow"
+style="font-size:17px;color:#36C;text-decoration:none;"
+target="_blank" href="http://glclk.about.com/?zi/Gql4">Free
+Children's Books</a></font> <font
+style="color:#333333;font-size:11px;"
+face="Verdana, Arial, Helvetica, sans-serif"><br />
+How would you like to have access to a free online public library
+of books from around the world for kids 3 to 13? <a rel="nofollow"
+target="_blank"
+href="http://glclk.about.com/?zi/Gql4&amp;zu=http%3A%2F%2Fclk.about.com%2F%3Fzi%3D1%2F1%5DM%26zu%3Dhttp%3A%2F%2Fchildrensbooks.about.com%2Fcs%2Fonlineliterature%2Fa%2Ficdl.htm%26nl%3D1">Read
+more...&gt;</a><br />
+<br />
+</font><br />
+<br />
+</td>
+<td width="20"></td>
+<td bgcolor="#F7F5F1" width="2"></td>
+<td width="20"></td>
+<td valign="top" width="240"><font
+face="Georgia, Times New Roman, Times, serif" size="3"><a
+rel="nofollow"
+style="font-size:17px;color:#36C;text-decoration:none;"
+target="_blank" href="http://glclk.about.com/?zi/Gql5">Best Water
+Parks</a></font> <font style="color:#333333;font-size:11px;"
+face="Verdana, Arial, Helvetica, sans-serif"><br />
+Better pack your bathing suit -- here are our recommendations for
+the funnest, wettest, splashiest water parks around. <a
+rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql5&amp;zu=http%3A%2F%2Fclk.about.com%2F%3Fzi%3D1%2F1%5DM%26zu%3Dhttp%3A%2F%2Fthemeparks.about.com%2Fod%2Fwaterparkfeaturearticles%2Fss%2FBest-Water-Theme-Parks.htm%26nl%3D1">Read
+more...&gt;</a><br />
+<br />
+</font><br />
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="467">
+<tbody>
+<tr>
+<td width="18"></td>
+<td valign="top"><font style="line-height:160%;color:#5c5c5c;"
+face="Georgia, Times New Roman, Times, serif" size="2">This
+newsletter is written by:</font><br />
+ <font face="Georgia, Times New Roman, Times, serif" size="3"><a
+rel="nofollow"
+style="color:#36C;font-size:17px;text-decoration:none;"
+target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1">Susan
+Ward</a></font><br />
+ <font style="font-size:11px;color:#5c5c5c;"
+face="Verdana, Arial, Helvetica, sans-serif">Small Biz Canada
+Guide</font><br />
+ <font style="color:#5c5c5c;line-height:160%;font-size:11px;"
+face="Verdana, Arial, Helvetica, sans-serif"><a rel="nofollow"
+style="color:#ff6600;text-decoration:none;" target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1">Email
+Me</a> | <a rel="nofollow"
+style="color:#ff6600;text-decoration:none;" target="_blank"
+href="http://sbinfocanada.about.com/b/?nl=1">My Blog</a> | <a
+rel="nofollow" style="color:#ff6600;text-decoration:none;"
+target="_blank" href="http://sbinfocanada.about.com/forum/?nl=1">My
+Forum</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" width="500">&#160;</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td width="20"></td>
+<td><font style="font-size:11px;color:#333333;"
+face="Verdana, Arial, Helvetica, sans-serif"><b><a rel="nofollow"
+target="_blank" href="http://clk.about.com/?zi=4/XR&amp;nl=1"
+style="color:#36c;">Sign up</a></b> for more free newsletters on
+your favorite topics</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="570">
+<tbody>
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td height="1" width="11"></td>
+<td><font style="font-size:11px;color:#333;"
+face="Verdana, Arial, Helvetica, sans-serif">You are receiving this
+newsletter because you subscribed to the About.com Small Biz Canada
+newsletter. If you wish to change your email address or
+unsubscribe, please <a rel="nofollow" target="_blank"
+href="http://www.about.com/nl/usgs.htm?nl=sbinfocanada&amp;e=gauravs23@YMAIL.COM">click
+here</a>.<br />
+<br />
+ About.com respects your privacy: <a rel="nofollow" target="_blank"
+href="http://www.about.com/gi/pages/mprivacy.htm?nl=1"
+style="color:#36c;">Our Privacy Policy</a><br />
+<br />
+ Contact Information:<br />
+249 West 17th Street<br />
+New York, NY, 10011<br />
+<br />
+ 2012 About.com</font></td>
+</tr>
+<tr>
+<td>&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#EEEEEE" valign="top" width="240">
+<table border="0" cellpadding="0" cellspacing="0" width="240">
+<tbody>
+<tr>
+<td width="13"></td>
+<td align="left" height="25"><br />
+<br />
+ 
+<div style="margin:0 0 0 12px;padding:0;"><font
+style="color:#5C5C5C;"
+face="Georgia, Times New Roman, Times, serif" size="4">Must
+Reads</font></div>
+<table style="margin-top:3px;" border="0" cellpadding="4"
+cellspacing="2">
+<tbody>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/Gql9">The Best
+Business Opportunities of 2012</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlA">8 Rules for
+Good Customer Service</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlB">Starting a
+Business FAQs</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlC">Steps to
+Starting a Business in Canada<br />
+</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlD">Business
+Plan Outline</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="5" width="5">&#160;</td>
+</tr>
+<tr>
+<td height="1" width="5"></td>
+<td align="left">
+<div style="margin:0 0 0 5px;padding:0;"><font
+style="color:#5C5C5C;"
+face="Georgia, Times New Roman, Times, serif" size="4">Follow me
+on:</font></div>
+</td>
+</tr>
+<tr>
+<td height="1" width="5"></td>
+<td align="left">
+<table width="171">
+<tbody>
+<tr>
+<td align="center" width="85"><a rel="nofollow" target="_blank"
+href="http://clk.about.com/?zi=11/1nj&amp;zu=http://www.facebook.com/SmallBizCanada"><img
+ src="http://0.tqn.com/f/nl/fb2.png" alt="Facebook" border="0"
+height="22" width="84" /></a></td>
+<td bgcolor="#EBE6DB" width="1"></td>
+<td align="center" width="85"><a rel="nofollow" target="_blank"
+href="http://clk.about.com/?zi=11/1nk&amp;zu=http://twitter.com/SmallBizCanada"><img
+ src="http://0.tqn.com/f/nl/tw2.png" alt="Twitter" border="0"
+height="22" width="84" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="1" width="5"></td>
+<td align="center" valign="top"><br />
+ <font color="#5C5C5C" face="arial"
+size="2">Advertisement</font><br />
+ <a rel="nofollow" target="_blank"
+href="http://ad.doubleclick.net/jump/newsletters.about.com/money_sbinfocanada;site=sbinfocanada;kw=;chan=money;sz=160x600;dcove=r;ord=134369640036819"><img
+ src="http://ad.doubleclick.net/ad/newsletters.about.com/money_sbinfocanada;site=sbinfocanada;kw=;chan=money;sz=160x600;dcove=r;ord=134369640036819"
+ border="0" height="600" width="160" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#EBE6DB" height="1" width="100%"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#EBE6DB" width="2"><img
+src="http://pixel3.about.com/mp/pixel/pixel.cgi?partner=sbinfocanada_20120730"
+ height="1" width="1" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

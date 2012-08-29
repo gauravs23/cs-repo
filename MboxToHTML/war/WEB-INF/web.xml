@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://java.sun.com/xml/ns/javaee"
+xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+
+	<welcome-file-list>
+		<welcome-file>fileupload.jsp</welcome-file>
+	</welcome-file-list>
+	
+	<servlet>
+		<servlet-name>DownloadPdfJsp</servlet-name>
+		<jsp-file>/WEB-INF/jsp/downloadpdf.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadPdfJsp</servlet-name>
+		<url-pattern>/downloadpdf</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+		<servlet-name>FileUploadServlet</servlet-name>
+		<servlet-class>
+		com.cs.fileupload.FileUploadServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>FileUploadServlet</servlet-name>
+		<url-pattern>/fileuploadservlet</url-pattern>
+	</servlet-mapping>	
+	
+	<servlet>
+		<display-name>ParseMbox</display-name>
+		<servlet-name>ParseMbox</servlet-name>
+		<servlet-class>com.cs.converter.ParseMbox</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ParseMbox</servlet-name>
+		<url-pattern>/parsembox</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>GenerateHTMLServlet</servlet-name>
+		<servlet-class>com.cs.download.GenerateHTML</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GenerateHTMLServlet</servlet-name>
+		<url-pattern>/generatehtml</url-pattern>
+	</servlet-mapping>	
+	
+	
+</web-app>

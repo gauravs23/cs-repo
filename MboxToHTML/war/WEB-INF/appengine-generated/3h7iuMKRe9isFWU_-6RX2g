@@ -1,0 +1,1189 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+function hideShow(num,count){hideAll(count);document.getElementById('mail'+num).style.display='block';}function hideAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color  :       #C8E2EB;}#main{font-family      :       sans-serif;font-size            :       14px;width                      :       auto;margin-left        :       100px;margin-right      :       100px;height                    :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #D455FF;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       10px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:20px;color:    black;}#mailcontent{padding:10px;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+<style type="text/css">
+/*<![CDATA[*/
+<!--#yiv488418771   _filtered #yiv488418771 {font-family:"Cambria Math";panose-1:2 4 5 3 5 4 6 3 2 4;} _filtered #yiv488418771 {font-family:Calibri;panose-1:2 15 5 2 2 2 4 3 2 4;} _filtered #yiv488418771 {font-family:"Trebuchet MS";panose-1:2 11 6 3 2 2 2 2 2 4;}#yiv488418771  #yiv488418771 p.yiv488418771MsoNormal, #yiv488418771 li.yiv488418771MsoNormal, #yiv488418771 div.yiv488418771MsoNormal{margin:0cm;margin-bottom:.0001pt;font-size:12.0pt;font-family:"serif";}#yiv488418771 a:link, #yiv488418771 span.yiv488418771MsoHyperlink{color:blue;text-decoration:underline;}#yiv488418771 a:visited, #yiv488418771 span.yiv488418771MsoHyperlinkFollowed{color:purple;text-decoration:underline;}#yiv488418771 .yiv488418771MsoChpDefault{}#yiv488418771 .yiv488418771MsoPapDefault{margin-bottom:10.0pt;line-height:115%;} _filtered #yiv488418771 {margin:72.0pt 72.0pt 72.0pt 72.0pt;}#yiv488418771 div.yiv488418771Section1{}-->
+/*]]>*/
+</style>
+<title>::: Transcend Info :::</title>
+<title>Untitled Document</title>
+</head>
+<body onload='hideShow(1,17);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='page1' onclick='hideShow(1,6)'
+href='javascript:void(0)'>1</a> <a id='page2'
+onclick='hideShow(2,6)' href='javascript:void(0)'>2</a> <a
+id='page3' onclick='hideShow(3,6)' href='javascript:void(0)'>3</a>
+<a id='page4' onclick='hideShow(4,6)'
+href='javascript:void(0)'>4</a> <a id='page5'
+onclick='hideShow(5,6)' href='javascript:void(0)'>5</a> <a
+id='page6' onclick='hideShow(6,6)' href='javascript:void(0)'>6</a>
+<a id='showall' onclick='showAll(6)' href='javascript:void(0)'>Show
+All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Greetings from
+TATA_DOCOMO_SERVICE_Representative-(BILL AMOUNT and DUE_DATE)<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 1 Jul 2012 18:30:48 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Sreedhar
+&lt;sreedhar.tatadocomo@lotus.ind.in&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 1
+July 2012 2:03 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Greetings
+from TATA_DOCOMO_SERVICE_Representative-(BILL AMOUNT and
+DUE_DATE)<br />
+</font></div>
+<br />
+<div id="yiv488418771">
+<div>
+<div class="yiv488418771Section1">
+<div class="yiv488418771MsoNormal" style=""><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Dear <b>GAURAV</b></span><span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&#160;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">At the outset we thank you for choosing Tata Tele
+ServicesLimited as the preferred service provider.</span> <span
+lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&#160;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">We have observed that you have been a loyal customer
+of TataDOCOMO A/c No. <b>910157006</b> since <b>1/11/2012</b> =A6!
+Kindly requestyou to share your valuable feedback for further
+assistance on service. If thereis any unresolved issues please
+write or do call us on the below contactdetails for follow up &amp;
+closures.</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&#160;</span> <span lang="EN-US"><br />
+</span><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Account Status-ACTIVE</span></b> <span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Currentoutstanding Rs. 618 /- Kindly request you to
+pay the bill before due date 3<sup>rd</sup>JULY to avoid Late Pay
+Fee. If already paid please keep in touch with us.</span> <span
+lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&#160;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">For online payment please click the following URL;
+-</span> <span lang="EN-US"><a rel="nofollow" target="_blank"
+href="http://www.billdesk.com/tataindicom/html/instantPay_billdetails.htm"><span
+ style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;">http://www.billdesk.com/tataindicom/html/instantPay_billdetails.htm</span></a></span>
+<span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">, Cheque or Cash will be collected @ your preferred
+address,date &amp; time..!</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&#160;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">It=99s our privilege to have you as our valued
+customer&amp; would like thank you for your continued patronage. We
+look forwarded to avery warm &amp; fruitful long standing
+association with you.</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&#160;</span> <span lang="EN-US"><br />
+</span><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">SREEDHAR</span></b></div>
+<div class="yiv488418771MsoNormal" style=""><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Customer Relationship Executive</span></b> <span
+lang="EN-US"><br />
+</span><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Tata Tele Enterprise Business Services
+Karnataka.</span></b> <span lang="EN-US"><br />
+</span><b><u><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Contact No- <i>9243602924</i> -Monday to Saturday
+from 9.30AM to6.30PM</span></u></b></div>
+<div class="yiv488418771MsoNormal">&#160;</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail2' class='mails'>
+<div id='mailcount'>Mail - 2</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: NEELAM.ROHTELA wants to meet you.<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 1 Jul 2012 18:30:58 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> StepOut Alerts
+&lt;delivery@stepout.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 1
+July 2012 1:04 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b>
+NEELAM.ROHTELA wants to meet you.<br />
+</font></div>
+<br />
+<div id="yiv1993439159">
+<div>
+<table
+style="width:100% !important;line-height:100% !important;font-size:1em;background-color:#f2f2f2;margin:0;padding:0;"
+ bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-collapse:collapse;">
+<table style="font-size:1em;padding:0.5em 0;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-collapse:collapse;" align="right" valign="top"
+width="640"><a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFRvI67VDuHu-2Fn3kIhY8iltnwIQ4rJeKHThPDnQENWXFm-2F88BEinrUz4J5Zs2KTcpyQ-2FqePmkvfywgitkW7ywodfqfxVbOLRIVvJQIN1AiBQawEYJ07XBdICSPzysRTORHiZHnf64I6EUrHOrUsPnMxLpKadRMbLi3TE9O-2FziTdB0qydD-2BcCuXx2XHaPOwrlXk0oiV88FcoF0ScREb5UVrBCDqVbQxCUKM2sKlQPKyUnSP1APPFCnDX2Y-2BCvb2cczYy3dTFOKoDDGuJcy-2FmBaVdz1a8CNaQcTOpA3bRDrGvJT-2FpcyF6UyiJgnvW18HY-2FvsOtirmerPmZl2yORaYbdx06pmmL-2BVPpWFuf60kuFvkBs_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHocsvhJmj5VENMcAwGllfEN3ok1dvvtWDeQ0AAv1w9HKX7UavUmPO-2FPg7aIcYe6pVyxwkv6k37bS2f15m8TUteOJJzyTqVMuMumRR4PlAnpDCekLZkAS2bsPnOjzvtPwoaj78E3GBawCg2HNX8INybQ-3D-3D"
+ style="color:#056a90;text-decoration:none;text-shadow:1px 1px 1px;">Report
+Spam</a> | <a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFRvI67VDuHu-2Fn3kIhY8iltnwIQ4rJeKHThPDnQENWXFm-2F88BEinrUz4J5Zs2KTcpyQ-2FqePmkvfywgitkW7ywodfqfxVbOLRIVvJQIN1AiBQawEYJ07XBdICSPzysRTORHiZHnf64I6EUrHOrUsPnMxLpKadRMbLi3TE9O-2FziTdB0qydD-2BcCuXx2XHaPOwrlXk0oiV88FcoF0ScREb5UVrBCDqVbQxCUKM2sKlQPKyUnSP1APPFCnDX2Y-2BCvb2cczYy3dTFOKoDDGuJcy-2FmBaVdz1a8CNaQcTOpA3bRDrGvJT-2FpcyF6UyiJgnvW18HY-2FvsOtirmerPmZl2yORaYbdx06pmmL-2BVPpWFuf60kuFvkBs_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHQnglwfjZtXGf-2FRT27MEeoXxc-2Fd2bFQbkb1XQRm1ehL88QWPyLueWcOPMqPcPoXoYTpe3pSqJlJKgQjrHKDJoic0VNOhkNnxc8Gej4cm4f-2Fan7YGo8LI8pHYp6UDdoPu7gMcA0G1IiZdgpnWApkfiZA-3D-3D"
+ style="color:#056a90;text-decoration:none;text-shadow:1px 1px 1px;">Unsubscribe</a>
+| <a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFfoy11oloDupf7pWp-2F-2FvVs5aiIijf00RqzeE619SYnA7VFeCBp70qClTQ2ba1V9J4mxd0SjE4x1JRTObLU6-2B95gFR86qCVmLmGk9sFVfHXUKh0ObvsOfz-2FlErME20-2Bkcy6bJxe4ChqArnfJq3lvEHTc6PfJbz-2FLXwHMsnREwRekd2rEJH6HrA7Z0vnplNMCOzxS-2BTpywRTy9WmXrOjJX6gIKce8DxykZnC1csS0eKZ-2BJZL7aOuHjMWBvahWkmSZ-2F8QwzOBTJueEedgxKL-2BvArKfOIu45YWiuGgHKO8bjsl0bD0Qwd0KJIcv1JxblVFgpNxv-2BXHSTZIcyovTvY6VLioZSopwxuNaJzv0qBxWp8g7n_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHRZB3rlIDawHf0Uacapj2btn9RJXfy2nQlQwboKTZunctE3Q3PhvlUIYU-2ByKKJAGBIaD-2Fyp7-2F-2FQ7WGJUo0FryceCb1vrKugdob73ay4EYf5OJBeszEk3jiKEZoK8L95sFoO5JBZJeo3e54Pu2013QWA-3D-3D"
+ style="color:#056a90;text-decoration:none;text-shadow:1px 1px 1px;">Contact
+Us</a></td>
+</tr>
+</tbody>
+</table>
+<table style="font-size:1em;" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-collapse:collapse;" valign="top" width="640"><a
+rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFcnnpYnBrukTolOERef6GWy3zHdXKBfMiqtUo3hn6FFygSZZiv79HC39q-2F5uar5Y38BALhrL0ddsyHH6-2FrCOxsu88KZA1fOR2aJ5PCvqEraTovzhCMyG23P62k0mUagGUm98dPqb2BLDCsA5Uen2C43Z-2FE9S-2BHjRReXZL5D1ZvYrdKgSnFwk5wmUsO-2BOBlx5qNOz8gPP01NdPUAloghWyIoxCJe-2Bux1scMdmzNZnoo25Ck-2BTWbfKccLnAhkHHsSHPoQDxtSVpG4hQ8-2Bepl4Ndm-2BRVy4ApSqogcExfVlExJdbQ-2FjH204-2FFKlhQxatF3gQJJmCtN50R0zzgHvsWXoIlyqF56J75-2FR0ALzZP5u9r-2B8u_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuH5t3WMbLY32DNX8IXAGKqANimhHvmY-2F1HKYv94nbbmn53EZ4tyrXDakUJrw3rUDQE-2Bzr9r63lOAt8wLmDcRz9dTM90CWetFe5JgYk5zaasJ1Coed-2F953wXpWCX21g57x8t6UKgyBFsCDx4DPTcmcQ2A-3D-3D"
+ style="color:#056a90;text-decoration:none;text-shadow:1px 1px 1px;"><img
+ src="http://i1.stepoutcdn.com/www.stepout.com/SI/f2a0980c176ada/Emails/header.png"
+ alt="StepOut - New people. Fun experiences. Real life relationships. Make it happen."
+ class="yiv1993439159image_fix"
+style="outline:none;text-decoration:none;display:block;border:none;"
+ height="128" width="640" /></a></td>
+</tr>
+</tbody>
+</table>
+<table style="font-size:1em;" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-collapse:collapse;" valign="top" width="640"><img
+src="http://i3.stepoutcdn.com/www.stepout.com/SI/f2a0980c176ada/Emails/gradient.png"
+ alt="" class="yiv1993439159image_fix"
+style="outline:none;text-decoration:none;display:block;"
+height="57" width="640" /></td>
+</tr>
+</tbody>
+</table>
+<table class="yiv1993439159body"
+style="font-size:1em;background-color:#FFF;" align="center"
+bgcolor="#FFF" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-collapse:collapse;" width="30"></td>
+<td style="border-collapse:collapse;" width="580"><br />
+<br />
+<table style="font-size:1em;width:400px;" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-collapse:collapse;" valign="top"><span
+style="font-size:1.3em;line-height:1.3em;">Hi Gaurav,</span><br />
+</td>
+</tr>
+<tr>
+<td style="border-collapse:collapse;text-align:center;"
+valign="top">
+<h1
+style="color:#333;font-size:2.2em;font-weight:lighter;line-height:1.2em;text-align:left;white-space:nowrap;">NEELAM.ROHTELA
+wants to meet you</h1>
+<div style="font-size:1.3em;line-height:1.2em;text-align:left;">She
+is looking for new friends like you. Get to know her. Chat or send
+her a message. She might even be the one you are looking for.</div>
+<img
+src="http://i1.stepoutcdn.com/www.stepout.com/Images0.f.y.n.225.225.f2a0980c176ada.jpg" /><a
+ rel="nofollow" style="color:#F53F79;text-decoration:none;"
+target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFXZdyOFfxs9w-2BfjYdwmj49o75jvZSDNUsvyVswd7-2FPMooaOYyjNWnY7lP-2B8cj95P5S4nd6ybPGeOaLBrKoEEpqDOmGZmhMOBrNUlAsvmtSjQJB7FIi06e4q3mpUCfhuFOj3lVdlP6rm5rIvAFmOtiOwcNroP1h4kMOWcgGe9ZuLAX5cq515N-2FFZsDz0STrYLj24iarL-2F5sFw8gVafleB-2FXMa5xFP1-2FuwgRhFuTUlMEE0uEouowK-2BRgQ6QXRXB0WKhrnU2t-2B2-2FapwxIODfCDpqTiLIl8kDmvKR78eacEF-2FDeETx4MiyoDYDI8tOWlbEcTxr6HKlDBBHt2T70xhZ0H2JSrc7itDS7k-2FSl21QGz14hhf-2BkcEfphTxFqkw1f4U1U4w-3D-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHOYyoVvBSLJbaR-2FMkQpjkEaq6bb3w69OrG86oUBpNbXmrTOPkHlCRhqKzjv-2Bj33JseAHQexK7Bboh47Jmrkr42MMxLb9DPn-2BOFeM6vD84GSBPnupC-2BtJ6GW6kVohAzG3WpZudaSFnyCRkwxwBPcKDLw-3D-3D"></a>
+<div style="font-size:1.3em;line-height:1.3em;margin:5px 0 0 0;">
+NEELAM.ROHTELA</div>
+<div style="font-size:1.3em;line-height:1.3em;margin:0 0 5px 0;">22
+| Faridabad</div>
+<a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFXZdyOFfxs9w-2BfjYdwmj49o75jvZSDNUsvyVswd7-2FPMooaOYyjNWnY7lP-2B8cj95P5S4nd6ybPGeOaLBrKoEEpqDOmGZmhMOBrNUlAsvmtSjQJB7FIi06e4q3mpUCfhuFOj3lVdlP6rm5rIvAFmOtiOwcNroP1h4kMOWcgGe9ZuLAX5cq515N-2FFZsDz0STrYLj24iarL-2F5sFw8gVafleB-2FXMa5xFP1-2FuwgRhFuTUlMEE0uEouowK-2BRgQ6QXRXB0WKhrnU2t-2B2-2FapwxIODfCDpqTiLIl8kDmvKR78eacEF-2FDeETx4MiyoDYDI8tOWlbEcTxr6HKlDBBHt2T70xhZ0H2JSrc7itDS7k-2FSl21QGz14hhf-2BkcEfphTxFqkw1f4U1U4w-3D-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHJd49v91dm415IKbyD-2BO8Ll-2B1eucft5poE2BK-2B4VGAJoRoQaUsFgAZs-2B7NjOZY3hR6MhSq12XgTXf-2FN02Zkg-2BciZ96HWwVbwMjBNzMN8A6z24XGX-2B2VhEStRJzP5PCbVm9mdJMCc9BBDd-2FgoiS8dv-2Fg-3D-3D"><img
+ src="http://i3.stepoutcdn.com/www.stepout.com/SI/f2a0980c176ada/Emails/send_her_a_message.png" /></a></td>
+</tr>
+<tr>
+<td valign="top"><span
+style="font-size:1.3em;line-height:1.2em;">Regards,</span><br />
+<span style="font-size:1.3em;line-height:1.2em;">Team
+StepOut</span><br />
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>&#160;</td>
+</tr>
+<tr>
+<td width="580"><a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFU2P-2Bmpi4bG5GDRMUVzQ6wkNa7aA0u4jtH-2FmGftZSY1vtyjqVnzUaZV9V1Y5DXHdIJB2jCGplrJcQlVTxNBzXnW0EtJ-2FQghMlFC951AmKlR2CjiCZxHEc2o-2BhEG5N7K4Lmw3d8dNZepH1npW9TAKWMh-2BT4-2FgpTCVf7R5e0ZnvkCHptFEQMTQCTcl9VMWpFkO76SK52W4fdi7XKvy9qjgKQejynxmmtwoJT-2FwzI4qhmng0-2BzUgcM-2B1ULVDRIdsL2ulqI15yinQWNSdA0PkTKhdP2YUqs7PRrJz-2ByW-2FqRzC0liRQbFzGQr64EC1-2F5DDXzFK4dtpnRAf190PglXDV8JL-2BkKY-2BuzhaKGEo3xf1E5a4psxyugc-2F9iWBWi7-2BmZX2zOrJl0S1SOl1iYz-2B3BaGhsLT4-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHejK5uvRl3eriMPwLEcNNDNKvEn4lik3Dkzp45iB5psrrEakbMPLCdDQzXFsiH2rX-2FxkYyWc4LrO1Nnfl3dCGCJvHdjTMhjd5XOItRzbeu7XDQ7Nc27AUFIuzPYM3HS6-2Fn55lDi1tfIrPMEnoqtItDw-3D-3D"><img
+ src="http://i0.stepoutcdn.com/www.stepout.com/SI/f2a0980c176ada/Emails/like.png"
+ alt="Like us on Facebook" /></a></td>
+</tr>
+<tr>
+<td>&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="border-collapse:collapse;" width="30">&#160;</td>
+</tr>
+</tbody>
+</table>
+<table style="font-size:1em;" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="3" style="border-collapse:collapse;">&#160;</td>
+</tr>
+<tr>
+<td style="border-collapse:collapse;" width="30">&#160;</td>
+<td style="border-collapse:collapse;" width="580">
+<div style="color:#999;margin:0 0 1em;">Please do not reply to this
+email. We will be glad to answer your queries and problems if you
+write to support@stepout.com</div>
+<div style="color:#999;margin:0 0 1em;">You've received this email
+because you signed up for StepOut or have been invited by a friend.
+We're huge advocates of protecting your privacy. You can edit your
+<a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFeTqR5kxFOD4lJAM1AtVU0kcqmQBwgtxbq0XYkHlx8Nv0VYlVDnqxa3WtlbgPoiyvIlqkX8rHVRWuHsFgKHSpVFeUzVqx5V3qaakbMbl9yRggQBBtLgmAUIIzUO8fmOdw28hTHLzXMqt5Ym3hKOD4HTZ7PvJsA0pTILT6EnRb68UE2B3Zyi9xZtA5rqEdLxahKKuN-2FYxd18-2FtXbjEs9RsFeA8YOACozbO9x0xFGqzRawe-2BElq89KZj4x-2BrqBRrQnvkK5CyAcy278nt4lsb8KTuqTiyBNGU0VyM7wG0mc0Co4feh2HIxLAa-2FkhutlBLq3qUjkbqrlX6CEgjiuMBnT3ydl4wHUhkfFSbH7i1gWOZ-2FN_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHymwwWuK7KAjI-2Fcc72pqth7afbLT5vg30paOcayQU8Mm99gDZrwX2rI7TAW1rCqWD14wm6woQHtR-2Bjz0Fwfh9na4LfAqi-2BWQpfbF8pdNp2V93UVi8-2FuKSwBpl325QNQC6BLEd6wIjkmKf3w55zh1Ovg-3D-3D"
+ style="color:#056a90;text-decoration:none;text-shadow:1px 1px 1px;">settings</a>
+or <a rel="nofollow" target="_blank"
+href="http://email.stepout.com/wf/click?upn=Db-2FihETZnD9uzgrZE0ksFRvI67VDuHu-2Fn3kIhY8iltnwIQ4rJeKHThPDnQENWXFm-2F88BEinrUz4J5Zs2KTcpyQ-2FqePmkvfywgitkW7ywodfqfxVbOLRIVvJQIN1AiBQawEYJ07XBdICSPzysRTORHiZHnf64I6EUrHOrUsPnMxLpKadRMbLi3TE9O-2FziTdB0qydD-2BcCuXx2XHaPOwrlXk0oiV88FcoF0ScREb5UVrBCDqVbQxCUKM2sKlQPKyUnSP1APPFCnDX2Y-2BCvb2cczYy3dTFOKoDDGuJcy-2FmBaVdz1a8CNaQcTOpA3bRDrGvJT-2FpcyF6UyiJgnvW18HY-2FvsOtirmerPmZl2yORaYbdx06pmmL-2BVPpWFuf60kuFvkBs_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHkQSUsTUDtSKmqGbvWA45aVcg-2F7IozklyxuuPtWbIZAnqirz8gpLwqbH9iXFlKAQYO0Q3y-2FoMB387vtSgzWdCEipN1vaif1Xl4ZyQ1C2r3-2BueGdf3MrgbDGdL2XTXAK107UBDIl5FctK07xMKfnJHHw-3D-3D"
+ style="color:#056a90;text-decoration:none;text-shadow:1px 1px 1px;">unsubscribe</a>.</div>
+<div style="color:#999;margin:0 0 1em;">=A9 2012 StepOut, 306
+Magnum Opus, Shantinagar Ind Estate, Vakola, Santacruz E, Mumbai
+4000055, India. All rights reserved.</div>
+</td>
+<td style="border-collapse:collapse;" width="30">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://email.stepout.com/wf/open?upn=JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUacyp9Seey9kLUUdLCxmDuHVjdzCs-2ByRKn8lnh-2BpxE4OoszyqBdPes4KWGniulBgy8ynavw7ID31e8om0hhiC5aAa-2FWwhJPeZLU39LNfSFUtpNAyEg84CvvLAV9QBXv9Uaq2JszCinsztpp-2FAI7onYwGcXxXUNQ3kuaZLNAIHYiOw-3D-3D"
+ alt="" /></div>
+<img
+src="http://api.mixpanel.com/track/?data=eyJldmVudCI6IkVtYWlsIE9wZW4iLCJwcm9wZXJ0aWVzIjp7IiRicm93c2VyIjoiIiwiJG9zIjoiVW5rbm93biIsImRpc3RpbmN0X2lkIjoiMjU4NTQ3ODMiLCJEYXRlIjoiMDdcLzAxXC8yMDEyIiwibXBfbmFtZV90YWciOiJnYXVyYXZzMjNAeW1haWwuY29tIiwiMzAgRGF5IENvaG9ydCI6IjkwKyIsIkZlYXR1cmUgU3RhdHVzIjoiIiwiR2VuZGVyIjoiR3V5IiwiUnMgUGVyIFBvaW50IjoxLCJQb2ludCBQcmVsb2FkIjo2MCwiVXNlcklEIjoiMjU4NTQ3ODMiLCJTb3VyY2UiOiJTdGVwT3V0fEVuZ2FnZVVzZXJ8ZW1haWx8fCIsInV0bV9zb3VyY2UiOiJTdGVwT3V0IiwidXRtX2NhbXBhaWduIjoiRW5nYWdlVXNlciIsInV0bV9tZWRpdW0iOiJlbWFpbCIsInJlZW5nYWdlbWVudF91dG1fc291cmNlIjoiU3RlcE91dCIsInJlZW5nYWdlbWVudF91dG1fY2FtcGFpZ24iOiJFbmdhZ2VVc2VyIiwicmVlbmdhZ2VtZW50X3V0bV9tZWRpdW0iOiJlbWFpbCIsIkVtYWlsIHR5cGUiOiJFbmdhZ2VVc2VyQU0yIiwidG9rZW4iOiJmOWJlYWY3MjQzMDcyN2E4YTg3YjM2YTRhMTFiNDJmYiIsInRpbWUiOjEzNDExMjgwNDIsImlwIjpudWxsfX0=&amp;img=1"
+ style="border:0;width:1px;height:1px;" /> <img
+src="http://www.stepout.com/?email_track_string_open=1341115200.EngageUser1341128039&amp;email_user_id=25854783"
+ style="border:0;width:1px;height:1px;" /></div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail3' class='mails'>
+<div id='mailcount'>Mail - 3</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: PAYMENT ACKNOWLEDGEMENT FOR YOUR TATA
+DOCOMO NO. PHOTON SERVICE NO. 9243335871<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 1 Jul 2012 18:31:05 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b>
+"Tata-Docomo-Support@tatadocomo.com"
+&lt;Tata-Docomo-Support@tatadocomo.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 1
+July 2012 12:09 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> PAYMENT
+ACKNOWLEDGEMENT FOR YOUR TATA DOCOMO NO. PHOTON SERVICE NO.
+9243335871<br />
+</font></div>
+<br />
+<div id="yiv1959755719">
+<div>Dear GAURAV ,<br />
+<br />
+Thank you! We have received online payment of Rs. 618 against your
+TATA DOCOMO Number 9243335871 on 01-JUL-12 and your transaction
+number is MHDF2763867665<br />
+<br />
+You can also make instant payment at <a rel="nofollow"
+target="_blank"
+href="http://cdma.tatadocomo.com/payment-options.aspx">Click
+here</a> from the comfort of your home or office. All you need is
+your Account Number or Mobile Number and Payment amount.<br />
+<br />
+You can pay by credit card (MasterCard, VISA, Diners, AMEX), or
+through an Online Bank account.<br />
+<br />
+You can also make hassle free auto payment of your bills. You have
+to just subscribe to Electronic Clearing System (ECS) or Standing
+Instructions (SI). <a rel="nofollow" target="_blank"
+href="http://cdma.tatadocomo.com/payment-options.aspx">Click
+here</a> for more details.<br />
+<br />
+Log on to "My Account" at <a rel="nofollow" target="_blank"
+href="http://www.tatadocomo.com/">www.tatadocomo.com</a> to view
+your unbilled amount, payment details and itemized bill details.
+Please note that these are FREE services for all our esteemed
+customers and are available across all TATA DOCOMO circles.<br />
+<br />
+For any assistance, please feel free to call us at 121 our 24x7
+Customer Care toll-free number or write to us at
+listen@tatadocomo.com. You can also reach us from a non TATA DOCOMO
+number by dialing 1860-266-5555.<br />
+<br />
+Warm Regards,<br />
+TATA DOCOMO Team</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail4' class='mails'>
+<div id='mailcount'>Mail - 4</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Don't forget your toothbrush and your
+memory card.<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 1 Jul 2012 18:31:15 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Transcend Info
+&lt;newsletter@transcendnews.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 1
+July 2012 11:01 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Don't
+forget your toothbrush and your memory card.<br />
+</font></div>
+<br />
+<div id="yiv1482281939">
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="950">
+<tbody>
+<tr>
+<td><span style="FONT-WEIGHT:400;"><font color="#666666"
+face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b><font
+color="#666666" face="Verdana, Arial, Helvetica, sans-serif"
+size="-2">Can't view images?</font></b></font></span> <a
+rel="nofollow" target="_blank"
+href="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7242"><font
+ color="#666666" face="Verdana, Arial, Helvetica, sans-serif"
+size="-2">View as Web page</font></a></td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td><img
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_new_01.jpg"
+ border="0" /></td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="950">
+<tbody>
+<tr>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+<td align="center"><a rel="nofollow" target="_blank"
+href="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7247"><img
+ alt="It's vacation time!"
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_0616_EN_04.jpg"
+ border="0" /></a></td>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" height="100%"
+width="950">
+<tbody>
+<tr>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+<td><a rel="nofollow" target="_blank"
+href="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7243"><img
+ alt="Relive your memories"
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_0616_EN_05.jpg"
+ border="0" /></a></td>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" height="100%"
+width="950">
+<tbody>
+<tr>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+<td><a rel="nofollow" target="_blank"
+href="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7244"><img
+ alt="Free Download - RecoveRx"
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_0616_EN_06.jpg"
+ border="0" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7245"><img
+ alt="June Calendar"
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_0616_EN_07.jpg"
+ border="0" /></a></td>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" height="100%"
+width="950">
+<tbody>
+<tr>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+<td width="920"><a rel="nofollow" target="_blank"
+href="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7246"><img
+ alt="eCatalogClick here to get an overview of our products"
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_0616_EN_08.jpg"
+ border="0" /></a></td>
+<td bgcolor="#D1D2D4" width="15"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" height="100%"
+width="950">
+<tbody>
+<tr>
+<td colspan="8"><img alt=""
+src="http://tw.transcend-info.com/transcendinfo/style6/images/TSinfo_new_B.jpg"
+ usemap="#map3" border="0" width="950" /></td>
+</tr>
+<tr>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="30" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="190" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="15" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="95" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="95" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="15" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="190" /></td>
+<td><img alt=""
+src="http://www.transcend.com.tw/pr/_info/2011/template/images/cell.gif"
+ height="1" width="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table
+background="http://tw.transcend-info.com/transcendinfo/redirect.asp?exid=7241"
+ border="0" cellpadding="0" cellspacing="0" height="100%"
+width="950">
+<tbody>
+<tr>
+<td><font color="#666666"
+face="Verdana, Arial, Helvetica, sans-serif" size="-2">Copyright
+2012=C2=AE Transcend Information. All rights reserved.<br />
+<br />
+ <b>Unsubscribe</b><br />
+ This email has been sent as you have previously consented to
+receive updates and information from Transcend. If you would now
+like to stop receiving these updates or information please click
+here to <a rel="nofollow" target="_blank"
+href="http://in.transcend-info.com/Member/unsubscribe.asp?LangNo=0&amp;Func1No=7&amp;Func2No=110">unsubscribe</a>.</font><br />
+<br />
+<font color="#666666" face="Verdana, Arial, Helvetica, sans-serif"
+size="-2"><b>Security &amp; Privacy</b><br />
+ Transcend respects individual privacy rights. To view our Privacy
+Policy, please <a rel="nofollow" target="_blank"
+href="http://in.transcend-info.com/privacypolicy.asp?LangNo=0">click
+here</a>.<br />
+<br />
+ *Please do not reply to this message. Please submit all inquiries
+to: <a rel="nofollow" ymailto="mailto:service@transcend-info.com"
+target="_blank"
+href="mailto:service@transcend-info.com">service@transcend-info.com</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<map id="Map2" name="Map2">
+<area target="_blank"
+href="http://www.youtube.com/user/transcendchannel" shape="rect"
+coords="698,5,731,37" />
+<area target="_blank" href="http://twitter.com/TranscendGlobal"
+shape="rect" coords="659,5,692,37" />
+<area target="_blank" href="http://www.facebook.com/TranscendUSA"
+shape="rect" coords="620,5,653,37" />
+<area target="_blank" href="http://www.transcendusa.com"
+shape="rect" coords="30,12,242,56" />
+</map><map id="Map" name="Map">
+<area target="_blank" href="http://www.facebook.com/TranscendUSA"
+shape="rect" coords="624,7,654,37" />
+<area target="_blank" href="http://twitter.com/TranscendGlobal"
+shape="rect" coords="660,7,692,38" />
+<area target="_blank"
+href="http://www.youtube.com/user/transcendchannel" shape="rect"
+coords="700,7,732,38" />
+</map><map id="Map3" name="Map3">
+<area target="_blank" href="http://in.transcend-info.com"
+shape="rect" alt="Transcend Offical Website"
+coords="31,10,265,59" />
+<area target="_blank" href="http://twitter.com/TranscendGlobal"
+shape="rect" alt="Transcend Twitter" coords="818,21,856,74" />
+<area target="_blank"
+href="http://www.facebook.com/TranscendIN?ref=ts" shape="rect"
+alt="Transcend Facebook" coords="782,23,818,74" />
+<area target="_blank"
+href="http://www.youtube.com/user/transcendchannel" shape="rect"
+alt="Transcend Youtube Channel" coords="858,20,892,73" />
+</map><map id="Map4" name="Map4">
+<area target="_blank"
+href="http://ir.transcend-info.com/Member/unsubscribe.asp?LangNo=130&amp;Func1No=7&amp;Func2No=110"
+ shape="rect"
+alt="=D8=A7=D8=A7=DB=8C =D8=D9=8C=D8=A7 =DA=A9=D9=84=DB=8C=DA=A9 =DA=A9 =DB=8C=D9=8C=D8=B0"
+ coords="459,63,529,79" />
+<area target="_blank"
+href="http://www.transcend-info.com/Promotion/edm/privacy_english.asp?LangNo=0"
+ shape="rect"
+alt="=D8=A7=DB=8C =D8=D9=8C=D8=A7 =DA=A9=D9=84=DB=8C=DA=A9 =DA=A9 =DB=8C=D9=8C=D8=B0"
+ coords="34,111,106,131" />
+<area ymailto="mailto:service@transcend.com.tw" target="_blank"
+href="mailto:service@transcend.com.tw" shape="rect"
+alt="mail service@transcend.com.tw" coords="150,127,289,142" />
+</map></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail5' class='mails'>
+<div id='mailcount'>Mail - 5</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: New Comment for 'The Return of the Quick
+Quiz' Challenge<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 1 Jul 2012 18:31:29 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> CloudSpokes
+Team &lt;support@cloudspokes.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"gauravs23@ymail.com" &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 1
+July 2012 10:05 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> New
+Comment for 'The Return of the Quick Quiz' Challenge<br />
+</font></div>
+<br />
+<div id="yiv2028528933">
+<div>
+<table cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/"><img
+src="https://s3.amazonaws.com/cs-public/email_images/cloudspokes-logo.png"
+ width="75" /></a></td>
+<td>
+<h2>The Return of the Quick Quiz</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<div>A new comment has been posted by <a rel="nofollow"
+target="_blank"
+href="http://www.cloudspokes.com/members/chetanpg59">chetanpg59</a>
+for this challenge that you are either registered for or
+watching:</div>
+<table cellpadding="5" cellspacing="5">
+<tbody>
+<tr>
+<td>&#160;</td>
+<td><img src="http://cloudspokes.s3.amazonaws.com/Cloud_th_100.jpg"
+width="75" /></td>
+<td><i>"Hello Team,I have answered the QQQ-41302 and QQQ-14645 in
+today's quiz, but have not got the credits for the same. It shows
+them as answered incorrectly.Could you please verify and correct my
+score?Thanks,CPG"</i></td>
+</tr>
+</tbody>
+</table>
+<div><br />
+You can <a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1512?reply_to=a09U000000664nsIAA#comment">reply
+to this comment</a> or <a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1512">view the
+challenge</a> for more info.</div>
+<table>
+<tbody>
+<tr>
+<td><img
+src="http://cs-public.s3.amazonaws.com/email_images/email-remove.png"
+ width="40" /></td>
+<td>&#160;</td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1512/toggle_discussion_email">Stop
+sending me</a> Discussion list email for this challenge.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div><br />
+Regards,<br />
+The CloudSpokes Team<br />
+<i>...where the rubber meets the code!</i></div>
+<h3 style="padding-top:25px;">Follow Us!</h3>
+<table cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.github.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/github_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.twitter.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/twitter_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.facebook.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/facebook_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.youtube.com/cloudspokescommunity"><img
+src="https://s3.amazonaws.com/cs-public/email_images/youtube_icon.png"
+ style="padding-left:5px;padding-top:3px;" width="59" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://blog.cloudspokes.com/"><img
+src="https://s3.amazonaws.com/cs-public/email_images/blogicon.png"
+style="padding-left:10px;padding-top:4px;" width="55" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/feed"><img
+src="https://s3.amazonaws.com/cs-public/email_images/rss_icon.png"
+style="padding-left:10px;padding-top:3px;" width="57" /></a></td>
+</tr>
+</tbody>
+</table>
+<div><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/">http://www.cloudspokes.com</a></div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail6' class='mails'>
+<div id='mailcount'>Mail - 6</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Sri Lanka Calling. Are You Coming?<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 1 Jul 2012 18:31:44 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> MakeMyTrip
+&lt;newsletter@makemytripmails.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Friday, 29
+June 2012 3:44 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Sri Lanka
+Calling. Are You Coming?<br />
+</font></div>
+<br />
+<div id="yiv1348164719">
+<div>
+<table align="center" bgcolor="white" cellpadding="0"
+cellspacing="0" width="650">
+<tbody>
+<tr>
+<td>
+<div align="center">
+<div align="center"><font face="Tahoma" size="1">To ensure that you
+receive our updates &amp; offers in your inbox, please add
+newsletter@makemytripmails.com<br />
+to your contact list, address book or safe sender
+list.</font></div>
+<div align="center"><font style="FONT-SIZE:8pt;" face="Tahoma">To
+unsubscribe or report spam, please</font> <a rel="nofollow"
+style="FONT-SIZE:8pt;" target="_blank"
+href="http://makemytrip.custhelp.com/cgi-bin/makemytrip.cfg/php/ma/unsub.php?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=100025&amp;3=1">click
+here</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody>
+<tr>
+<td bgcolor="#305BA5" valign="middle" width="466">
+<table align="right" border="0" cellpadding="0" cellspacing="0"
+width="445">
+<tbody>
+<tr>
+<td style="FONT-FAMILY:impact;COLOR:#ffff00;FONT-SIZE:52px;"
+align="left" valign="top"><a rel="nofollow"
+style="COLOR:#ffff00;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28359">Sri
+Lankan</a></td>
+</tr>
+<tr>
+<td style="FONT-FAMILY:impact;COLOR:#ffff00;FONT-SIZE:52px;"
+align="left" valign="top"><a rel="nofollow"
+style="COLOR:#ffff00;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28360">Getaway</a></td>
+</tr>
+<tr>
+<td style="FONT-FAMILY:impact;COLOR:#ffffff;FONT-SIZE:20px;"
+align="left" valign="top"><a rel="nofollow"
+style="COLOR:#ffffff;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28361">Starting
+@ <span style="FONT-SIZE:32px;">Just Rs 33,999</span></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="right" valign="top" width="184"><a rel="nofollow"
+target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28362"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head1.jpg"
+style="DISPLAY:block;" border="0" height="176"
+width="184" /></a></td>
+</tr>
+<tr>
+<td bgcolor="#305BA5" valign="middle">
+<table align="right" border="0" cellpadding="0" cellspacing="0"
+width="445">
+<tbody>
+<tr>
+<td
+style="PADDING-BOTTOM:10px;FONT-FAMILY:Arial, Helvetica, sans-serif;COLOR:#ffffff;FONT-SIZE:12px;"
+ align="left" valign="top"><a rel="nofollow"
+style="COLOR:#ffffff;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28363">Dear
+Customer,<br />
+<br />
+Greetings from MakeMyTrip!<br />
+<br />
+We are pleased to bring you an exotic holiday&#160;- An all new
+"Sri Lankan Getaway" for 4 nights to the exotic island of Sri Lanka
+starting at Rs. 33,999. What's more? You get to explore the best of
+beach fun, nightlife, shopping and cuisines on this scintillating
+trip.<br />
+<br />
+Check out the following link to know more about what you can
+experience in Sri Lanka.</a></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100">
+<tbody>
+<tr>
+<td
+style="PADDING-BOTTOM:4px;FONT-FAMILY:Arial, Helvetica, sans-serif;COLOR:#000000;FONT-SIZE:12px;FONT-WEIGHT:bold;PADDING-TOP:4px;"
+ align="center" bgcolor="#FFFF00"><a rel="nofollow"
+style="COLOR:#000000;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28364">Know
+more</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td
+style="FONT-FAMILY:Arial, Helvetica, sans-serif;COLOR:#ffffff;FONT-SIZE:12px;PADDING-TOP:10px;"
+ align="left" valign="top"><a rel="nofollow"
+style="COLOR:#ffffff;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28365"><b>Offer
+valid for travel on 7<sup>th</sup> July 2012. Hurry! Limited seats
+left!<br />
+Departure from New Delhi</b></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="right" valign="top"><a rel="nofollow" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28366"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head2.jpg"
+style="DISPLAY:block;" border="0" height="248"
+width="184" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody>
+<tr>
+<td bgcolor="#305BA5" width="270">
+<table align="right" border="0" cellpadding="0" cellspacing="0"
+width="246">
+<tbody>
+<tr>
+<td
+style="PADDING-BOTTOM:10px;FONT-FAMILY:Arial, Helvetica, sans-serif;COLOR:#ffffff;FONT-SIZE:12px;"
+ align="left"><a rel="nofollow"
+style="COLOR:#ffffff;TEXT-DECORATION:none;" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28367">Regards,<br />
+Team MakeMyTrip</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="right" valign="top" width="196"><a rel="nofollow"
+target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28368"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head3.jpg"
+style="DISPLAY:block;" border="0" height="56"
+width="196" /></a></td>
+<td align="right" valign="top" width="184"><a rel="nofollow"
+target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28369"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head4.jpg"
+style="DISPLAY:block;" border="0" height="56"
+width="184" /></a></td>
+</tr>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28370"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head5.jpg"
+style="DISPLAY:block;" border="0" height="307"
+width="270" /></a></td>
+<td align="right" valign="top"><a rel="nofollow" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28371"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head6.jpg"
+style="DISPLAY:block;" border="0" height="307"
+width="196" /></a></td>
+<td align="right" valign="top"><a rel="nofollow" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=28372"><img
+ alt="Image"
+src="http://www.mailmktg.makemytrip.com/srilanka/images/head7.jpg"
+style="DISPLAY:block;" border="0" height="307"
+width="184" /></a></td>
+</tr>
+</tbody>
+</table>
+<table style="WIDTH:605px;HEIGHT:156px;" align="center"
+bgcolor="white" border="1" cellpadding="5" cellspacing="0"
+width="605">
+<tbody>
+<tr>
+<td>
+<table style="WIDTH:590px;HEIGHT:101px;" align="center"
+bgcolor="white" cellpadding="0" cellspacing="0" width="590">
+<tbody>
+<tr>
+<td>
+<div>
+<div align="center"><font face="Tahoma" size="2">You're receiving
+this email because you've subscribed to our promotional offers or
+newsletter. We might have also added you to our mailing list as a
+valued customer looking for great travel deals.<br />
+MakeMyTrip is located at 243, Udyog Vihar Phase 1, Gurgaon, 122
+016, Haryana, India.</font></div>
+</div>
+<div align="center"><font face="Tahoma" size="2">Read our <a
+rel="nofollow" target="_blank"
+href="http://makemytrip.custhelp.com/rd?1=AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E&amp;2=739">Privacy
+Policy</a>.<br />
+</font></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img style="display:none;"
+src="http://makemytrip.custhelp.com/rd/AvUi%7EwphNv8SzDayGmwe%7EyL%7EJvsq%7E9b%7ED5MKmzr%7E.gif"
+ height="1" width="1" /></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

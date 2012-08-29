@@ -1,0 +1,1825 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+function hideShow(num,count){hideAll(count);document.getElementById('mail'+num).style.display='block';}function hideAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color  :       #C8E2EB;}#main{font-family      :       sans-serif;font-size            :       14px;width                      :       auto;margin-left        :       100px;margin-right      :       100px;height                    :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #D455FF;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       10px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:20px;color:    black;}#mailcontent{padding:10px;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+<title>Meetup</title>
+<style type="text/css">
+/*<![CDATA[*/
+ _filtered #yiv545440734 {line-height:17px !important;}#yiv545440734 
+/*]]>*/
+</style>
+<style type="text/css">
+/*<![CDATA[*/
+#yiv1986749488 a:hover {text-decoration:underline;}#yiv1986749488 a.yiv1986749488ymtfbtn:hover {text-decoration:none;}
+/*]]>*/
+</style>
+<title></title>
+<title>Thinkdigit Newsletter</title>
+</head>
+<body onload='hideShow(1,6);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='page1' onclick='hideShow(1,6)'
+href='javascript:void(0)'>1</a> <a id='page2'
+onclick='hideShow(2,6)' href='javascript:void(0)'>2</a> <a
+id='page3' onclick='hideShow(3,6)' href='javascript:void(0)'>3</a>
+<a id='page4' onclick='hideShow(4,6)'
+href='javascript:void(0)'>4</a> <a id='page5'
+onclick='hideShow(5,6)' href='javascript:void(0)'>5</a> <a
+id='page6' onclick='hideShow(6,6)' href='javascript:void(0)'>6</a>
+<a id='showall' onclick='showAll(6)' href='javascript:void(0)'>Show
+All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Top 3 posts for you on Google+ this week<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>"Google+ team"
+&lt;noreply-475ba29f@plus.google.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Mon, 02 Jul 2012 15:06:41 -0700 (PDT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div style="max-width:700px;">
+<table cellspacing="0" cellpadding="30px"
+style="color:#666;font:13px Arial;line-height:1.4em;;border:solid 1px #dfdfdf;; width:100%;">
+<tr>
+<td>
+<div style="color:#d44b38;font-size:22px;padding-bottom:10px;">Hi
+Gaurav!</div>
+<div style="color:#777;font-size:16px;">Here are the top 3 posts
+for you on Google+ this week.</div>
+</td>
+<td style="text-align:right"><img
+src="https://ssl.gstatic.com/s2/oz/images/notifications/logo/google-plus-6617a72bb36cc548861652780c9e6ff1.png"
+ alt="Google+ team" /></td>
+</tr>
+<tr>
+<td
+style="padding:15px 30px;color:#d44b38;font-size:22px; background-color:#f2f2f2">The
+most popular content on Google+</td>
+<td
+style="padding:15px 30px;text-align:right; background-color:#f2f2f2"><a
+ style="display:inline-block;padding:7px 15px;background-color:#d44b38; color:#fff;font-size:13px; font-weight:bold;border-radius:2px;-webkit-border-radius:2px; -moz-border-radius:2px;border:solid 1px #c43b28; white-space:nowrap;text-decoration:none"
+ href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2Fhot&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37">View
+what's hot</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="padding: 10px 0 20px 0;width:500px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-right:15px;vertical-align:top"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F113685653679106926290&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"><img
+ style="border:solid 1px #cccccc;" width="48" height="48"
+src="https://lh4.googleusercontent.com/-3yqO6WkwUHs/AAAAAAAAAAI/AAAAAAAAEDA/dTvvS8ZN3jU/s75-c-k-a/photo.jpg" /></a></td>
+<td
+style="width:578px;color:#333;font:13px Arial;vertical-align:top;">
+<div style="padding-bottom: 10px;"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F113685653679106926290&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="color:#3366CC;text-decoration:none;">Ashlan
+Nathens</a></div>
+<div style="padding-bottom:10px">This <a class="ot-hashtag"
+href="https://plus.google.com/s/%23flashmob">#flashmob</a> =A0moved
+me very deeply.<br />
+<br />
+For my friends, family + loved ones ~<br />
+<br />
+<i>Auf zu liebe</i><br />
+<i>zu sonne</i><br />
+<i>und zu freiheit.</i><br />
+<br />
+And to all who happen upon this: <b>Today, in this moment, choose
+happiness and joy. For yourself, and those around you.</b><br />
+<br />
+Please tag in someone in your life/circles who you would like to
+share your joy of life with:)<br />
+<br />
+&lt;3 Ash</div>
+<div
+style="margin-top:10px;padding-left:10px; border-left:2px solid #EAEAEA">
+<div style="margin-bottom:4px;font-weight:bold"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F113685653679106926290%2Fposts%2FB5tC4iarzfY&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="zSoyz;text-decoration:none">Som Sabadell flashmob</a></div>
+<a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F113685653679106926290%2Fposts%2FB5tC4iarzfY&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="zSoyz"><img
+src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://ytimg.googleusercontent.com/vi/GBaHPND2QJg/hqdefault.jpg&amp;container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_h=195"
+ border="0" style="width:312px;height:195px;display:block" /></a>
+<div style="margin:5px 0 12px 0"><a
+href="http://www.youtube.com/v/GBaHPND2QJg?hl=en&amp;fs=1&amp;autoplay=1"
+ style="zSoyz;text-decoration:none">En el 130=BA aniversario de la
+creaci=F3n de Banco Sabadell hemos querido rendir un homenaje a
+nuestra ciudad con la campa=F1a "Som Sabadell". Esta es la flashmob
+que realizamos como colof=F3n final con la
+participaci=F3n...</a></div>
+</div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="font:13px Arial"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F113685653679106926290%2Fposts%2FB5tC4iarzfY&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"><span
+ style="font-style:italic;font-weight:bold;">+948</span> - 285
+comments - 610 shares</a></td>
+<td style="font:13px Arial;text-align:right"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F113685653679106926290%2Fposts%2FB5tC4iarzfY&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37">View
+or comment on this post &#187;</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="padding: 10px 0 20px 0;width:500px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-right:15px;vertical-align:top"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F114839987215772761647&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"><img
+ style="border:solid 1px #cccccc;" width="48" height="48"
+src="https://lh3.googleusercontent.com/-JvoUrxcUBk8/AAAAAAAAAAI/AAAAAAAAe6Y/UW_Fkw_i7rU/s75-c-k-a/photo.jpg" /></a></td>
+<td
+style="width:578px;color:#333;font:13px Arial;vertical-align:top;">
+<div style="padding-bottom: 10px;"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F114839987215772761647&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="color:#3366CC;text-decoration:none;">Marvin Chow</a></div>
+<div style="padding-bottom:10px">heed this warning. =A0leaving any
+being in a hot car is just stupid and will be penalized.</div>
+<div
+style="margin-bottom:10px;padding-left:10px; border-left:2px solid #EAEAEA"><span
+ style="margin-right:5px"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F114839987215772761647%2Fposts%2FLV9eQ1QUMrK&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="zSoyz;"><img
+src="https://lh4.googleusercontent.com/---EGrEkpIM0/T_GqM0g3u_I/AAAAAAAAhJc/h3J43JPjZkc/w160/dogsincar.jpeg"
+ border="0"
+style="max-height:200px;max-width:275px" /></a></span></div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="font:13px Arial"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F114839987215772761647%2Fposts%2FLV9eQ1QUMrK&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"><span
+ style="font-style:italic;font-weight:bold;">+821</span> - 208
+comments - 304 shares</a></td>
+<td style="font:13px Arial;text-align:right"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F114839987215772761647%2Fposts%2FLV9eQ1QUMrK&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37">View
+or comment on this post &#187;</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="padding: 10px 0 20px 0;width:500px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-right:15px;vertical-align:top"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F106386034294040594598&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"><img
+ style="border:solid 1px #cccccc;" width="48" height="48"
+src="https://lh5.googleusercontent.com/-UOpIW7zt8KA/AAAAAAAAAAI/AAAAAAAAMGA/xmGMtNU2FWc/s75-c-k-a/photo.jpg" /></a></td>
+<td
+style="width:578px;color:#333;font:13px Arial;vertical-align:top;">
+<div style="padding-bottom: 10px;"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F106386034294040594598&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="color:#3366CC;text-decoration:none;">Dr. Seuss</a></div>
+<div
+style="margin-bottom:10px;padding-left:10px; border-left:2px solid #EAEAEA"><span
+ style="margin-right:5px"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F106386034294040594598%2Fposts%2FAYG6tuTkhES&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"
+ style="zSoyz;"><img
+src="https://lh4.googleusercontent.com/-podPKR5DUpE/T_HzAsTIgxI/AAAAAAAANUI/WAMoAQLjWOQ/w160/Don%27t+cry+because+it%27s+over%2C+smile+because+it+happened.jpg"
+ border="0"
+style="max-height:200px;max-width:275px" /></a></span></div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="font:13px Arial"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F106386034294040594598%2Fposts%2FAYG6tuTkhES&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37"><span
+ style="font-style:italic;font-weight:bold;">+709</span> - 189
+comments - 208 shares</a></td>
+<td style="font:13px Arial;text-align:right"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2F106386034294040594598%2Fposts%2FAYG6tuTkhES&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37">View
+or comment on this post &#187;</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td
+style="padding:15px 20px;font-size:11px; border-top:solid 1px #dfdfdf;;">Don't
+want occasional updates about Google+ activity and friend
+suggestions? <a style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CLCnj5qA_LACFYyr5Qod7CEAAA&amp;path=%2Fsettings%2Fplus&amp;reexp=CONTROL&amp;dt=1341266801714&amp;ub=37">Change</a>
+what email Google+ sends you.</td>
+<td
+style="padding:15px 20px;text-align:right; border-top:solid 1px #dfdfdf;"><img
+ src="https://ssl.gstatic.com/s2/oz/images/notifications/logo/google-plus-6617a72bb36cc548861652780c9e6ff1.png"
+ alt="Google+ team" /></td>
+</tr>
+</table>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail2' class='mails'>
+<div id='mailcount'>Mail - 2</div>
+<div id='mailbody'>
+<div id='mailheader'>Top 3 posts for you on Google+ this week<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>"Google+ team"
+&lt;noreply-475ba29f@plus.google.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Mon, 16 Jul 2012 06:45:03 -0700 (PDT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div style="max-width:700px;">
+<table cellspacing="0" cellpadding="30px"
+style="color:#666;font:13px Arial;line-height:1.4em;;border:solid 1px #dfdfdf;; width:100%;">
+<tr>
+<td>
+<div style="color:#d44b38;font-size:22px;padding-bottom:10px;">Hi
+Gaurav!</div>
+<div style="color:#777;font-size:16px;">Here are the top 3 posts
+for you on Google+ this week.</div>
+</td>
+<td style="text-align:right"><img
+src="https://ssl.gstatic.com/s2/oz/images/notifications/logo/google-plus-6617a72bb36cc548861652780c9e6ff1.png"
+ alt="Google+ team" /></td>
+</tr>
+<tr>
+<td
+style="padding:15px 30px;color:#d44b38;font-size:22px; background-color:#f2f2f2">The
+most popular content on Google+</td>
+<td
+style="padding:15px 30px;text-align:right; background-color:#f2f2f2"><a
+ style="display:inline-block;padding:7px 15px;background-color:#d44b38; color:#fff;font-size:13px; font-weight:bold;border-radius:2px;-webkit-border-radius:2px; -moz-border-radius:2px;border:solid 1px #c43b28; white-space:nowrap;text-decoration:none"
+ href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2Fhot&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37">View
+what's hot</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="padding: 10px 0 20px 0;width:500px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-right:15px;vertical-align:top"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F115360471097759949621&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"><img
+ style="border:solid 1px #cccccc;" width="48" height="48"
+src="https://lh4.googleusercontent.com/-ZAy-p7OWf8I/AAAAAAAAAAI/AAAAAAAANd0/QvASJxaRJDU/s75-c-k-a/photo.jpg" /></a></td>
+<td
+style="width:578px;color:#333;font:13px Arial;vertical-align:top;">
+<div style="padding-bottom: 10px;"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F115360471097759949621&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="color:#3366CC;text-decoration:none;">Klaus
+Herrmann</a></div>
+<div style="padding-bottom:10px"><b>Ever wanted to use your
+computer like Tom Cruise does?</b><br />
+<br />
+Do you know the movie <i>Minority Report</i>? Surely you do. Coming
+from a computer=A0science=A0bac<wbr />kground, I was always
+fascinated with the gesture-based computer interface they show in
+the movie. For those who don't know what I am talking about, check
+it out here:=A0<a href="http://www.youtube.com/watch?v=NwVBzx0LMNQ"
+class="ot-anchor">interactive ui in minority report</a><br />
+<br />
+It seems that we are getting much closer to interfaces like this
+for regular desktop and laptop computers, only without the gloves.
+Check out this new technology...</div>
+<div
+style="margin-top:10px;padding-left:10px; border-left:2px solid #EAEAEA">
+<div style="margin-bottom:4px;font-weight:bold"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F115360471097759949621%2Fposts%2F3Wf73wVKLTY&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="zSoyz;text-decoration:none">Leap Motion hands-on</a></div>
+<a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F115360471097759949621%2Fposts%2F3Wf73wVKLTY&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="zSoyz"><img
+src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://ytimg.googleusercontent.com/vi/mQkKyOOyLSs/hqdefault.jpg&amp;container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_h=195"
+ border="0" style="width:312px;height:195px;display:block" /></a>
+<div style="margin:5px 0 12px 0"><a
+href="http://www.youtube.com/v/mQkKyOOyLSs&amp;hl=en&amp;fs=1&amp;autoplay=1"
+ style="zSoyz;text-decoration:none">David Pierce talks with Leap
+Motion CTO David Holz and gets a first look at the company's next
+generation 3D motion-sensing device. Check out the full article
+here:
+http://www.theverge.<wbr />com/2012/6/26/311859<wbr />2...</a></div>
+</div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="font:13px Arial"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F115360471097759949621%2Fposts%2F3Wf73wVKLTY&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"><span
+ style="font-style:italic;font-weight:bold;">+302</span> - 52
+comments - 152 shares</a></td>
+<td style="font:13px Arial;text-align:right"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F115360471097759949621%2Fposts%2F3Wf73wVKLTY&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37">View
+or comment on this post &#187;</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="padding: 10px 0 20px 0;width:500px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-right:15px;vertical-align:top"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F114979733565079457374&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"><img
+ style="border:solid 1px #cccccc;" width="48" height="48"
+src="https://lh5.googleusercontent.com/-WE-ZsTDfEAk/AAAAAAAAAAI/AAAAAAAAbUw/G25QxsJ3fBE/s75-c-k-a/photo.jpg" /></a></td>
+<td
+style="width:578px;color:#333;font:13px Arial;vertical-align:top;">
+<div style="padding-bottom: 10px;"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F114979733565079457374&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="color:#3366CC;text-decoration:none;">Casey
+McKinnon</a></div>
+<div style="padding-bottom:10px">You're welcome, internet!</div>
+<div
+style="margin-bottom:10px;padding-left:10px; border-left:2px solid #EAEAEA"><span
+ style="margin-right:5px"><a style="zSoyz"
+href="http://www.digitaljournal.com/article/328328"><img
+src="https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://s2.googleusercontent.com/s2/favicons?domain%3Dwww.digitaljournal.com&amp;container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_h=16"
+ border="0" /><span style="font-weight:bold">World's heaviest woman
+sheds 98 lbs with seven-times-a-day sex</span></a></span>
+<div style="padding-bottom:10px">Pauline Potter, Guinness Book of
+World Record's heaviest living woman, weighing 643 lbs, turned to
+seven-times-a-day marathon sex sessions with her ex-husband to help
+shed 98 pounds.</div>
+<span style="margin-right:5px"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F114979733565079457374%2Fposts%2FKyf9fQ3JrJV&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="zSoyz;"><img
+src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.digitaljournal.com/img/5/9/2/8/1/2/i/1/1/9/p-small/potter.JPG&amp;container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_h=120"
+ border="0"
+style="max-height:200px;max-width:275px" /></a></span></div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="font:13px Arial"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F114979733565079457374%2Fposts%2FKyf9fQ3JrJV&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"><span
+ style="font-style:italic;font-weight:bold;">+698</span> - 500
+comments - 393 shares</a></td>
+<td style="font:13px Arial;text-align:right"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F114979733565079457374%2Fposts%2FKyf9fQ3JrJV&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37">View
+or comment on this post &#187;</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="padding: 10px 0 20px 0;width:500px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-right:15px;vertical-align:top"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F108516484863809927089&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"><img
+ style="border:solid 1px #cccccc;" width="48" height="48"
+src="https://lh3.googleusercontent.com/-E1zv31BW808/AAAAAAAAAAI/AAAAAAABtiQ/6JMU2wrbSq4/s75-c-k-a/photo.jpg" /></a></td>
+<td
+style="width:578px;color:#333;font:13px Arial;vertical-align:top;">
+<div style="padding-bottom: 10px;"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F108516484863809927089&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="color:#3366CC;text-decoration:none;">Fungole .</a></div>
+<div style="padding-bottom:10px">See if u can read this. If so
+share.</div>
+<div
+style="margin-bottom:10px;padding-left:10px; border-left:2px solid #EAEAEA"><span
+ style="margin-right:5px"><a
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F108516484863809927089%2Fposts%2FacmRzmzFBSA&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"
+ style="zSoyz;"><img
+src="https://lh4.googleusercontent.com/-XabMXvN5Id8/UALZ_8hOfYI/AAAAAAABy7E/wjCL2HUSj7U/h120/539.jpg"
+ border="0"
+style="max-height:200px;max-width:275px" /></a></span></div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="font:13px Arial"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F108516484863809927089%2Fposts%2FacmRzmzFBSA&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37"><span
+ style="font-style:italic;font-weight:bold;">+4601</span> - 500
+comments - 3777 shares</a></td>
+<td style="font:13px Arial;text-align:right"><a
+style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2F108516484863809927089%2Fposts%2FacmRzmzFBSA&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37">View
+or comment on this post &#187;</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td
+style="padding:15px 20px;font-size:11px; border-top:solid 1px #dfdfdf;;">Don't
+want occasional updates about Google+ activity and friend
+suggestions? <a style="color:#3366CC;text-decoration:none;"
+href="https://plus.google.com/_/notifications/emlink?emrecipient=117101308883635342154&amp;emid=CJj1o5iqnrECFU9S7AodtwwAAA&amp;path=%2Fsettings%2Fplus&amp;reexp=CONTROL&amp;dt=1342446303252&amp;ub=37">Change</a>
+what email Google+ sends you.</td>
+<td
+style="padding:15px 20px;text-align:right; border-top:solid 1px #dfdfdf;"><img
+ src="https://ssl.gstatic.com/s2/oz/images/notifications/logo/google-plus-6617a72bb36cc548861652780c9e6ff1.png"
+ alt="Google+ team" /></td>
+</tr>
+</table>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail3' class='mails'>
+<div id='mailcount'>Mail - 3</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Shibu Kalidhasan posted a comment for
+"Bangalore Force.com August meetup"<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 23:27:38 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Bangalore
+Force.com Cloud Apps Developer Meetup &lt;info@meetup.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Thursday, 26
+July 2012 8:50 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Shibu
+Kalidhasan posted a comment for "Bangalore Force.com August
+meetup"<br />
+</font></div>
+<br />
+<div id="yiv545440734">
+<div>
+<div style="background:#fff!important;">
+<table style="width:100%;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width:49%;padding:0;" valign="top">
+<div style="height:22px;background:#e6304c;">&#160;</div>
+</td>
+<td style="width:52px;padding:0;"><a rel="nofollow" target="_blank"
+href="http://www.meetup.com/t/ed1_1"><img
+src="http://www.meetup.com/t/img/ed1/logo_52x35.gif" alt="Meetup"
+style="border:0;" height="39" width="52" /></a></td>
+<td style="width:49%;padding:0;" valign="top">
+<div style="height:22px;background:#e6304c;">&#160;</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div
+style="width:80%;min-width:220px;max-width:650px;margin:30px auto 0 auto;border-left:solid 10px #fff;border-right:solid 10px #fff;text-align:left;font-family:arial;font-size:14px;color:#545454;">
+<div
+style="margin:21px 0 0 0;font-size:26px;line-height:31px;font-weight:bold;margin:3px 0 2px 0;"><span
+ style="color:#333;">Shibu Kalidhasan posted a new comment
+for</span> <a rel="nofollow" target="_blank"
+href="http://www.meetup.com/Bangalore-Force-com-Cloud-Apps-Developer-Meetup/events/73226552/t/ed1_l6"
+ style="text-decoration:none;color:#247bd1;">Bangalore Force.com
+August meetup</a></div>
+<div
+style="clear:both;margin-top:5px;padding-top:10px;border-top:dotted 1px #ccc;font-size:18px;">
+<div
+style="float:left;width:50px;min-height:50px;overflow:hidden;margin:0 10px 11px 0;"><a
+ rel="nofollow" target="_blank"
+href="http://www.meetup.com/Bangalore-Force-com-Cloud-Apps-Developer-Meetup/members/37540322/t/ed1_l2"><img
+ src="http://photos1.meetupstatic.com/photos/member/a/5/d/4/thumb_40422452.jpeg"
+ border="0" height="50" /></a></div>
+<div
+style="font-size:14px;color:#333;margin:0 0 10px 0;padding:0 0 5px 0;line-height:17px;">guys
+I can help with force.com training, I myself cleared the same last
+week.....</div>
+</div>
+<div
+style="font-size:13px;margin-bottom:5px;padding-bottom:5px;line-height:17px;text-align:right;"><a
+ rel="nofollow" target="_blank"
+href="http://www.meetup.com/Bangalore-Force-com-Cloud-Apps-Developer-Meetup/events/73226552/t/ed1_l9#idea-comments"
+ style="text-decoration:none;color:#247bd1;">Read and reply to this
+Meetup's comments =86=92</a></div>
+<div style="margin:7px 0;background:#eee;">
+<div style="margin-top:10px;font-size:12px;line-height:14px;">
+<table
+style="width:100%;background:#eee;padding:10px 15px 0;font-family:arial;"
+ cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="2"
+style="border-left:5px solid #eee;font-size:14px;font-weight:bold;padding-bottom:10px;">Shibu
+Kalidhasan is also a member of:</td>
+</tr>
+<tr>
+<td
+style="width:5%;padding:10px 5px 5px 0;border-bottom:dotted #ccc 1px;background:#eee;vertical-align:top;clear:left;border-left:5px solid #eee;">
+<div
+style="float:left;width:40px;min-height:35px;overflow:hidden;text-align:center;margin-bottom:5px;"><a
+ rel="nofollow" target="_blank"
+href="http://www.meetup.com/ScrumBangalore/t/ed1_l4?gj=ej35"><img
+src="http://photos1.meetupstatic.com/photos/event/7/8/e/8/thumb_122550952.jpeg"
+ style="border:0;" width="40" /></a></div>
+</td>
+<td
+style="padding:10px 0 5px 0;background:#eee;border-bottom:dotted #ccc 1px;width:95%;vertical-align:top;"><a
+ rel="nofollow" target="_blank"
+href="http://www.meetup.com/ScrumBangalore/t/ed1_l4?gj=ej35"
+style="text-decoration:none;color:#247bd1;">Scrum
+Bangalore</a><br />
+<span style="font-size:10px;">646 Agilists=A2Bangalore</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="margin:20px 0 10px;font-size:10px;">To report abuse or
+block this person, please <a rel="nofollow" target="_blank"
+href="http://www.meetup.com/Bangalore-Force-com-Cloud-Apps-Developer-Meetup/abuse/37540322/"
+ style="text-decoration:none;color:#247bd1;">click here</a>.</div>
+</div>
+</div>
+<div
+style="clear:both;background:#555;text-align:center;border-top:solid 20px #555;border-bottom:solid 20px #555;">
+<div
+style="width:94%;margin:0 auto;border-left:solid 10px #555;border-right:solid 10px #555;min-width:220px;max-width:650px;text-align:left;font-family:arial;color:#ccc;font-size:11px;line-height:14px;">
+<div style="margin:0 0 .25em;color:#ccc;">Add <b><a rel="nofollow"
+ymailto="mailto:info@meetup.com" target="_blank"
+href="mailto:info@meetup.com"
+style="color:#ccc;">info@meetup.com</a></b> to your address book to
+receive all Meetup emails</div>
+<div style="margin:0 0 .25em;color:#ccc;">To unsubscribe from
+similar emails from this Meetup Group, <a rel="nofollow"
+target="_blank"
+href="http://www.meetup.com/__ms55600562/Bangalore-Force-com-Cloud-Apps-Developer-Meetup/optout/?submit=true&amp;email=eventCom&amp;expires=1343488830201&amp;sig=1d9afe0f1550d53da1236f889a2c57e9bfc50563"
+ style="color:#ccc;">click here</a></div>
+<div style="margin:0 0 .25em;color:#ccc;"><a href="" rel="nofollow"
+style="color:#ccc;text-decoration:none;cursor:default;">Meetup, PO
+Box 4668 #37895 New York, New York 10163-4668</a></div>
+<div style="margin:0 0 .25em;color:#ccc;"><b>Meetup HQ in NYC is
+hiring!</b> <a rel="nofollow" target="_blank"
+href="http://www.meetup.com/jobs/"
+style="color:#ccc;">http://www.meetup.com/jobs/</a></div>
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail4' class='mails'>
+<div id='mailcount'>Mail - 4</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: The 9 Best Tips for Submitting an Online
+Job Application - Yahoo! India Finance<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 23:27:53 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b>
+"mailbot@in.finance.yahoo.com"
+&lt;mailbot@in.finance.yahoo.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Thursday, 26
+July 2012 6:43 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> The 9 Best
+Tips for Submitting an Online Job Application - Yahoo! India
+Finance<br />
+</font></div>
+<br />
+<div id="yiv1986749488">
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="578"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="40" width="1" /></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="578">
+<table style="background:#003366;" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="background:#003366;zoom:1;" colspan="3" bgcolor="003366"
+valign="middle" width="100%">
+<table border="0" cellpadding="15" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"><a
+ rel="nofollow" target="_blank" href="http://www.yahoo.com/"
+style="text-decoration:none;"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/yahoo_logo_w-162006.gif"
+ border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;background-color:#003366;"
+ bgcolor="003366"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="1" width="5" /></td>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;background-color:#fefefe;"
+ bgcolor="fefefe" width="100%">
+<table border="0" cellpadding="20" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="100%">
+<table style="text-align:left;" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;">Your
+friend <a rel="nofollow" ymailto="mailto:gauravs23@ymail.com"
+target="_blank" href="mailto:gauravs23@ymail.com"
+style="color:#005790;text-decoration:none;text-align:left;">gauravs23@ymail.com</a>
+has shared a link with you.</td>
+</tr>
+<tr>
+<td style="font-size:0;"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="15" width="1" /></td>
+</tr>
+<tr>
+<td style="font-size:0;">
+<hr
+style="height:1px;color:#e1e1e1;background-color:#e1e1e1;border:none;"
+ size="1" />
+</td>
+</tr>
+<tr>
+<td style="font-size:0;"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="15" width="1" /></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="100%">
+<table border="0" cellpadding="20" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="border-color:#e1e1e1;font-size:13px;font-family:arial, helvetica, clean, sans-serif;color:#222222;border-style:solid;border-width:1px;background-color:#f6f6f6;"
+ bgcolor="f6f6f6" width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;text-align:left;"><a
+ rel="nofollow" target="_blank"
+href="http://us.lrd.yahoo.com/_ylc=X3oDMTNuYXM3dnBvBF9TAzExODY1NTAwMDEEYWN0A21haWxfY2IEY3QDYQRpbnRsA2luBGxhbmcDZW4tSU4EcGtnAzZmMjUzOWMzLTIyMWMtMzEzNC1iOWI2LWUyZGNhYjI0NGY4NARzZWMDbWl0X3NoYXJlBHNsawNtYWlsBHRlc3QD;_ylv=0/SIG=131ftda17/EXP=1343320833/**http%3A//in.finance.yahoo.com/news/9-best-tips-submitting-online-134126085.html"
+ style="font-weight:bold;font-size:20px;text-decoration:none;color:#005790;">The
+9 Best Tips for Submitting an Online Job Application - Yahoo! India
+Finance</a></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"><img
+ src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="15" width="1" /></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr style="text-align:left;">
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;"
+ width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="color:#222222;font-size:12px;font-family:arial, helvetica, clean, sans-serif;text-align:left;"
+ valign="top"><a rel="nofollow" target="_blank"
+href="http://us.lrd.yahoo.com/_ylc=X3oDMTNuYXM3dnBvBF9TAzExODY1NTAwMDEEYWN0A21haWxfY2IEY3QDYQRpbnRsA2luBGxhbmcDZW4tSU4EcGtnAzZmMjUzOWMzLTIyMWMtMzEzNC1iOWI2LWUyZGNhYjI0NGY4NARzZWMDbWl0X3NoYXJlBHNsawNtYWlsBHRlc3QD;_ylv=0/SIG=131ftda17/EXP=1343320833/**http%3A//in.finance.yahoo.com/news/9-best-tips-submitting-online-134126085.html"
+ style="color:#005790;text-decoration:none;">http://in.finance.yahoo.com/news/9-best-tips-submitting-online-134126085.html</a></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:0;font-family:arial, helvetica, clean, sans-serif;"><img
+ src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="5" width="1" /></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:12px;font-family:arial, helvetica, clean, sans-serif;text-align:left;"
+ valign="top"></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:0;font-family:arial, helvetica, clean, sans-serif;"><img
+ src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="15" width="1" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table style="background:#ffcc66;" align="left" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="padding-top:3px;padding-bottom:5px;padding-left:10px;padding-right:10px;overflow:visible;border-color:#cc9900;border-style:solid;border-width:1px;background:#ffcc66;zoom:1;"><a
+ rel="nofollow" target="_blank"
+href="http://us.lrd.yahoo.com/_ylc=X3oDMTNuYXM3dnBvBF9TAzExODY1NTAwMDEEYWN0A21haWxfY2IEY3QDYQRpbnRsA2luBGxhbmcDZW4tSU4EcGtnAzZmMjUzOWMzLTIyMWMtMzEzNC1iOWI2LWUyZGNhYjI0NGY4NARzZWMDbWl0X3NoYXJlBHNsawNtYWlsBHRlc3QD;_ylv=0/SIG=131ftda17/EXP=1343320833/**http%3A//in.finance.yahoo.com/news/9-best-tips-submitting-online-134126085.html"
+ class="yiv1986749488ymtfbtn"
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;font-weight:bold;text-decoration:none;display:inline-block;">Read
+the full story</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td
+style="color:#222222;font-size:13px;font-family:arial, helvetica, clean, sans-serif;background-color:#003366;"
+ bgcolor="003366"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="1" width="5" /></td>
+</tr>
+<tr>
+<td
+style="color:#222222;font-size:0;font-family:arial, helvetica, clean, sans-serif;background-color:#003366;"
+ colspan="3" bgcolor="003366"><img
+src="http://l.yimg.com/os/mit/media/m/sharing/images/1x1-161693.gif"
+ height="5" width="1" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail5' class='mails'>
+<div id='mailcount'>Mail - 5</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Activate your Email Subscription to:
+CloudSpokes Contests All<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 23:28:09 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> FeedBurner
+Email Subscriptions &lt;noreply+feedproxy@google.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Thursday, 26
+July 2012 3:03 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Activate
+your Email Subscription to: CloudSpokes Contests All<br />
+</font></div>
+<br />
+Hello there,<br />
+<br />
+You recently requested an email subscription to CloudSpokes
+Contests All. We can't wait to send the updates you want via email,
+so please click the following link to activate your subscription
+immediately:<br />
+<br />
+<a
+href="http://feedburner.google.com/fb/a/mailconfirm?k=wSvWUQzdsA7UxGBbQO1unoz9dr0"
+ target="_blank">http://feedburner.google.com/fb/a/mailconfirm?k=wSvWUQzdsA7UxGBbQO1unoz9dr0</a><br />
+<br />
+(If the link above does not appear clickable or does not open a
+browser window when you click it, copy it and paste it into your
+web browser's Location bar.)<br />
+<br />
+--<br />
+This message was sent to you by FeedBurner
+(feedburner.google.com)<br />
+You received this message because you requested a subscription to
+the feed, CloudSpokes Contests All.<br />
+If you received this in error, please disregard.&#160; Do not reply
+directly to this email.<br />
+<br />
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail6' class='mails'>
+<div id='mailcount'>Mail - 6</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Nikon D4 and Galaxy Tab 2 reviewed; Mac OS
+X 10.8 Mountain Lion releases, and more<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 23:28:38 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> ThinkDigit
+NewsDesk &lt;newsletter@thinkdigit.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Wednesday, 25
+July 2012 8:55 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Nikon D4
+and Galaxy Tab 2 reviewed; Mac OS X 10.8 Mountain Lion releases,
+and more<br />
+</font></div>
+<br />
+<div id="yiv1682081540">
+<div>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr align="center">
+<td><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO">View
+this message in your browser</a></td>
+<td width="20">|</td>
+<td><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO">View
+this message in your mobile</a></td>
+<td width="20">|</td>
+<td><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPAhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO">here</a></td>
+<td width="20">|</td>
+<td><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPAxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO">Unsubscribe</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="750">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+<tbody>
+<tr>
+<td style="padding:5px;font-family:georgia;font-size:10px;"
+valign="top"><span
+style="color:rgb(181, 22, 19);text-decoration:none;"><b>THINKDIGIT
+NEWSLETTER</b></span> : News, reviews, downloads, and discussions
+on the latest in tech.<br />
+Delivered daily to your inbox.</td>
+<td align="right" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="35">
+<tbody>
+<tr>
+<td
+style="padding:5px;color:rgb(188, 188, 188);font-family:georgia;font-size:12px;"
+ align="right" valign="middle">WEDNESDAY</td>
+<td align="right" valign="top">
+<div
+style="padding:5px;background-color:rgb(0, 0, 0);color:rgb(255, 255, 255);font-size:10px;"
+ align="center"><b>July<br />
+<span style="font-size:13px;">25</span></b></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td bgcolor="#B51A1A" height="44"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRBgUGABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="font-family:Verdana, Geneva, sans-serif;font-size:24px;color:#063;font-weight:bold;"><img
+ alt="Thinkdigit Weekly"
+src="http://thinkdigit.com/newsletter/images/new_week_logo.gif"
+border="0" height="40" width="327" /></a></td>
+<td style="padding-right:5px;" bgcolor="#B51A1A">
+<table align="right" border="0" cellpadding="0" cellspacing="0"
+width="75%">
+<tbody>
+<tr>
+<td style="padding-bottom:9px;padding-top:8px;" align="center"
+bgcolor="#000000" valign="middle" width="15%"><a rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAwIBAxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;"><img alt="Gplus"
+src="http://emm7.mailserv.in/9dot9media/admin/ckimages/9dot9media/images/Thinkdigit/g_plus.jpg"
+ border="0" height="18" width="20" /></a></td>
+<td style="padding-bottom:4px;padding-top:4px;" align="center"
+bgcolor="#000000" width="14%"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEABRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;"><img alt="RSS"
+src="http://thinkdigit.com/newsletter/images/rss.gif"
+style="padding:2px;" align="left" border="0" height="20"
+width="20" /></a></td>
+<td style="padding-bottom:4px;padding-top:4px;" align="center"
+bgcolor="#000000" width="13%"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEABhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;"><img alt="twitter"
+src="http://thinkdigit.com/newsletter/images/twitter.gif"
+align="left" border="0" height="20" width="20" /></a></td>
+<td style="padding-bottom:4px;padding-top:4px;" align="center"
+bgcolor="#000000" width="13%"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEABxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;"><img alt="facebook"
+src="http://emm7.mailserv.in/9dot9media/admin/ckimages/9dot9media/images/Thinkdigit/facebook.jpg"
+ align="left" border="0" height="20" width="20" /></a></td>
+<td
+style="padding:2px;font-family:georgia;color:rgb(188, 188, 188);font-size:14px;"
+ align="left" bgcolor="#000000" width="45%"><b>Join Us!</b></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-bottom:2px;" align="right" bgcolor="#B51A1A"
+valign="middle" width="24%"><b><a
+class="yui_3_2_0_21_1343310929016117" rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAQgOAxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 185, 185);font-family:georgia;font-size:12px;text-decoration:none;padding-left:4px;">Visit
+Thinkdigit.com</a></b></td>
+<td style="padding-bottom:2px;" align="center" bgcolor="#B51A1A"
+width="3%"><span style="color:rgb(0, 0, 0);">|</span></td>
+<td style="padding-bottom:2px;" align="center" bgcolor="#B51A1A"
+valign="middle" width="28%"><b><a
+class="yui_3_2_0_21_1343310929016125" rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEACRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 185, 185);font-family:georgia;font-size:12px;text-decoration:none;">SUBSCRIBE
+to Digit Magazine</a></b></td>
+<td style="padding-bottom:2px;" align="center" bgcolor="#B51A1A"
+width="3%"><span style="color:rgb(0, 0, 0);">|</span></td>
+<td align="left" bgcolor="#B51A1A" valign="middle" width="35%">
+<b><a class="yui_3_2_0_21_1343310929016131" rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEBABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 185, 185);font-family:georgia;font-size:12px;text-decoration:none;">Manage
+your newsletter subscriptions</a></b></td>
+<td bgcolor="#B51A1A" width="7%"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEABhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;"><img alt="connect"
+src="http://thinkdigit.com/newsletter/images/twit_final.gif"
+align="right" border="0" height="34" width="39" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:5px;" align="center" valign="top"><a
+rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEHBxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;"><img
+src="cid:1.145822542@web192806.mail.sg3.yahoo.com"
+alt="Samsung: Win up to 15,50,000" style="margin:3px;" border="0"
+height="90" width="728" /></a></td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+<tbody>
+<tr>
+<td style="padding-top:10px;" align="center" valign="top"
+width="280">
+<div style="font-family:Georgia, Times, serif;font-size:10pt;"
+align="center"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgEECBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;font-weight:bold;color:rgb(131, 30, 126);">Digit
+July 2012 issue on stands now</a></div>
+<a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgEECRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"><img
+ src="cid:2.145822543@web192806.mail.sg3.yahoo.com"
+alt="ThinkDigit July 2012 Issue" style="margin:4px;" border="0"
+height="189" width="250" /></a>
+<div style="font-family:Georgia, Times, serif;" align="center"><a
+rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgEECBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"><b>Click
+here to grab it!</b></a></div>
+</td>
+<td
+style="padding:4px;font-size:10pt;color:rgb(0, 0, 0);font-family:Georgia, Times, serif;"
+ bgcolor="#CCCCCC" valign="top" width="470"><b>Here's a peek at
+what the issue offers:</b><br />
+<br />
+Automate Windows, Linux, Web, Mobile, Social Networking,Torrents
+&amp; more<br />
+<b>Compared:</b> Wi-Fi Routers, Z77 Motherboards, Budget
+Smartphones<br />
+<b>Tips &amp; Tricks:</b> Web apps for every task, Ubuntu's Unity,
+Netcut, Photoshop Express and more<br />
+<b>Agent001:</b> Goes on the hunt for the perfect Travel Zoom
+camera<br />
+<b>Devworx:</b> Get started with jQuery Mobile<br />
+<br />
+<b>Fast Track</b> to <b>Hacking Your Mobile Device</b><br />
+<br />
+<b>Cutting Edge book =93 on Ultrabooks</b><br />
+<br />
+<b>2 DVDs:</b>
+<ul>
+<li>Movie Trailers: The amazing spiderman, Wreck it Ralph, Flight,
+etc.</li>
+<li>Windows 8 RP: ISO file for the latest Windows 8 preview</li>
+<li>Learn: Lectures on digital photography</li>
+<li>Demos: Gratuitous Tank Battles, Resonance</li>
+<li>And many more =A6</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10" valign="top">&#160;</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top" width="491">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td colspan="2"
+style="border-bottom:1px solid rgb(229, 119, 118);padding:2px 0px 4px 2px;font-family:georgia;color:rgb(83, 83, 83);font-size:12.4pt;"
+ valign="top">LATEST NEWS</td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgkDABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">devWorx
+Adroit Contest - Participate now and win Samsung Galaxy Tab 2, Sony
+PS2, Philips GoGear RaGa MP3 Player and many more</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPBBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">MS
+Office 13 will have deeper LinkedIn integration</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPBRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Are
+you one of India's <b>top techies?</b> Join the <b>Digit
+Squad</b></a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPBhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">YouTube
+asks users to post real names for commenting</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgYEAxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Digit
+Test Center: 30 days with Dell Inspiron series laptops</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPBxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Android
+4.1 Jelly Bean may come soon on the Samsung Galaxy S II and S
+III</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgkDBBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Lenovo
+Student Offer | Ultrabook=84=A2. Inspired by Intel. | Lenovo U310
+with Intel=C2=AE Core=84=A2 i5.</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPCBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">More
+Indians access Facebook via mobile phones</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPCRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;"><b>HP
+ENVY 4 Ultrabook=84=A2 -</b> Ultra light | Intel=C2=AE Core=84=A2
+i5 processor | up to 9-hour battery life | Click to know
+more</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Apple
+to unleash OSX 10.8 Mountain Lion tomorrow</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgYEBhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Announcing
+the IBM Developer SuperStar Contest 2012</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Samsung
+Omnia M available in India via Snapdeal at Rs. 17,990</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgkDCRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Participate
+in the ThinkDigit-NAS@home contest and get a chance to review and
+win exciting Synology products..</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGAhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Huawei
+launches Ascend G300, Y200 smartphones in India</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAwUGCBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Develop
+an innovative S Pen App for Samsung Galaxy Note and Win Rs. 2.5
+Lakh + Samsung Galaxy Note + Samsung Galaxy Tab and
+more...</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAgkAARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Pantel
+launches ICS-based T-Pad IS701C tablet at Rs. 4,999</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEACRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Subscribe
+to Digit for 1 year and get 8 GB Pen drive absolutely FREE</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGAxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Samsung
+Galaxy Note 2 to launch on August 15?</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;"
+height="27"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGBBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(86, 86, 86);font-size:11pt;">Google
+doodle celebrates 115th birthday of Amelia Earhart</a></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px dotted rgb(187, 187, 187);padding:5px;background-color:rgb(23, 94, 150);"><a
+ rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAwUHBRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="color:rgb(255, 255, 255);font-family:georgia;font-size:13px;">Channel5
+Tutorial:CSS3 3D Transforms in IE10</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" height="10">&#160;&#160;</td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-bottom:1px solid rgb(229, 119, 118);padding:2px;font-family:georgia;color:rgb(83, 83, 83);font-size:12.4pt;"
+ valign="top">LATEST REVIEWS</td>
+</tr>
+<tr>
+<td colspan="2"
+style="padding:10px;font-family:georgia;color:rgb(83, 83, 83);font-size:12.4pt;"
+ valign="top">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td
+style="padding-left:5px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ bgcolor="#EDF0F0" width="107"><b>Category</b></td>
+<td
+style="padding-left:5px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ bgcolor="#EDF0F0" width="237"><b>Model</b></td>
+<td
+style="padding-left:5px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ bgcolor="#EDF0F0" width="93"><b>Rating</b></td>
+<td
+style="padding-left:5px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ bgcolor="#EDF0F0" width="31">&#160;</td>
+</tr>
+<tr>
+<td
+style="padding:3px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ valign="top">TV</td>
+<td valign="top" width="237"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGBRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;">LG 72LM9500 Cinema 3D TV</a></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;">
+<img alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+align="center" valign="top">&#160;</td>
+</tr>
+<tr>
+<td
+style="padding:3px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ valign="top">Mobile Phone</td>
+<td valign="top" width="237"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGBhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;">HTC Desire C</a></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;">
+<img alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+align="center" valign="top">&#160;</td>
+</tr>
+<tr>
+<td
+style="padding:3px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ valign="top">Game</td>
+<td valign="top" width="237"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGBxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;">The Dark Knight Rises (for
+iPad)</a></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;">
+<img alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+align="center" valign="top">&#160;</td>
+</tr>
+<tr>
+<td
+style="padding:3px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ valign="top">Tablet</td>
+<td valign="top" width="237"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGCBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;">Samsung Galaxy Tab 2</a></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;">
+<img alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+align="center" valign="top">&#160;</td>
+</tr>
+<tr>
+<td
+style="padding:3px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ valign="top">Digital Camera</td>
+<td valign="top" width="237"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEGCRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;">Nikon D4</a></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;">
+<img alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+align="center" valign="top">&#160;</td>
+</tr>
+<tr>
+<td
+style="padding:3px;font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+ valign="top">Bluetooth Headset</td>
+<td valign="top" width="237"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEHABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;">Jabra EasyCall</a></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;">
+<img alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt="*"
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_full.gif" /><img
+ alt=""
+src="http://www.thinkdigit.com/FCKeditor/uploads/file/star_empty.gif" /></td>
+<td
+style="font-size:10pt;color:rgb(86, 86, 86);font-family:georgia;"
+align="center" valign="top">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:5px;">&#160;</td>
+<td
+style="padding:2px;font-family:arial;color:rgb(128, 128, 128);font-size:7.04pt;"
+ align="right" valign="top"><img alt=""
+src="http://9dot9mediamail.com/imgproxy/img/601459287/read_more.gif"
+ height="10" width="10" /> <a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAgEHCRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(128, 128, 128);">more
+reviews</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top" width="20">&#160;</td>
+<td align="right" valign="top" width="237">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td width="237">
+<table border="0" cellpadding="0" cellspacing="0" height="234"
+width="100%">
+<tbody>
+<tr>
+<td colspan="3"
+style="font-family:georgia;color:rgb(29, 28, 29);font-size:12.4pt;"
+valign="top">
+<table border="0" cellpadding="0" cellspacing="0" height="176"
+width="100%">
+<tbody>
+<tr>
+<td colspan="2"
+style="border-bottom:1px solid rgb(229, 119, 118);padding:2px 0px 4px 2px;font-family:georgia;color:rgb(83, 83, 83);font-size:12.4pt;"
+ valign="top">FEATURE OF THE WEEK</td>
+</tr>
+<tr>
+<td style="padding:5px;" align="center" height="111"
+valign="middle"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEHARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"><img
+ src="cid:3.145822543@web192806.mail.sg3.yahoo.com"
+alt="Aircel iPhone 3GS" border="0" height="101"
+width="150" /></a></td>
+</tr>
+<tr>
+<td
+style="padding:5px;font-family:Georgia, Times, serif;border-bottom:1px solid rgb(229, 119, 118);"
+ valign="top"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEHARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="font-size:11pt;color:rgb(86, 86, 86);text-decoration:none;"><b>Aircel
+iPhone 3GS at Rs. 12,999; is it worth it? We find out!</b></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3"
+style="border-top:1px solid rgb(229, 119, 118);padding:7px 2px 2px;font-family:georgia;color:rgb(29, 28, 29);font-size:12.4pt;"
+ valign="top">POLL</td>
+</tr>
+<tr>
+<td colspan="2" height="5">&#160;</td>
+</tr>
+<tr>
+<td colspan="2" style="font-family:georgia;font-size:10pt;"
+valign="top">
+<form target="_blank"
+action="https://docs.google.com/a/9dot9.in/spreadsheet/formResponse?formkey=dEFrWHhoRlkzRXFOZTA0dE1sQmsxUVE6MQ&amp;ifq"
+ id="yiv1682081540ss-form" method="post"><label
+class="yiv1682081540ss-q-title" for="entry_0"><b>Which is your most
+preferred gaming platform?</b></label><br />
+<br />
+<input name="entry.0.group" value="Consoles"
+class="yiv1682081540ss-q-radio" id="yiv1682081540group_0_1"
+type="radio" />Consoles<br />
+<input name="entry.0.group" value="PC"
+class="yiv1682081540ss-q-radio" id="yiv1682081540group_0_2"
+type="radio" />PC<br />
+<input name="entry.0.group" value="Mobiles"
+class="yiv1682081540ss-q-radio" id="yiv1682081540group_0_3"
+type="radio" />Mobiles<br />
+<input name="entry.0.group" value="Tablets"
+class="yiv1682081540ss-q-radio" id="yiv1682081540group_0_4"
+type="radio" />Tablets<br />
+<br />
+<input name="pageNumber" value="0" type="hidden" /> <input
+name="backupCache" value="" type="hidden" />
+<center><input name="submit" value="Submit"
+type="submit" /></center>
+</form>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="5">&#160;</td>
+</tr>
+<tr>
+<td colspan="2"
+style="font-family:Georgia, Times, serif;font-size:13px;padding:5px;"
+ valign="top"><a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSBQEHAhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(83, 83, 83);"><b>View Last
+Week's Poll Results</b></a></td>
+</tr>
+<tr>
+<td colspan="2" height="5">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td
+style="padding:3px;font-family:georgia;color:rgb(255, 255, 255);font-size:8pt;"
+ align="right" bgcolor="#B51A1A" width="22%">&#160;</td>
+<td
+style="padding:3px;font-family:georgia;color:rgb(255, 255, 255);font-size:7.68pt;"
+ align="right" bgcolor="#B51A1A" width="22%"><b><a
+class="yui_3_2_0_21_1343310929016321" rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEABhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="font-family:georgia;font-size:7.68pt;color:rgb(255, 255, 255);text-decoration:none;">Follow
+us on Twitter</a></b></td>
+<td
+style="padding:3px;font-family:georgia;color:rgb(255, 255, 255);font-size:7.68pt;"
+ align="center" bgcolor="#B51A1A" width="2%"><span
+style="color:rgb(0, 0, 0);">&#160;&#160;|</span></td>
+<td
+style="padding:3px;font-family:georgia;color:rgb(255, 255, 255);font-size:7.68pt;"
+ align="left" bgcolor="#B51A1A" width="54%"><b><a
+class="yui_3_2_0_21_1343310929016329" rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEABxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="font-family:georgia;font-size:7.68pt;color:rgb(255, 255, 255);text-decoration:none;">Join
+us on Facebook</a></b></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="5"
+style="padding:10px;font-family:arial;font-size:7.04pt;"
+bgcolor="#CCCCCC"><span style="color:rgb(0, 0, 0);"><b>MORE
+NEWSLETTERS</b></span> : <a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAEBABlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">Thinkdigit
+Daily</a><span style="color:rgb(158, 158, 158);">&#160;|</span> <a
+rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRBwcHBBlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">SKOAR! Gaming
+Newsletter</a><span
+style="color:rgb(158, 158, 158);">&#160;|</span> <a rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAwgFARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">dev.Works
+Developer Newsletter</a><span
+style="color:rgb(158, 158, 158);">&#160;|</span> <a rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRBwcHBRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">Consumermate</a><br />
+<span style="color:rgb(0, 0, 0);"><b>VISIT OUR SISTER
+SITES</b></span> : <a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAAHBRlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">dev.Works
+(developer community)</a><span
+style="color:rgb(158, 158, 158);">&#160;|</span> <a rel="nofollow"
+target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAgYAARlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">SKOAR! (gaming
+hangout)</a> <span style="color:rgb(158, 158, 158);">&#160;|</span>
+<a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZRAAAHBxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO"
+ style="text-decoration:none;color:rgb(0, 0, 0);">Consumermate
+(buying guide for laptops, mobiles andmore)</a><br />
+Copyright: 2007-10 Nine Dot Nine Mediaworx Pvt. Ltd. All Rights
+Reserved</td>
+</tr>
+</tbody>
+</table>
+<br />
+<br />
+<div class="yiv1682081540emailfooter">
+<center>
+<div>Click <a rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPAhlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO">here</a>
+to forward this mail<br />
+If you wish to unsubscribe from future mails, click <a
+rel="nofollow" target="_blank"
+href="http://thinkdigit.mailserv.in/9dot9media/lt.php?id=eBhRB1ZSAggPAxlTBQVcURg=VAAIVQkMU01QVU1CBxMVAlchTgsAWF0YUwoO">click
+here</a></div>
+</center>
+</div>
+</div>
+<img
+src="http://thinkdigit.mailserv.in/9dot9media/ut.php?m=7492&amp;u=c1e04da3ae67fef2a7328376b3c3a5c6"
+ border="0" /></div>
+<img src="cid:4.145822543@web192806.mail.sg3.yahoo.com" /><img
+src="cid:5.145822543@web192806.mail.sg3.yahoo.com" /><img
+src="cid:6.145822543@web192806.mail.sg3.yahoo.com" /><br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

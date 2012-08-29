@@ -1,0 +1,3689 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+var current=0;var prev=0;var next=0;var totalCount=14;function hideShow(num,count){if(num==1){prev=1;}else{prev=num-1;}next=num+1;current=num;hideAll(count);document.getElementById('mail'+current).style.display='block';}function hideAll(count){totalCount=count;for(var i=1;i <=totalCount;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}function showNext(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=2;next=3;}else{if( current != totalCount){prev=current;}current=next;if( current != totalCount){next=next+1;}}document.getElementById('mail'+current).style.display='block';}function showPrev(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=1;next=2;}else{if(current!=1){next=current;current=prev;}if(prev!=1){prev=prev-1;}}document.getElementById('mail'+current).style.display='block';}function showFirst(){hideAll(totalCount);prev=1; current=1; next=2;document.getElementById('mail'+current).style.display='block';}function showLast(){hideAll(totalCount);prev=totalCount-1; current=totalCount; next=totalCount;document.getElementById('mail'+current).style.display='block';}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color    :       #C8E2EB;width                           :       1000px;margin                           :       auto;}#main{font-family :       sans-serif;font-size            :       14px;width                      :       auto;height                     :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #008000;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       12px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{white-space: nowrap;font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:25px;color:        black;}#mailheader td{vertical-align: top; }#mailcontent{padding:10px;overflow-x:auto;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+</head>
+<body onload='hideShow(1,14);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='showprev' onclick='showPrev()'
+href='javascript:void(0)'>prev</a>&#160;&#160;<a id='shownext'
+onclick='showNext()' href='javascript:void(0)'>next</a><br />
+<a id='showFirst' onclick='showFirst()'
+href='javascript:void(0)'>First</a>&#160;&#160;<a id='page1'
+onclick='hideShow(1,14)' href='javascript:void(0)'>1</a> <a
+id='page2' onclick='hideShow(2,14)' href='javascript:void(0)'>2</a>
+<a id='page3' onclick='hideShow(3,14)'
+href='javascript:void(0)'>3</a> <a id='page4'
+onclick='hideShow(4,14)' href='javascript:void(0)'>4</a> <a
+id='page5' onclick='hideShow(5,14)' href='javascript:void(0)'>5</a>
+<a id='page6' onclick='hideShow(6,14)'
+href='javascript:void(0)'>6</a> <a id='page7'
+onclick='hideShow(7,14)' href='javascript:void(0)'>7</a> <a
+id='page8' onclick='hideShow(8,14)' href='javascript:void(0)'>8</a>
+<a id='page9' onclick='hideShow(9,14)'
+href='javascript:void(0)'>9</a> <a id='page10'
+onclick='hideShow(10,14)' href='javascript:void(0)'>10</a> <a
+id='page11' onclick='hideShow(11,14)'
+href='javascript:void(0)'>11</a> <a id='page12'
+onclick='hideShow(12,14)' href='javascript:void(0)'>12</a> <a
+id='page13' onclick='hideShow(13,14)'
+href='javascript:void(0)'>13</a> <a id='page14'
+onclick='hideShow(14,14)' href='javascript:void(0)'>14</a> <a
+id='showLast' onclick='showLast()'
+href='javascript:void(0)'>Last</a>&#160;&#160;<a id='showall'
+onclick='showAll(14)' href='javascript:void(0)'>Show All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Notice of Policy Updates<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:01:39 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "PayPal" &lt;<a
+href="mailto:paypal@e.paypal.com.sg">paypal@e.paypal.com.sg</a>&gt;<br />
+Date: Jul 17, 2012 9:12 PM<br />
+Subject: Notice of Policy Updates<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div>
+<div>
+<table width="573" border="0" cellspacing="0" cellpadding="0"
+align="center">
+<tbody>
+<tr>
+<td align="right" valign="top"><a
+href="https://email-edg.paypal.com/r/K9S0BEN/O3UCW/BJP6B3/2W62G/Z80T4G/QU/h?a=K9S0BEN&amp;b=6AM4KH&amp;c=HQFMY6K&amp;d=SC7IKZ&amp;e=1"
+ target="_blank"><font face="Verdana,arial,helvetica">View
+Online</font></a></td>
+</tr>
+<tr>
+<td width="567" valign="top"><a
+href="https://email-edg.paypal.com/r/K9S0BEN/O3UCW/BJP6B3/2W62G/HI9X1I/QU/h"
+ target="_blank"><img width="200" height="50" border="0"
+src="https://image.paypal-communication.com/paypal_apac/2011_Q4/legalpolicy/paypal_logo.gif"
+ alt="PayPal" /></a><br />
+ <img width="568" height="15" alt=""
+src="https://image.paypal-communication.com/paypal_apac/2011_Q4/legalpolicy/hdr_blueline_568wx15h.gif" /></td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" width="573" align="center"
+border="0">
+<tbody>
+<tr>
+<td valign="top"><font
+style="font-size:18px;color:rgb(200,128,57);font-family:Arial,Helvetica,sans-serif;margin-top:10px;margin-bottom:10px"><br />
+ <strong>Notice of Policy Updates</strong></font><br />
+<br />
+ <font
+style="font-size:12px;color:rgb(51,51,51);font-family:Arial,Helvetica,sans-serif;margin-top:10px;margin-bottom:10px">Dear
+Shalini Singh,<br />
+<br />
+</font> 
+<p><font
+style="font-size:12px;color:rgb(51,51,51);font-family:Arial,Helvetica,sans-serif">You
+are receiving this notification because you have elected to receive
+email notice of all PayPal Policy Change Notices.<br />
+<br />
+ PayPal recently posted a new Policy Update. You can view this
+Policy Update by logging in to your PayPal account. To log in to
+your account, go to <a
+href="https://email-edg.paypal.com/r/K9S0BEN/O3UCW/BJP6B3/2W62G/202GKC/QU/h"
+ target="_blank">https://www.paypal.com.sg</a> and enter your
+member log in information. Once you are logged in, look at the
+Notifications section on the top right side of the page for the
+latest Policy Updates.<br />
+<br />
+ If you need help logging in, go to our Help Center by clicking the
+Help link located in the upper right-hand corner of any PayPal
+page.<br />
+<br />
+ Sincerely,<br />
+<br />
+ PayPal</font></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" width="613" border="0"
+align="center">
+<tbody>
+<tr>
+<td valign="top">=A0</td>
+</tr>
+<tr>
+<td valign="top"
+style="border-top:1px solid rgb(204,204,204);font-size:11px;color:rgb(51,51,51);font-family:Arial,Helvetica,sans-serif">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3"><img style="display:block"
+src="https://image.paypal-communication.com/paypal/spacer50.gif"
+border="0" alt="" width="1" height="10" /></td>
+</tr>
+<tr>
+<td><img style="display:block"
+src="https://image.paypal-communication.com/paypal/spacer50.gif"
+border="0" alt="" width="20" height="1" /></td>
+<td
+style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#666666">This
+email was sent to <a href="mailto:shaalinijimmy@gmail.com"
+target="_blank">shaalinijimmy@gmail.com</a>, because your email
+preferences are set to receive All Policy Change Notices. <a
+href="https://email-edg.paypal.com/r/K9S0BEN/O3UCW/BJP6B3/2W62G/Z80TXG/QU/h?a=4VW8954377216861W&amp;b=O4yPFD7SbAGTXuy3MfhG4.3UorWgPJFvB7hPJcJsXVg&amp;c=NON&amp;d=11495&amp;e=76137&amp;f=NON"
+ target="_blank">Unsubscribe</a>.<br />
+<br />
+ Copyright 2012 PayPal Inc. All rights reserved.<br />
+<br />
+ Consumer advisory: PayPal Pte Ltd is regarded as a stored value
+facility under Singapore law. As such, it does not require the
+approval of the Monetary Authority of Singapore. You are advised to
+read the <a
+href="https://email-edg.paypal.com/r/K9S0BEN/O3UCW/BJP6B3/2W62G/K9RYG9/QU/h?a=SG&amp;b=_EN"
+ target="_blank">terms and conditions</a> carefully.</td>
+<td><img style="display:block"
+src="https://image.paypal-communication.com/paypal/spacer50.gif"
+border="0" alt="" width="20" height="1" /></td>
+</tr>
+<tr>
+<td colspan="3"><img style="display:block"
+src="https://image.paypal-communication.com/paypal/spacer50.gif"
+border="0" alt="" width="1" height="10" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img height="1" width="1"
+src="https://email-edg.paypal.com/o/K9S0BEN/O3UCW/BJP6B3/2W62G/NR1K/MS" /><img
+ height="1" width="1"
+src="https://email-edg.paypal.com/o/K9S0BEN/O3UCW/BJP6B3/2W62G/NR1K/52" /></div>
+</div>
+--e89a8f839d330562dd04c6337a64--<br />
+</div>
+</div>
+</div>
+<div id='mail2' class='mails'>
+<div id='mailcount'>Mail - 2</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Embrace IT Transformation. Experience the
+Benefits of<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:02:08 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "VMware" &lt;apps+zj4oz_=<a
+href="mailto:ojz66@facebookappmail.com">ojz66@facebookappmail.com</a>&gt;<br />
+Date: Jul 16, 2012 5:36 PM<br />
+Subject: Embrace IT Transformation. Experience the Benefits of
+Virtualization first-hand.<br />
+To: "Shalini Singh" &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div class="elided-text">
+<div><span><br />
+</span>
+<table
+style="width:650px;background-color:#a1a1a4;text-align:left;margin-left:auto;margin-right:auto"
+ align="center">
+<tbody>
+<tr>
+<td style="vertical-align:top"><br />
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<table
+style="text-align:left;width:93%;margin-left:auto;margin-right:auto;background-color:white"
+ align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="vertical-align:top;background-color:white;font-family:Helvetica,Arial,sans-serif">
+<table style="width:100%" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="vertical-align:top;width:30px"><br />
+</td>
+<td style="vertical-align:top">
+<p><img style="width:116px;min-height:44px;display:block" alt=""
+src="http://download3.vmware.com/elq/APAC/templates/016076_APAC_RWA_Campaign2012/eDM/edm_logo.gif" /></p>
+<span
+style="font-family:Helvetica,Arial,sans-serif;font-weight:bold;color:#357e25;font-size:22px">Over
+300,000 businesses worldwide choose VMware to power their IT
+platform.</span><br />
+ <font style="font-size:12px"><br />
+<span
+style="font-family:Helvetica,Arial,sans-serif;font-size:12px">As
+the industry=92s most robust virtualization platform, VMware
+vSphere 5 simplifies your IT infrastructure with the perfect
+balance of cutting-edge features and robust, reliable
+architecture:</span><br />
+<br />
+</font>
+<table
+style="font-family:Helvetica,Arial,sans-serif;font-size:12px"
+width="271" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top" width="11">=95</td>
+<td width="250">Making the Business Case for Virtualization: <a
+href="http://affiliates.tyroodr.com/ez/dwbxcrxyoy/&amp;lnkurl=http://lms.tyroo.com/campaign/vmware/contactus.html%253Fpublisherid%253D%2525AFFID%2526creativeid%253D%2525BANNER"
+ rel="nofollow" target="_blank"><img
+src="http://affiliates.tyroodr.com/42/5458/0/" alt="free download"
+width="84" height="23" /></a></td>
+</tr>
+<tr>
+<td valign="top">=95</td>
+<td>VMware vCenter=99 Operations Enterprise: Automated Operation
+Management for Your Enterprise:<br />
+ <a
+href="http://affiliates.tyroodr.com/ez/dwbxcrxyoy/&amp;lnkurl=http://lms.tyroo.com/campaign/vmware/contactus1.html%253Fpublisherid%253D%2525AFFID%2526creativeid%253D%2525BANNER"
+ rel="nofollow" target="_blank"><img
+src="http://affiliates.tyroodr.com/42/5458/0/" alt="free download"
+width="84" height="23" /></a></td>
+</tr>
+<tr>
+<td valign="top">
+<p>=95</p>
+</td>
+<td>
+<p>Selecting a Virtualization Solution for Your Small or Midsize
+Business:<br />
+ <a
+href="http://affiliates.tyroodr.com/ez/dwbxcrxyoy/&amp;lnkurl=http://lms.tyroo.com/campaign/vmware/contactus2.html%253Fpublisherid%253D%2525AFFID%2526creativeid%253D%2525BANNER"
+ rel="nofollow" target="_blank"><img
+src="http://affiliates.tyroodr.com/42/5458/0/" alt="free download"
+width="84" height="23" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<span
+style="font-family:Helvetica,Arial,sans-serif;font-size:12px">Discover
+how you can drive greater efficiency of existing investments and
+improve operational agility by standardizing on VMware vSphere as
+your strategic IT platform.</span><br />
+ </td>
+<td style="vertical-align:top;width:30px"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="vertical-align:top"><img
+style="width:15px;min-height:255px" alt=""
+src="http://download3.vmware.com/elq/APAC/templates/016076_APAC_RWA_Campaign2012/eDM/edm2_image_r1_c1.gif" /><br />
+</td>
+<td
+style="vertical-align:top;background-color:#6eb43f;font-family:Helvetica,Arial,sans-serif;width:190px"><img
+ style="width:230px;min-height:255px;display:block" alt=""
+src="http://download3.vmware.com/elq/APAC/templates/016076_APAC_RWA_Campaign2012/eDM/edm2_image_r1_c2_ITP.gif" />
+<table style="text-align:left;width:230px;min-height:327px"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="vertical-align:top;width:10px"><br />
+</td>
+<td style="vertical-align:top"><span
+style="font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#ffffff">Take
+advantage of this free evaluation and see how easy it is to get
+started with most widely deployed virtualization platform in the
+world.<br />
+<br />
+</span></td>
+<td style="vertical-align:top;width:13px"><br />
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top"><br />
+</td>
+<td
+style="vertical-align:top;padding-top:20px;padding-bottom:20px">
+<img style="width:195px;min-height:81px;display:block" alt=""
+src="http://affiliates.tyroodr.com/42/5541/0/" /></td>
+<td style="vertical-align:top"><br />
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;min-height:3px"><br />
+</td>
+<td style="vertical-align:top;min-height:3px"><br />
+</td>
+<td
+style="vertical-align:bottom;min-height:3px;background-color:#6eb43f"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr align="center">
+<td style="vertical-align:top"><br />
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<br />
+<img src="http://affiliates.tyroodr.com/42/921/31484/"
+border="0" /><img width="1" height="1" border="0"
+src="http://socialconnexion.in/campaign/pixel.aspx?cam_id=291607" /></div>
+<br />
+<br />
+---<br />
+This email was sent by VMware. You can <a
+href="http://www.facebook.com/n/?editaccount.php&amp;notifications&amp;block=125717634120849&amp;t=1342440361&amp;l=b&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank">disable emails here</a>.<br />
+</div>
+</div>
+--f46d044786c3bc1bea04c6337bde--<br />
+</div>
+</div>
+</div>
+<div id='mail3' class='mails'>
+<div id='mailcount'>Mail - 3</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Welcome to Zinio. Read Now. Anywhere,
+Anytime.<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:03:37 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Zinio Digital Magazines" &lt;<a
+href="mailto:digitalmagazines@msg.zinio.com">digitalmagazines@msg.zinio.com</a>&gt;<br />
+Date: Jul 12, 2012 9:42 PM<br />
+Subject: Welcome to Zinio. Read Now. Anywhere, Anytime.<br />
+To: "Shalini Singh" &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div>
+<center><br />
+<table width="740" cellpadding="0" cellspacing="0" border="0"
+style="background:#4a4a4a;padding:20px">
+<tr>
+<td>
+<table width="700" cellpadding="0" cellspacing="0" border="0"
+style="background:#ffffff">
+<tr>
+<td colspan="2"
+style="color:#999999;text-align:right;padding-right:4px">
+<span>Welcome to Zinio</span> =BB <a
+style="color:#3b8ac9;text-decoration:none"
+href="http://links.zinio.com/rts/go2.aspx?h=930385&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn&amp;x=539023dfc47acc3e4f40022aaac00464"
+ target="_blank">View as a web page =BB</a></td>
+</tr>
+<tr>
+<td><img
+src="http://cache4.cv47.net/wpm/183/images/welcometozinio.jpg"
+width="700" height="175" alt="Welcome to Zinio" /><br />
+ <img src="http://cache4.cv47.net/wpm/183/images/diag.png"
+width="700" height="40" /></td>
+</tr>
+</table>
+<table width="700" cellpadding="0" cellspacing="0" border="0"
+style="background:#ffffff;padding:30px 40px 40px 30px">
+<tr>
+<td colspan="2">
+<table>
+<tr>
+<td width="165" valign="top">
+<h2>Popular titles on<br />
+ Zinio now</h2>
+<img src="http://cache4.cv47.net/wpm/183/images/magcover.jpg"
+style="padding-top:10px" /><br />
+ 
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997074&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">HARVARD BUSINESS REVIEW</a><br />
+ Subscribe and get 40% off all business publications.</p>
+<img
+src="http://secure.zinio.com/magimages/373124878/2012/416209700_200.jpg"
+ width="145" height="190" alt="logo"
+style="padding-top:10px" /><br />
+ 
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997075&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">MAXIM</a><br />
+ Get up to 40% off.</p>
+<img
+src="http://secure.zinio.com/magimages/193012078/2012/416213705_200.jpg"
+ width="145" height="190" alt="logo"
+style="padding-top:10px" /><br />
+ 
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997076&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">HELLO!</a><br />
+ Get up to 40% off.</p>
+<p style="padding-top:15px"><a
+href="http://links.zinio.com/rts/go2.aspx?h=997077&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">CLICK TO SEE MORE POPULAR TITLES</a></p>
+</td>
+<td width="500" valign="top" style="padding-left:35px">
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997078&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank"><img
+src="http://cache4.cv47.net/wpm/183/images/video_welcome.jpg"
+width="440" height="240" border="0" /></a><br />
+</p>
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997079&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">CLICK TO WATCH THE VIDEO</a></p>
+<h1>Zinio is the world's largest newsstand.</h1>
+<p>With more than 5,000 magazines, easy-to-use features and
+incredible free content, Zinio delivers the ultimate magazine
+experience anytime and anywhere you want.</p>
+<table style="margin:20px 0px">
+<tr>
+<td width="300" height="50"
+style="background:#ee2d24;text-align:center">
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997077&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">Find your favorite magazines NOW</a></p>
+</td>
+</tr>
+</table>
+<br />
+ 
+<table width="100%"
+style="background:#f2f2f2;padding:20px 20px 0px 20px">
+<tr>
+<td>
+<h2>Download the Zinio app</h2>
+<a
+href="http://links.zinio.com/rts/go2.aspx?h=997080&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">iphone</a> =A0=A0=A0<span
+style="font-size:12px">|</span>=A0=A0=A0 <a
+href="http://links.zinio.com/rts/go2.aspx?h=997081&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">ipad</a> =A0=A0=A0<span
+style="font-size:12px">|</span>=A0=A0=A0 <a
+href="http://links.zinio.com/rts/go2.aspx?h=997082&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">android</a> =A0=A0=A0<span
+style="font-size:12px">|</span>=A0=A0=A0 <a
+href="http://links.zinio.com/rts/go2.aspx?h=997083&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">mac</a> =A0=A0=A0<span
+style="font-size:12px">|</span>=A0=A0=A0 <a
+href="http://links.zinio.com/rts/go2.aspx?h=997083&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">pc</a> 
+<table width="100%" style="border-bottom:2px solid white">
+<tr>
+<td>=A0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+ 
+<table width="100%"
+style="background:#f2f2f2;margin:5px 0px 0px 0px;padding:20px 20px 0px 17px">
+<tr>
+<td>
+<h2>Get the most out of Zinio</h2>
+<table width="100%" cellpadding="0" cellspacing="0"
+style="padding-top:5px">
+<tr>
+<td width="175" valign="top">
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997084&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">daily deals</a><br />
+ <span style="color:#1e3030">The deal of the day.</span></p>
+</td>
+<td width="175" style="padding-left:25px">
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997085&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">zinio perks program</a><br />
+ <span style="color:#1e3030">Keep up to date on all our coolest
+deals.</span></p>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0"
+style="padding-top:10px">
+<tr>
+<td width="175" valign="top">
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997086&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">Follow us on Twitter</a><br />
+ <span style="color:#1e3030">Keep up to date on all our coolest
+deals.</span></p>
+</td>
+<td width="175" style="padding-left:25px">
+<p><a
+href="http://links.zinio.com/rts/go2.aspx?h=997087&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank">Like us on Facebook</a><br />
+</p>
+</td>
+</tr>
+</table>
+<table width="100%" style="border-bottom:2px solid white">
+<tr>
+<td>=A0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+<br />
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="700" cellpadding="0" cellspacing="0" border="0"
+style="background-image:url('http://cache4.cv47.net/wpm/183/images/bg.png');padding:30px 30px 50px 30px">
+<tr colspan="2">
+<td width="200" valign="top"><img
+src="http://cache4.cv47.net/wpm/183/images/z.png" width="89"
+height="46" /></td>
+<td width="500">
+<p><font face="Arial, helvetica, sans-serif"
+style="font-family:arial,helvetica,sans-serif;font-size:11px"><font
+color="#666667"><b>Need help with a current Zinio
+subscription?<br />
+<a
+href="http://links.zinio.com/rts/go2.aspx?h=930374&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ style="text-decoration:none" target="_blank"><font
+color="#666667">View tips</font></a></b> for reading your
+publications at <a
+href="http://links.zinio.com/rts/go2.aspx?h=930374&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ style="text-decoration:none" target="_blank"><font
+color="#666667">www.zinio.com/help</font></a>.<br />
+<br />
+ You are receiving this email at <a
+href="mailto:shaalinijimmy@gmail.com"
+target="_blank">shaalinijimmy@gmail.com</a>, because you have opted
+in to receive promotions and updates from Zinio.<br />
+<br />
+ Change your email preferences <a
+href="http://links.zinio.com/rts/go2.aspx?h=930375&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn&amp;x=436773826%7C21958773%7Crfoze%7C22587"
+ target="_blank"><font color="666667">here</font></a>.<br />
+<br />
+Unsubscribe from Zinio marketing emails <a
+href="http://links.zinio.com/rts/go2.aspx?h=930376&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn&amp;x=436773826%7C21958773%7Crfoze%7C22587"
+ target="_blank"><font color="666667">here</font></a>.<br />
+<br />
+ <a
+href="http://links.zinio.com/rts/go2.aspx?h=930377&amp;tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ target="_blank"><font color="666667">Zinio Legal
+Statement</font></a><br />
+<br />
+ 2001-2011, Zinio, LLC. All rights reserved.<br />
+ 114 Sansome Street, 4th Floor, San Francisco, CA 94104<br />
+<br />
+<br />
+</font></font></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+</center>
+</div>
+<img
+src="http://links.zinio.com/rts/open.aspx?tp=l-11-2x-5sJ-TYep8-1c-1U8Tl-1c-2Aemqn"
+ height="1" width="1" /></div>
+--f46d0447893711f3c504c63381bb--<br />
+</div>
+</div>
+</div>
+<div id='mail4' class='mails'>
+<div id='mailcount'>Mail - 4</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Limited period offer! Rewards worth over
+Rs 5000 with Citibank Card<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:04:25 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Citibank Cards" &lt;<a
+href="mailto:noreply@way2sms.in">noreply@way2sms.in</a>&gt;<br />
+Date: Jul 11, 2012 3:13 PM<br />
+Subject: Limited period offer! Rewards worth over Rs 5000 with
+Citibank Card<br />
+To: "shalini singh" &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+ 
+<table width="480" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#ffffff" align="center"
+style="padding:0px;color:rgb(153,153,153);font-size:10px;line-height:1.5em;border:1px solid #fff">
+<tr>
+<td style="padding:5px 0px">If you are unable to view this mailer
+<a style="color:rgb(153,153,153)"
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=viewbrowser"
+ target="_blank">Click here</a><br />
+</td>
+</tr>
+</table>
+<table width="480" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#ffffff" align="center"
+style="padding:0px;color:rgb(153,153,153);font-size:10px;line-height:1.5em;border:1px solid #fff">
+<tr>
+<td style="padding:5px 0px">You have received this mail because you
+are a member of way2sms on behalf of citibank. To stop receiving
+these emails please <a style="color:rgb(153,153,153)"
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=stop"
+ target="_blank">click here</a> to unsubscribe.<br />
+</td>
+</tr>
+</table>
+<table width="485" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#FFFFFF" align="center">
+<tr>
+<td valign="top" align="center">
+<table width="485" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td valign="top" bgcolor="#9A9A9A" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="485" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top" align="left">
+<td width="1" bgcolor="#9A9A9A"><img width="1" height="1" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="483" align="center">
+<table width="483" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td valign="top" bgcolor="#1E4079"
+background="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4/images/header-bg.jpg"
+ align="center">
+<table width="483" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="175" valign="top" align="left"><img width="168"
+height="136" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/header_01.jpg" /></td>
+<td width="308" valign="top" align="left">
+<table width="308" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="right"><img width="1" height="10" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="right"><img width="125" height="34"
+align="right" style="display:block" alt="Citibank" title="Citibank"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/citilogo.png" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="8" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:24px;color:#fff;line-height:25px">Over
+<img width="12" height="16" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs.gif" />5000<br />
+ worth of benefits.</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="6" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#fff">Powered
+by Citi.</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><img width="1" height="18" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<table width="460" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td valign="top" align="left">
+<table width="460" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="left">
+<table width="381" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="left"><img width="1" height="10" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#176888"><strong>Citibank
+Rewards Card - the most rewarding card</strong></td>
+</tr>
+</table>
+</td>
+<td width="79" valign="top" align="left">
+<table width="79" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#E90202" align="right">
+<tr>
+<td><img width="1" height="3" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="middle" align="center"><a
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=clicks&amp;forwardurl=2298"
+ style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#ffffff"
+ target="_blank"><strong>Apply now!</strong></a></td>
+</tr>
+<tr>
+<td><img width="1" height="6" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="10" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="460" cellspacing="0" cellpadding="0" border="0"
+align="left">
+<tr>
+<td width="78" valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#176888">
+<table width="78" cellspacing="0" cellpadding="0" border="0"
+align="left">
+<tr>
+<td valign="top" align="left"><img width="1" height="18" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="68" height="56"
+style="display:block" alt="Citibank Rewards Card "
+title="Citibank Rewards Card"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/crc-card.jpg" /></td>
+</tr>
+</table>
+</td>
+<td width="2" valign="top" bgcolor="#000000" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="10" valign="top" align="left"><img width="10" height="1"
+alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="top" align="left">
+<table width="370" cellspacing="0" cellpadding="0" border="0"
+align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<tr>
+<td width="12" valign="top" align="left"><img width="4" height="8"
+alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/dot.gif" /></td>
+<td valign="top" align="left">Enjoy 10 times the Reward Points at
+apparel &amp; department stores and leading online shopping
+sites*</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2"><img width="1" height="4"
+alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="4" height="8" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/dot.gif" /></td>
+<td valign="top" align="left">Redeem rewards instantly at 600+
+stores &amp; online shopping partners and against card
+outstanding.</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2"><img width="1" height="4"
+alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="4" height="8" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/dot.gif" /></td>
+<td valign="top" align="left">Earn over 12,000 reward points and
+use them to shop for over <img width="5" height="8" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs2.gif" />5000!</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="20" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="460" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#C6C6C6" align="left">
+<tr>
+<td valign="top" align="left"><img width="1" height="1" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="458" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#ffffff" align="center">
+<tr>
+<td valign="top" align="left">
+<table width="450" cellspacing="0" cellpadding="0" border="0"
+align="left">
+<tr>
+<td width="12" valign="top" height="27" align="left"><img
+width="12" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="438" valign="middle" align="left"
+style="font-size:12px;font-family:Arial,Helvetica,sans-serif">
+Experience a World of Redemption options:</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#B5EAFF" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#EDFAFF" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="458" cellspacing="0" cellpadding="0" border="0"
+align="left">
+<tr>
+<td width="75" valign="top" align="left"><img width="75"
+height="53" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/icon01.gif" /></td>
+<td width="383" valign="top" bgcolor="#FFFAEC" align="left">
+<table width="383" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="left" colspan="2"><img width="1"
+height="16" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td width="25" valign="top" align="left"><img width="15"
+height="12" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/plus01.gif" /></td>
+<td valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#b98401">Set
+off on a shopping spree with Instant Redemption for <img width="6"
+height="8" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs-br.gif" />5000
+at Shoppers Stop,<img width="67" height="8" alt="Infibeam.com"
+title="Infibeam.com"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/infibeam.gif" />,
+The Mobile Store &amp; 600 more outlets</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#B5EAFF" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#EDFAFF" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="458" cellspacing="0" cellpadding="0" border="0"
+align="left">
+<tr>
+<td width="75" valign="top" align="left"><img width="75"
+height="53" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/icon02.gif" /></td>
+<td width="383" valign="top" bgcolor="#EAFFFA" align="left">
+<table width="383" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="left" colspan="2"><img width="1"
+height="16" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td width="25" valign="top" align="left"><img width="15"
+height="12" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/plus02.gif" /></td>
+<td valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#008a69">Plan
+for your next vacation by redeeming Reward Points<br />
+ for air miles</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#B5EAFF" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#EDFAFF" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="458" cellspacing="0" cellpadding="0" border="0"
+align="left">
+<tr>
+<td width="75" valign="top" align="left"><img width="75"
+height="53" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/icon03.gif" /></td>
+<td width="383" valign="top" bgcolor="#E9F4FF" align="left">
+<table width="383" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="left" colspan="2"><img width="1"
+height="16" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td width="25" valign="top" align="left"><img width="15"
+height="12" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/plus03.gif" /></td>
+<td valign="top" align="left"
+style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#0061a4">Book
+movie tickets at <img width="90" height="11" align="absbottom"
+alt="Bookmyshow.com" title="Bookmyshow.com" style="color:#0061a4"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/bookmyshow.gif" />
+and take your family<br />
+ to the multiplex</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="1" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="20" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"
+style="font-size:12px;font-family:Arial,Helvetica,sans-serif">
+<strong>Here's how the points add up</strong></td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="6" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="458" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left">
+<table width="450" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#ffffff" align="center">
+<tr bgcolor="#ABDEF3">
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="32" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<strong>Spend category</strong></td>
+<td width="2" valign="top" bgcolor="#ffffff" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="top" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<strong>Monthly<br />
+ Spend (<img width="5" height="8" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs2.gif" />)</strong></td>
+<td width="2" valign="top" bgcolor="#ffffff" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="top" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<strong>Total Reward Points earned in a year</strong></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="22" align="left">
+<table width="226" cellspacing="0" cellpadding="0" border="0"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<tr>
+<td valign="middle" height="22" align="left">Welcome Reward
+points**</td>
+<td valign="middle" align="left"><img width="72" height="15"
+style="display:block" alt="Exclusive Offer" title="Exclusive Offer"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/exclusive.gif" /></td>
+</tr>
+</table>
+</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+3500</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="22" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+Spends at 10X stores*<br />
+ (Apparel &amp; Department stores)</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+6000</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+5760</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="22" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">All
+other spends</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+10000</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+960</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="22" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">Bonus
+points on Sign up for<br />
+ Statement on E-Mail</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+300</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="31" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">Bonus
+points on issuance of<br />
+ Additional Card (Up to 3 cards)</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+500</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="22" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">Bonus
+reward points on card<br />
+ renewal</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+1000</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="28" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">Bonus
+reward points on your<br />
+ Birthday</td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+500</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="2" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="425" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td width="226" valign="middle" height="22" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<strong>Total Reward points earned</strong></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="left"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td width="77" valign="middle" align="center"><span
+style="font-weight:bold"><img width="2" height="1" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></span></td>
+<td width="2" valign="middle" bgcolor="#7FCDEC" align="center"><img
+width="2" height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+<td valign="middle" align="center"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">
+<strong>12520</strong></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="center">
+<table width="440" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="right"
+style="font-size:9px;font-family:Arial,Helvetica,sans-serif">For
+illustrative purposes only</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#7FCDEC" align="left"><img width="1"
+height="5" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="10" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left"
+style="font-size:11px;font-family:Arial,Helvetica,sans-serif">You
+can shop for over <img width="5" height="8" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs2.gif" />5000
+by redeeming your reward points instantly at 600+ retail outlets
+and online shopping (100points=<img width="5" height="8" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs2.gif" />40)
+or for air miles at select airlines (100points=75 miles)</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="12" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="460" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="341" valign="top" align="right">
+<table width="346" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr>
+<td valign="top" align="right"><img width="1" height="6" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="right"
+style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#ff0000"><strong>No
+Annual Card fee<sup>+</sup></strong></td>
+</tr>
+</table>
+</td>
+<td width="96" valign="top" align="right">
+<table width="101" cellspacing="0" cellpadding="0" border="0"
+bgcolor="#E90202" align="right">
+<tr>
+<td><img width="1" height="3" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="middle" align="center"><a
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=clicks&amp;forwardurl=2298"
+ style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#ffffff"
+ target="_blank"><strong>Apply now! &gt;&gt;</strong></a></td>
+</tr>
+<tr>
+<td><img width="1" height="6" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="36" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#016FB6" align="center"><font
+face="Arial, Helvetica, sans-serif" color="#FFFFFF"
+style="font-size:16px"><img width="483" height="41"
+style="display:block" alt="200 Years Citi" title="200 Years Citi"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/blue-strip.gif" /></font></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<table width="457" cellspacing="0" cellpadding="0" border="0"
+align="center"
+style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#b3b3b3">
+<tr>
+<td valign="top" align="left"><img width="1" height="6" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify">? 2012 Citigroup Inc. Citibank and Arc Design
+is a registered service mark of Citigroup Inc.</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify">*The 10X points accrue on spends till <img
+width="5" height="7" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs-s.gif" />7000
+(or 560 points) per month in Apparel &amp; Department stores. For
+spends beyond this, earn 1 point per <img width="5" height="7"
+alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs-s.gif" />125.
+Identification of apparel &amp; department stores are based on
+Merchant Category Codes allotted by Visa &amp; MasterCard to the
+merchant where purchase is made. 10X Rewards at featured partners
+are limited period offers.</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify">**2500 bonus reward points on your first spend
+within 30 days of card issuance, credited within 60 days of
+transaction date &amp; 1000 bonus reward points on your first spend
+of <img width="5" height="7" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs-s.gif" />1000
+within 60 days of card issuance credited in the subsequent
+statement.</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify"><font style="font-size:10px"><sup>+</sup>Spend
+<img width="5" height="7" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs-s.gif" />30,
+000 in a year and enjoy No Annual Card Fee, else a fee of <img
+width="5" height="7" alt=""
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/rs-s.gif" />1000
+will be applicable at the end of the year.</font></div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify"><a
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=clicks&amp;forwardurl=70"
+ style="color:#01a8e1" target="_blank">Click here</a> to view the
+Most Important Terms and Conditions of this card.</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify"><a
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=clicks&amp;forwardurl=150"
+ style="color:#01a8e1" target="_blank">Click here</a> to view the
+card member terms and conditions.</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify">Enjoy bonus of 500 points per additional card
+up to the 1st 3 additional cards. To apply for an additional card,
+<a
+href="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=clicks&amp;forwardurl=1407"
+ style="color:#01a8e1" target="_blank">click here</a></div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify">As a part of credit card application
+procedure, we will require your recent passport size color
+photograph; self attested copy of your address proof and valid
+photo identity proof documents. You will be contacted separately
+for collection of these documents. The documents submitted along
+with the application will be kept with the bank for record purposes
+and will not be returned.</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="4" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<div align="justify">Issuance of the Credit Card is at the sole
+discretion of the bank and is subject to the bank's approval
+criteria</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"><img width="1" height="18" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#9A9A9A"><img width="1" height="1" alt=""
+style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#9A9A9A" align="left"><img width="1"
+height="1" alt="" style="display:block"
+src="http://bounce.way2sms.in/julyw2s/interactive/citicrcjuly4///images/spacer.gif" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img alt=""
+src="http://bounce.way2sms.in/email1.1/MailStatus?id=4705&amp;nid=848&amp;subid=6253635&amp;action=readstatus"
+ height="0px" width="0px" /></div>
+--e89a8f643d9ae3690e04c633830b--<br />
+</div>
+</div>
+</div>
+<div id='mail5' class='mails'>
+<div id='mailcount'>Mail - 5</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: FW: GX - Useful document<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:06:23 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: &lt;<a
+href="mailto:shalini.b.singh@accenture.com">shalini.b.singh@accenture.com</a>&gt;<br />
+Date: Jul 12, 2012 5:12 PM<br />
+Subject: FW: GX - Useful document<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div lang="EN-US" link="blue" vlink="purple">
+<div>
+<p class="MsoNormal"><span style="color:#1f497d">=A0</span></p>
+<p class="MsoNormal"><span style="color:#1f497d">=A0</span></p>
+<div>
+<div
+style="border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in 0in 0in">
+<p class="MsoNormal"><b><span
+style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b>
+<span
+style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">Miriyala,
+Satyanand<br />
+<b>Sent:</b> Thursday, July 12, 2012 4:56 PM<br />
+<b>To:</b> Thangavel, T.; Singh, Shalini B.<br />
+<b>Cc:</b> Tundalam, Roopkumar; Sivasubramanian, P.<br />
+<b>Subject:</b> GX - Useful document</span></p>
+</div>
+</div>
+<p class="MsoNormal">=A0</p>
+<p class="MsoNormal">Hi</p>
+<p class="MsoNormal">=A0</p>
+<p class="MsoNormal">Please find attached for basic GX WebManager
+Architecture</p>
+<p class="MsoNormal">=A0</p>
+<p class="MsoNormal">Thanks</p>
+<p class="MsoNormal">Satya</p>
+</div>
+<br />
+<hr />
+<font face="Arial" color="Gray" size="1">Subject to local law,
+communications with Accenture and its affiliates including
+telephone calls and emails (including content), may be monitored by
+our systems for the purposes of security and the assessment of
+internal compliance with Accenture policy.<br />
+______________________________________________________________________________________<br />
+<br />
+<a href="http://www.accenture.com"
+target="_blank">www.accenture.com</a><br />
+</font></div>
+</div>
+--e89a8f646e2bf262fe04c6338aba--<br />
+</div>
+</div>
+</div>
+<div id='mail6' class='mails'>
+<div id='mailcount'>Mail - 6</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Indians trapped in Bahrain - the pressure
+is working<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:06:48 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Shanker Mariappan - Avaaz.org" &lt;<a
+href="mailto:avaaz@avaaz.org">avaaz@avaaz.org</a>&gt;<br />
+Date: Jul 11, 2012 3:56 PM<br />
+Subject: Indians trapped in Bahrain - the pressure is working<br />
+To: "<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>"
+&lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+ 
+<div>
+<center><small><font style="color:#666666">To ensure you receive
+emails like this, add Avaaz to your contacts <a
+href="http://avaazimages.s3.amazonaws.com/adding%20contacts%20gif.gif"
+ target="_blank">(how?)</a>. Or, <a
+href="https://secure.avaaz.org/act/?r=unsub&amp;cl=1906842480&amp;email=shaalinijimmy@gmail.com&amp;b=1904&amp;v=15897&amp;lang=en"
+ target="_blank">click here to
+unsubscribe</a>.</font></small></center>
+<br />
+<i>Amazing! Our voices are reaching Nass and Braemar and they are
+feeling the heat! Let's ramp up the pressure and win -- sign now
+and send this to everyone.</i><br />
+<br />
+Dear friends across India,<br />
+<br />
+<table align="right" bgcolor="#ffffff" width="220"
+style="margin-left:15px">
+<tr>
+<td style="border:1px solid #000;padding:10px"><font color="black"
+face="Arial"><a
+href="http://www.avaaz.org/en/petition/Save_100_friends_trapped_in_Bahrain/?bqrqacb&amp;v=15897"
+ target="_blank"><img
+src="http://avaazdo.s3.amazonaws.com/244ae1998650d46e005ed7a619742b7c.jpg"
+ width="200" /></a><br />
+<br />
+Over <b>100 Indian workers are trapped in Bahrain</b> over a pay
+dispute with construction giant Nass. Unable to work or leave,
+<b>one man has already committed suicide</b>. Let=92s call on a key
+international partner for Nass Corporation to <b>put pressure on
+the company to respect human rights before more innocent lives are
+lost</b>. Click to sign now and forward this widely.<br />
+</font>
+<div style="text-align:center"><br />
+<a
+href="http://www.avaaz.org/en/petition/Save_100_friends_trapped_in_Bahrain/?bqrqacb&amp;v=15897"
+ target="_blank"><img
+src="http://avaazdesign.s3.amazonaws.com/btn_signthepetition.png"
+width="200" border="0" alt="Sign the petition" /></a></div>
+</td>
+</tr>
+</table>
+<b>Days ago, I received the devastating news that my younger
+brother had hung himself</b> in a public garden in Bahrain. He was
+one of over 100 Indians trapped in Bahrain by their abusive
+employer -- Nass Corporation. <b>I couldn=92t save Pasupathi, but
+I=92ve started this petition to fight for the rights of his friends
+who are captured and helpless</b>.<br />
+<br />
+There are over 350,000 Indians living in Bahrain and almost 70%
+live in slave-like conditions working for wealthy Bahraini
+companies like Nass who underpay their staff and then get travel
+bans placed on them so they cannot leave. <b>Living in misery and
+without hope of escape people like my brother are left with one
+option: suicide</b>. The Indian Embassy has asked Nass to lift the
+travel ban on its remaining 100 workers so they can return home,
+but they=92re refusing to listen. To save the lives of men like my
+brother, <b>I have a plan to hit Nass where it hurts, but it will
+take the support of people from across India.</b><br />
+<br />
+Nass has entered into a partnership with a Scottish company to
+bring golf to rich Bahrainis. <b>If we raise the alarm now, we can
+urge Braemar Golf to pressure Nass on worker=92s rights or walk
+away from this partnership</b>. Nass did not listen to a poor
+labourer's cry for justice, but they will certainly listen to their
+prestigious business partner. <b>Sign now and when we reach 100,000
+Avaaz will deliver it via hard hitting ads in the Scottish media so
+Braemar gets the message</b>. Sign now and forward:<br />
+<br />
+<a
+href="http://www.avaaz.org/en/petition/Save_100_friends_trapped_in_Bahrain/?bqrqacb&amp;v=15897"
+ target="_blank">http://www.avaaz.org/en/petition/Save_100_friends_trapped_in_Bahrain/?bqrqacb&amp;v=15897</a><br />
+<br />
+<b>The blatant exploitation of workers is permitted in Bahrain by
+something called the <i>kafala</i> system</b> -- an arrangement
+that places foreign workers at the complete mercy of their visa
+sponsor. <b>Often companies underpay their employees, or the
+sponsor takes a massive cut of their wages</b>. When that happens
+most try to leave or find new work, but Bahraini companies go to
+the courts, claim contracts are violated and succeed in getting
+travel bans imposed. This is what happened to my brother when he
+tried to come home to us.<br />
+<br />
+The situation is desperate. Although Bahrain changed this
+slave-trade like <i>kafala</i> system back in 2009, it was quietly
+reinstated during last year=92s unrest. <b>Today, over 100 workers
+still remain trapped by Nass Corporation -- unable to work, leave
+or live</b>. The Indian government has been trying to help, but the
+political instability in Bahrain has limited its impact and
+influence.<br />
+<br />
+We have to find a new way to move past the political deadlock and
+instead <b>directly pressure Nass to treat its workers with respect
+-- hitting their business interests is the best way to win</b>.
+Let=92s expose their abuse internationally to their partner in
+Scotland, and urge Braemar Golf to take a stand for workers=92
+rights. <b>Sign now and forward:</b><br />
+<br />
+<a
+href="http://www.avaaz.org/en/petition/Save_100_friends_trapped_in_Bahrain/?bqrqacb&amp;v=15897"
+ target="_blank">http://www.avaaz.org/en/petition/Save_100_friends_trapped_in_Bahrain/?bqrqacb&amp;v=15897</a><br />
+<br />
+I couldn=92t help my brother, but I will not ignore his desperate
+cry for help. There=92s over 100 fellow Indians still trapped in
+Bahrain, together we can give them hope and freedom from
+slavery.<br />
+<br />
+With hope,<br />
+<br />
+Shanker Mariappan<br />
+<br />
+P.S: This was a special email from fellow Avaaz member Shanker.
+Your information has not been shared. To start your own petition,
+visit the new Avaaz petition site: <a
+href="http://www.avaaz.org/en/petition/?india_bahrain"
+target="_blank">http://www.avaaz.org/en/petition/</a><br />
+<br />
+More information:<br />
+<br />
+Nass Urged to lift travel ban (Daily Tribune) :<br />
+<a
+href="http://www.dt.bh/newsdetails.php?newsid=180612184254&amp;key=301110213450"
+ target="_blank">http://www.dt.bh/newsdetails.php?newsid=180612184254&amp;key=301110213450</a><br />
+<br />
+--------------------------<br />
+</div>
+</div>
+</div>
+<div id='mail7' class='mails'>
+<div id='mailcount'>Mail - 7</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Re: Reviewal request<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:09:07 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "shalini singh" &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+Date: Jul 10, 2012 3:56 PM<br />
+Subject: Re: Reviewal request<br />
+To: "Jeff Douglas" &lt;<a
+href="mailto:jeff@appirio.com">jeff@appirio.com</a>&gt;<br />
+Cc: &lt;<a
+href="mailto:quickquiz@cloudspokes.com">quickquiz@cloudspokes.com</a>&gt;<br />
+<br type="attribution" />
+<p>Hi,</p>
+<p>Thanks for the help and quick response. :-)</p>
+<p><font color="#888888">Shalini Singh</font></p>
+<div class="elided-text">
+<div class="gmail_quote">On Jul 10, 2012 3:52 PM, "Jeff Douglas"
+&lt;<a href="mailto:jeff@appirio.com"
+target="_blank">jeff@appirio.com</a>&gt; wrote:<br
+type="attribution" />
+<blockquote class="gmail_quote"
+style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">OK...
+I gave you credit for that question.<br clear="all" />
+<br />
+Thanks!
+<div><br />
+Jeff Douglas<br />
+google voice: <a href="tel:%28941%29%20227-4843"
+value="+19412274843" target="_blank">(941) 227-4843</a><br />
+mobile: <a href="tel:%28941%29%20809-3455" value="+19418093455"
+target="_blank">(941) 809-3455</a><br />
+email:=A0<a href="mailto:jeff@appirio.com"
+target="_blank">jeff@appirio.com</a><br />
+blog:=A0<a href="http://blog.jeffdouglas.com/"
+target="_blank">http://blog.jeffdouglas.com</a></div>
+<div>github:=A0<a href="https://github.com/jeffdonthemic"
+target="_blank">https://github.com/jeffdonthemic</a></div>
+<div><br />
+</div>
+<div><a href="http://www.cloudspokes.com" target="_blank"><img
+src="http://www.appirio.com/EmailImages/EmailSigCloudSpokes.jpg"
+width="420" height="96" /></a><br />
+<div><br />
+</div>
+<div><a href="http://blog.jeffdouglas.com/"
+target="_blank"></a>Appirio, Inc.=A0<br />
+Accelerating On-Demand in the Enterprise<br />
+<a href="http://www.appirio.com/"
+target="_blank">http://www.appirio.com</a><br />
+</div>
+<div><br />
+</div>
+<div>Author:=A0<a
+href="http://www.lulu.com/spotlight/salesforcehandbook"
+target="_blank">Salesforce Handbook</a>=A0&amp; <a
+href="http://links.jeffdouglas.com/book" target="_blank">Beginning
+Java Google App Engine</a></div>
+</div>
+<br />
+<br />
+<br />
+<div class="gmail_quote">On Tue, Jul 10, 2012 at 6:16 AM, shalini
+singh <span dir="ltr">&lt;<a href="mailto:shaalinijimmy@gmail.com"
+target="_blank">shaalinijimmy@gmail.com</a>&gt;</span> wrote:<br />
+<blockquote class="gmail_quote"
+style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<p>Hi,</p>
+<p>Thanks for the reply.</p>
+<p>Yes you are correct that question requires us to change the
+fewest possible characters. As provided in my previous mail, both
+the answers require change of only one character. So, my answer is
+also correct.</p>
+<p>Please refer my previous mail again and do the needful.</p>
+<p>Thanks,<br />
+Shalini Singh</p>
+<div>
+<div>
+<div class="gmail_quote">On Jul 10, 2012 2:53 PM, "Jeff Douglas"
+&lt;<a href="mailto:jeff@appirio.com"
+target="_blank">jeff@appirio.com</a>&gt; wrote:<br
+type="attribution" />
+<blockquote class="gmail_quote"
+style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Shalini,
+<div><br />
+</div>
+<div>Thanks for your email and we have looked into this question.
+You are correct that there are two possible solutions. However, the
+instructions state, "Correct the error by changing the fewest
+possible characters on that one line". Therefore #1 is the correct
+answer.</div>
+<div><br />
+Thanks!
+<div><br />
+Jeff Douglas<br />
+google voice: <a href="tel:%28941%29%20227-4843"
+value="+19412274843" target="_blank">(941) 227-4843</a><br />
+mobile: <a href="tel:%28941%29%20809-3455" value="+19418093455"
+target="_blank">(941) 809-3455</a><br />
+email:=A0<a href="mailto:jeff@appirio.com"
+target="_blank">jeff@appirio.com</a><br />
+blog:=A0<a href="http://blog.jeffdouglas.com/"
+target="_blank">http://blog.jeffdouglas.com</a></div>
+<div>github:=A0<a href="https://github.com/jeffdonthemic"
+target="_blank">https://github.com/jeffdonthemic</a></div>
+<div><br />
+</div>
+<div><a href="http://www.cloudspokes.com" target="_blank"><img
+width="420" height="96" /></a><br />
+<div><br />
+</div>
+<div><a href="http://blog.jeffdouglas.com/"
+target="_blank"></a>Appirio, Inc.=A0<br />
+Accelerating On-Demand in the Enterprise<br />
+<a href="http://www.appirio.com/"
+target="_blank">http://www.appirio.com</a><br />
+</div>
+<div><br />
+</div>
+<div>Author:=A0<a
+href="http://www.lulu.com/spotlight/salesforcehandbook"
+target="_blank">Salesforce Handbook</a>=A0&amp; <a
+href="http://links.jeffdouglas.com/book" target="_blank">Beginning
+Java Google App Engine</a></div>
+</div>
+<br />
+<br />
+<br />
+<div class="gmail_quote">On Tue, Jul 10, 2012 at 3:53 AM, shalini
+singh <span dir="ltr">&lt;<a href="mailto:shaalinijimmy@gmail.com"
+target="_blank">shaalinijimmy@gmail.com</a>&gt;</span> wrote:<br />
+<blockquote class="gmail_quote"
+style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<p>Hi,</p>
+<p>Please review the question QQQ-2182 for the quiz taken by me on
+9th july.</p>
+<p>The question requires you to display 12 on the screen.The
+question can be answered in two ways:<br />
+1) As given in the answer at the end- by replacing the character g
+by character i inside the search function.</p>
+<p>2) As answered by me- by replacing the lower case q in "quick"
+word with upper case Q inside the search function.</p>
+<p>Please review this and update my score accordingly.</p>
+<p>Thanks,<br />
+Shalini Singh</p>
+</blockquote>
+</div>
+<br />
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+<br />
+</blockquote>
+</div>
+</div>
+</div>
+--e89a8ff1c63cbacd9404c633943b--<br />
+</div>
+</div>
+</div>
+<div id='mail8' class='mails'>
+<div id='mailcount'>Mail - 8</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: SCJP_Notes<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:12:33 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: &lt;<a
+href="mailto:shalini.b.singh@accenture.com">shalini.b.singh@accenture.com</a>&gt;<br />
+Date: Jul 27, 2012 5:08 PM<br />
+Subject: SCJP_Notes<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div lang="EN-US" link="blue" vlink="purple">
+<div>
+<p class="MsoNormal">PFA</p>
+</div>
+<br />
+<hr />
+<font face="Arial" color="Gray" size="1">Subject to local law,
+communications with Accenture and its affiliates including
+telephone calls and emails (including content), may be monitored by
+our systems for the purposes of security and the assessment of
+internal compliance with Accenture policy.<br />
+______________________________________________________________________________________<br />
+<br />
+<a href="http://www.accenture.com"
+target="_blank">www.accenture.com</a><br />
+</font></div>
+</div>
+--e89a8ff1c14cf7bd5c04c633a0d0--<br />
+</div>
+</div>
+</div>
+<div id='mail9' class='mails'>
+<div id='mailcount'>Mail - 9</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: End of Season Sale<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:14:19 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "SHER SINGH" &lt;apps+zj4oz_=<a
+href="mailto:ojz66@facebookappmail.com">ojz66@facebookappmail.com</a>&gt;<br />
+Date: Jul 9, 2012 3:25 AM<br />
+Subject: End of Season Sale<br />
+To: "Shalini Singh" &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div class="elided-text">
+<div>
+<div>
+<table width="590" align="center" bgcolor="#ffffff" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="bottom" width="486" align="left">
+<table style="background:#ffffff none repeat scroll 0% 50%"
+width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="2">=A0</td>
+</tr>
+<tr>
+<td width="29%"><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="300">
+<table width="590" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family:Arial,Helvetica,sans-serif;font-size:14px"
+valign="top" width="590" align="left" height="0"><a
+href="http://affiliates.tyroodr.com/ez/avtrporoln/" rel="nofollow"
+target="_blank"><img src="http://affiliates.tyroodr.com/42/5428/0/"
+alt="End Of Season Sale" title="End Of Season Sale"
+style="border-color:#999999;font-family:Arial,Helvetica,sans-serif;font-size:13px;display:block"
+ width="590" border="1" height="905" /></a></td>
+</tr>
+<tr>
+<td
+style="padding:10px;font-family:Georgia,'Times New Roman',Times,serif;font-size:16px"
+ valign="top" align="left" height="0">
+<div align="center"><span style="font-size:24px"><strong>End of
+Season Sale</strong></span><br />
+<br />
+ Buy 1 to 2 Items* &amp; Get 30% Off<br />
+ Buy 3 to 5 Items* &amp; Get 45% Off<br />
+ Buy 6 or More Items* &amp; Get 60% Off<br />
+<br />
+ <span style="font-size:12px">*The discount is not applicable on
+Mens &amp; Womens New Arrivals. You must be logged into the site
+for the discounts to apply. All discounts are applied at Cart
+Level, no codes required.</span></div>
+</td>
+</tr>
+<tr>
+<td style="padding:10px 10px 0px;font-family:Arial;font-size:13px"
+valign="top" align="left" height="0">
+<hr
+style="border-style:solid solid none;border-bottom:medium none #ffffff;color:#cccccc" />
+</td>
+</tr>
+<tr>
+<td
+style="padding:10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#999999"
+ valign="top" align="left" height="0">
+<div align="left"><em>SherSingh.com has an <a
+href="http://shersingh.com/delivery-and-returns" rel="nofollow"
+style="color:#000000;text-decoration:underline"
+target="_blank"><strong>easy refund and exchange
+policy</strong></a>. Try the garments at home, if they don't fit,
+exchange them. You can even return unused items for a refund.<br />
+ <strong><br />
+ <a href="http://shersingh.com/faqs#payments" rel="nofollow"
+style="color:#000000" target="_blank">Easy Payment
+Methods:</a></strong> You can pay online using major credit or
+debit cards, online banking, or PayPal. Plus, for most major cities
+in India, you can also pay Cash on Delivery!<br />
+<br />
+ <strong><a href="http://shersingh.com/delivery-and-returns"
+rel="nofollow" style="color:#000000" target="_blank">Fast
+Delivery:</a></strong> Orders are processed almost immediately on
+business days (M-F). For shipping within India, estimated delivery
+times are 4-6 business days and for shipping to the US, estimated
+delivery times are 7-10 business days, from the day an order is
+processed.<br />
+<br />
+ Need Help? Contact our <strong>Style Associates</strong> in India
+at <a href="mailto:ask@shersingh.com" style="color:#000000"
+rel="nofollow" target="_blank">ask@shersingh.com</a> or in the US
+at <a href="mailto:service@shersingh.com" style="color:#000000"
+rel="nofollow" target="_blank">service@shersingh.com</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="padding:5px 10px 10px;font-family:Arial;font-size:13px"
+valign="top" align="left" height="0">
+<hr
+style="border-style:solid solid none;border-bottom:medium none #ffffff;color:#cccccc" />
+</td>
+</tr>
+<tr>
+<td><br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding-top:10px">
+<p
+style="line-height:20px;font-size:12px;font-family:Arial,Helvetica,sans-serif;margin:0px"
+ align="center">To be removed from this list please=A0<a
+id="1386897707844414_opt_out" name="1386897707844414_opt_out"
+href="#1386897707844414_SPONECLICKOPTOUT"
+style="color:#333333">unsubscribe here.</a><br />
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="3"
+style="text-align:center;font-size:12px;font-family:Arial,Helvetica,sans-serif"
+ valign="middle" height="20"><a
+id="1386897707844414_forward_to_friend"
+name="1386897707844414_forward_to_friend"
+href="#1386897707844414_SPFORWARD"
+style="color:#333333">Forward</a> this email to a friend</td>
+</tr>
+</tbody>
+</table>
+<img src="http://affiliates.tyroodr.com/42/921/31357/"
+border="0" /><img width="1" height="1" border="0"
+src="http://socialconnexion.in/campaign/pixel.aspx?cam_id=29807" /></div>
+</div>
+<br />
+<br />
+---<br />
+This email was sent by SHER SINGH. You can <a
+href="http://www.facebook.com/n/?editaccount.php&amp;notifications&amp;block=125717634120849&amp;t=1341784551&amp;l=b&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank">disable emails here</a>.<br />
+</div>
+</div>
+--f46d044789374d6fcc04c633a7bc--<br />
+</div>
+</div>
+</div>
+<div id='mail10' class='mails'>
+<div id='mailcount'>Mail - 10</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Learn the tactics of franchising from
+Industry experts<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:15:01 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "<a
+href="mailto:narmada@siliconindia.com">narmada@siliconindia.com</a>"
+&lt;<a
+href="mailto:narmada@siliconindia.com">narmada@siliconindia.com</a>&gt;<br />
+Date: Jun 20, 2012 11:41 AM<br />
+Subject: Learn the tactics of franchising from Industry experts
+@Franchise City(June 23, Bangalore)<br />
+To: "<a
+href="mailto:narmada@siliconindia.com">narmada@siliconindia.com</a>"
+&lt;<a
+href="mailto:narmada@siliconindia.com">narmada@siliconindia.com</a>&gt;<br />
+<br type="attribution" />
+ 
+<div bgcolor="#ffffff" text="#000000">
+<div lang="x-western">
+<p class="MsoNormal"
+style="margin-bottom:0.0001pt;line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Hi ,<br />
+<br />
+ Engagement is serious business. Do it well and the franchise
+thrives. Do it poorly and it withers.<br />
+<br />
+ Franchise City, an exclusive platform for franchise professionals
+will help find answers for questions like what are the A TO Z's Of
+Buying A Franchise? Franchisees' expectations post signing-up of
+Franchisee? and many more.<br />
+<br />
+ This will be a game changing forum where experts from industry
+will share their experiences, learning &amp; wisdom and help
+facilitate a lively learning experience for=A0franchise systems and
+help them improve performance through operational excellence.<br />
+<br />
+ Some of our past speakers are:</span></p>
+<ul type="disc">
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Preethi Vikram, Master
+Franchise, Podar Jumbo Kids</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Deepinder Kapany, Executive VP
+&amp; Head &amp; Distribution Business, Mahindra Retail</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Aloke Totlani, Vice President
+Business Development &amp; Franchise, Daily Bread</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Chandra Gopalan, Director &amp;
+Master Franchisee, Contours International</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Harsh Barwani, VP, Jet
+king</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Ian Faria, Master Coach, Game
+Changer Forum</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Akbar Khwaja, Managing
+Director, United Restaurant Limited</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Vittal Bhandary, Founder and
+Managing Director, Little Elly</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Madhavi, Head, Maple Bear
+Canadian Pre School</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Nikhil Bargale,=A0 S&amp;OP
+Manager, Nike India</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Manish, CEO, Printo</span></li>
+</ul>
+<p class="MsoNormal"
+style="margin-bottom:0.0001pt;line-height:normal"><span
+style="font-size:12pt" lang="EN-US"><br />
+ The event will be attended by franchise CEOs, COOs and VPs of
+operations. Anyone who's thinking about buying a franchise will
+find this symposium to be invaluable where every attendee is
+expected to bring their own perspectives and challenges, with full
+participation as the speakers explore a wide array of solutions and
+develop effective action plans in several key franchise operations
+areas.<br />
+<br />
+ This conference will focus on topics like</span></p>
+<ul type="disc">
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">A TO Z's Of Buying A
+Franchise</span></li>
+<li class="MsoNormal" style="line-height:normal"><span
+style="font-size:12pt" lang="EN-US">Franchisees' expectations post
+signing-up of Franchisee</span></li>
+</ul>
+<span
+style="font-size:12pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"
+ lang="EN-US"><br />
+ Franchise professionals will get to learn more about sales,
+marketing, customer relations, PR, social media, SEO and other key
+topics integral to any size or type of franchise system<br />
+<br />
+ <b>WHEN:</b>=A0=A0=A0 June 23, 2012(Saturday)<br />
+ <b>WHERE:</b>=A0=A0=A0 Nimhans Convention Center, Hosur Road,
+Bangalore, India<br />
+ <b>TIME:</b>=A0=A0=A0 09.30 AM to 01.00 PM<br />
+<br />
+ Hurry Now!We have limited Seats.<br />
+<br />
+ <b>REGISTER NOW:</b><br />
+</span> <a
+href="http://www.siliconindia.com/events/siliconindia_events/register.php?eid=Franchise_city_bangalore_2012&amp;agentId=3"
+ target="_blank">http://www.siliconindia.com/events/siliconindia_events/register.php?eid=Franchise_city_bangalore_2012&amp;agentId=3</a><br />
+<br />
+ <span
+style="font-size:12pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"
+ lang="EN-US"><br />
+<br />
+ Attendance is limited to maintain an intimate setting and foster
+dialogue among all participants.<br />
+</span><br />
+<br />
+ --<br />
+</div>
+<pre cols="72">
+Thanks &amp; RegardsNarmada______________________________NarmadaEvents ManagerSiliconIndia (InfoConnect WebTechnologies India Pvt Ltd.)No. 124, 2nd floor, South Block, Surya Chambers,Old Airport Road, Murugeshpalya,Bangalore-560017.Tel: 91.80. 4311 2101<a
+ href="mailto:Email:narmada@siliconinida.com" target="_blank">
+Email:narmada@siliconinida.com</a>Website:<a
+href="http://www.siliconindia.com" target="_blank">
+www.siliconindia.com</a>________________________________SiliconIndia is 12-year old media firm. We publish two technology &amp; business magazines=97one in the U.S and the other in India. Over the last one decade, SiliconIndia.com has emerged as the most trusted source for news and information for professionals. The portal has a global ranking of No.4 in the IT News &amp; Media category. With over 3 million registered users, SiliconIndia.com is the fastest growing portal and is ranked among the top 100 websites most trafficked from India.
+</pre>
+</div>
+</div>
+--e89a8f839d33cfdc9804c633a974--<br />
+</div>
+</div>
+</div>
+<div id='mail11' class='mails'>
+<div id='mailcount'>Mail - 11</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Special hearty congratulations and thanks
+to Mr.Narendra Modi.<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:16:50 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Causes" &lt;<a
+href="mailto:no-reply@causesmail.com">no-reply@causesmail.com</a>&gt;<br />
+Date: Apr 10, 2012 3:33 AM<br />
+Subject: Special hearty congratulations and thanks to Mr.Narendra
+Modi.<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<table width="100%" cellpadding="0" cellspacing="0" border="0"
+bgcolor="white">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td bgcolor="white" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" width="625"
+align="center" bgcolor="#BCBCBC"
+style="margin:0 auto;background-color:#bcbcbc">
+<tbody>
+<tr>
+<td bgcolor="#2C2C2C" height="38" style="background-color:#2c2c2c"
+align="left"><img alt="Causes.com" border="0" height="18"
+hspace="20"
+src="https://causes-assets2.causes.com/images/email/wob_logo.png?1326766367"
+ style="display:block;border:0" vspace="10" width="86" /></td>
+</tr>
+<tr>
+<td align="left" bgcolor="465006" style="background-color:465006">
+<table cellspacing="0" cellpadding="0" border="0" width="625">
+<tbody>
+<tr>
+<td colspan="3" height="15"></td>
+</tr>
+<tr>
+<td width="20"></td>
+<td align="left" width="50" style="width:50px">
+<div style="padding:2px;background-color:#fff"><img
+alt="SUPPORT INDIAN ARMY IN THE WAR AGAINST TERRORISM" height="46"
+src="https://causes-prod.s3.amazonaws.com/photos/LB/SC/Pt/44/BM/HB/wO/zGS.jpg"
+ style="display:block" width="46" /></div>
+</td>
+<td width="10"></td>
+<td align="left" valign="middle" style="color:#fff">
+<div
+style="font-family:Helvetica,sans-serif;font-size:18px;line-height:23px;color:#fff;font-weight:bold"><a
+ href="http://links.causes.com/s/clCfRW"
+style="color:#fff;text-decoration:none" target="_blank">SUPPORT
+INDIAN ARMY IN THE WAR AGAINST TERRORISM</a></div>
+<div
+style="font-family:Georgia,'Times new roman',serif;color:#fff;font-style:italic;font-size:13px;line-height:18px">Posted
+by Vijayakumar Vani (cause leader)</div>
+</td>
+</tr>
+<tr>
+<td colspan="3" height="15"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#F1F1F1"
+style="background-color:#f1f1f1">
+<table cellspacing="0" cellpadding="0" width="585" align="center">
+<tbody>
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#F1F1F1"
+style="background-color:#f1f1f1">
+<table cellspacing="0" cellpadding="0" border="0" width="585"
+bgcolor="white" align="center">
+<tbody>
+<tr>
+<td width="20" height="18"
+background="https://causes-assets2.causes.com/images/email/corner_topleft.png?1326766367"></td>
+<td height="18"></td>
+<td width="20" height="18"
+background="https://causes-assets0.causes.com/images/email/corner_topright.png?1326766367"></td>
+</tr>
+<tr>
+<td width="20"></td>
+<td align="left" valign="top">
+<div
+style="font-family:Helvetica,sans-serif;font-size:10px;line-height:20px;color:#999;text-transform:uppercase">pledge</div>
+<a href="http://links.causes.com/s/clCfRY"
+style="display:block;font-family:Helvetica,sans-serif;font-size:22px;line-height:25px;color:#3f9ffe;font-weight:bold;letter-spacing:-.05em;margin-bottom:15px;text-decoration:none"
+ target="_blank">Special hearty congratulations and thanks to
+Mr.Narendra Modi.</a> 
+<table cellspacing="0" cellpadding="20" border="0" width="100%">
+<tbody>
+<tr>
+<td align="center" style="color:#333" bgcolor="#FFFAE6">
+<div
+style="font-family:Georgia,Times new roman,serif;font-size:20px;line-height:20px;color:#333;margin-bottom:20px;font-weight:bold">I
+pledge to Our special hearty congratulations and thanks to
+Mr.Narendra Modi.</div>
+<div>
+<table cellspacing="0" cellpadding="0"
+style="border-collapse:collapse">
+<tbody>
+<tr>
+<td
+style="border-width:1px;border-style:solid;border-color:#00a21c;background-color:#00b31f">
+<table cellspacing="0" cellpadding="0"
+style="border-collapse:collapse">
+<tbody>
+<tr>
+<td
+style="font-size:16px;font-family:'Helvetica',arial,sans-serif;padding:8px 20px 7px;border-top:1px solid #61e037"><a
+ href="http://links.causes.com/s/clCfRY"
+style="color:#fff;text-decoration:none;font-weight:bold;font-size:16px"
+ target="_blank">Take the Pledge</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" width="545" bgcolor="white"
+align="center" style="margin:10px 0">
+<tbody>
+<tr>
+<td align="left" valign="top" style="color:#666">
+<div
+style="font-family:Georgia,Times new roman,serif;font-size:15px;line-height:25px;color:#666;margin:10px 0"
+ width="325">The International council of UN has announced that ,
+Gujarat government is the second best state government in the
+world.Before 10 year they had 50,000 crores loan in world bank. But
+today they have deposited 1 lakh crore in world bank.In gujarat:NO
+BARNO POWER CUT15 % of WHOLE INDIA... <a
+href="http://links.causes.com/s/clCfRY"
+style="font-family:Helvetica,sans-serif;color:#3f9ffe;font-size:10px;font-weight:bold;text-decoration:none;white-space:nowrap"
+ target="_blank">See more</a></div>
+</td>
+<td width="20"></td>
+<td align="right" valign="top" style="margin:10px 0" width="200">
+<img alt="" border="0"
+src="https://causes-prod.s3.amazonaws.com/photos/aH/cY/6t/wB/Fs/ru/Oi/wRH.jpg"
+ style="display:block;border:0" width="200" /></td>
+</tr>
+</tbody>
+</table>
+<div
+style="margin-top:10px;font-family:Helvetica,sans-serif;font-size:10px;font-weight:bold;color:#333;text-transform:uppercase;line-height:20px">View,
+share, or add a comment:</div>
+<div>
+<div
+style="font-family:Georgia,&quot;Times new roman&quot;,serif;font-size:15px;color:#34aafd;line-height:20px;text-decoration:none"><a
+ href="http://links.causes.com/s/clCfRY"
+style="font-family:Georgia,&quot;Times new roman&quot;,serif;font-size:15px;color:#34aafd;line-height:20px;text-decoration:none"
+ target="_blank"></a><a href="http://links.causes.com/s/clCfRU"
+target="_blank">http://links.causes.com/s/clCfRU</a></div>
+</div>
+</td>
+<td width="20"></td>
+</tr>
+<tr>
+<td width="20" height="18"
+background="https://causes-assets3.causes.com/images/email/corner_bottomleft.png?1326766367"></td>
+<td height="18"></td>
+<td width="20" height="18"
+background="https://causes-assets0.causes.com/images/email/corner_bottomright.png?1326766367"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="15" cellpadding="0" border="0" width="625"
+align="center" style="margin:0 auto;border-spacing:0px">
+<tbody>
+<tr>
+<td align="center" style="padding-bottom:30px">
+<table cellspacing="0" cellpadding="0" width="575"
+style="width:575px;margin:0 auto;padding:0;border-spacing:0px">
+<tr>
+<td align="center">
+<div
+style="margin:0;padding:20px 0;font:normal 10px 'Helvetica',sans-serif;color:#666;text-align:center;line-height:20px">Address:
+Causes, 88 Kearny St, Suite 2100, San Francisco, CA 94108 United
+States | <a
+href="http://www.causes.com/privacy?utm_campaign=action_email&amp;template=activity_mailer%2Fnew_pledge_activity&amp;utm_medium=email&amp;utm_source=causes&amp;causes_ref=email"
+ style="color:#3580b6;text-decoration:none;font-weight:bold"
+target="_blank">Privacy Policy</a><br />
+ To stop receiving emails from Causes, <a
+href="http://www.causes.com/unsubscribe?utm_campaign=action_email&amp;template=activity_mailer%2Fnew_pledge_activity&amp;utm_medium=email&amp;utm_source=causes&amp;causes_ref=email"
+ style="color:#3580b6;text-decoration:none;font-weight:bold"
+target="_blank">unsubscribe</a>. <img border="0"
+src="http://r.turn.com/r/beacon?b2=p-ikh2fdXlnAOgVcHVx-C7Tmaz5_Qzzbn3F2qvM8N9E-zAAVfcUmQWduQphhuZohm0iowApHDIi1e7x9WGEXOA&amp;cid=" /></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</table>
+<img src="http://ansible.causes.com/external/747/9437656/ping.gif"
+alt="" /></div>
+--f46d0444738350976804c633b09d--<br />
+</div>
+</div>
+</div>
+<div id='mail12' class='mails'>
+<div id='mailcount'>Mail - 12</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Re: Mid term exam schedule<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:18:36 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "sunil joshi" &lt;<a
+href="mailto:joshi.sunil.b@gmail.com">joshi.sunil.b@gmail.com</a>&gt;<br />
+Date: Feb 20, 2012 8:53 PM<br />
+Subject: Re: Mid term exam schedule<br />
+To: "simca_mca08" &lt;<a
+href="mailto:simca_mca08@googlegroups.com">simca_mca08@googlegroups.com</a>&gt;<br />
+<br type="attribution" />
+<span style="font-family:verdana,sans-serif">Dear Ex.
+Students,</span><br style="font-family:verdana,sans-serif" />
+<br style="font-family:verdana,sans-serif" />
+<span style="font-family:verdana,sans-serif">Kindly ignore this
+mail.</span>
+<div class="quoted-text"><br />
+<br />
+<div class="gmail_quote">On Mon, Feb 20, 2012 at 7:45 PM, arun
+patyal <span dir="ltr">&lt;<a
+href="mailto:arunpatyal1987@gmail.com"
+target="_blank">arunpatyal1987@gmail.com</a>&gt;</span>
+wrote:<br />
+<blockquote class="gmail_quote"
+style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<p>We'll try our best sir.<br />
+</p>
+<p>Thanks<br />
+Arun</p>
+<div class="gmail_quote">
+<div>
+<div>On Feb 20, 2012 6:55 PM, "sunil joshi" &lt;<a
+href="mailto:joshi.sunil.b@gmail.com"
+target="_blank">joshi.sunil.b@gmail.com</a>&gt; wrote:<br
+type="attribution" />
+</div>
+</div>
+<blockquote class="gmail_quote"
+style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div>
+<div>Dear Students,<br />
+<br />
+Please find the attached mid term exam schedule.<br clear="all" />
+<br />
+--<br />
+<span
+style="border-collapse:separate;text-indent:0px;letter-spacing:normal;font:medium 'Times New Roman';text-transform:none;white-space:normal;word-spacing:0px"><span
+ style="font-family:arial;font-size:small"><font
+color="#0000ff"><b>Regards,<br />
+</b></font><font color="#0000ff" size="1"><b><span
+style="font-family:verdana,sans-serif"><span>Exam
+Dept</span></span></b></font></span></span><br />
+</div>
+</div>
+<span><font color="#888888">--<br />
+ You received this message because you are subscribed to the Google
+Groups "simca_mca08" group.<br />
+To post to this group, send an email to <a
+href="mailto:simca_mca08@googlegroups.com"
+target="_blank">simca_mca08@googlegroups.com</a>.<br />
+To unsubscribe from this group, send email to <a
+href="mailto:simca_mca08%2Bunsubscribe@googlegroups.com"
+target="_blank">simca_mca08+unsubscribe@googlegroups.com</a>.<br />
+For more options, visit this group at <a
+href="http://groups.google.com/group/simca_mca08?hl=en-GB"
+target="_blank">http://groups.google.com/group/simca_mca08?hl=en-GB</a>.<br />
+</font></span></blockquote>
+</div>
+</blockquote>
+</div>
+<br />
+<br clear="all" />
+<br />
+--<br />
+</div>
+<span
+style="border-collapse:separate;text-indent:0px;letter-spacing:normal;font:medium 'Times New Roman';text-transform:none;white-space:normal;word-spacing:0px"><span
+ style="font-family:arial;font-size:small"><font
+color="#0000ff"><b>Regards,<br />
+</b></font><font color="#0000ff" size="1"><b><span
+style="font-family:verdana,sans-serif"><span>Sunil Balkrishna
+Joshi, Asst Prof - SIMCA</span></span></b></font><font
+color="#0000ff"><b><span><br
+style="font-family:verdana,sans-serif" />
+</span></b></font><font color="#0000ff" size="1"><b><span
+style="font-family:verdana,sans-serif"><span>Sinhgad Institute of
+Management and Computer
+Application</span></span></b></font><span><br
+style="font-family:verdana,sans-serif" />
+<font size="1"><font
+style="font-family:verdana,sans-serif;color:rgb(51,51,255)">S.No.49,
+Off Westerly Bypass, Pune-Mumbai Express Way, Narhe, Pune -
+411041=A0</font><br style="font-family:verdana,sans-serif" />
+<font style="font-family:verdana,sans-serif" color="#0000ff">EMail
+:=A0<a href="mailto:suniljoshi.simca@sinhgad.edu"
+target="_blank"></a><a href="mailto:suniljoshi@simca.ac.in"
+target="_blank">suniljoshi@simca.ac.in</a>,=A0</font><a
+href="mailto:suniljoshi.simca@sinhgad.edu" target="_blank"><font
+style="font-family:verdana,sans-serif"
+color="#0000ff">suniljoshi.simca@sinhgad.edu</font></a><br />
+<font style="font-family:verdana,sans-serif" color="#0000ff">Web
+:<a href="http://www.sinhgad.edu/" target="_blank">www.sinhgad.edu,
+www.simca.ac.in</a></font><br />
+<font style="font-family:verdana,sans-serif"
+color="#0000ff"><b>Cell :</b>=A0<a href="tel:%2B91-9922009799"
+value="+919922009799"
+target="_blank">+91-9922009799</a></font><font
+style="font-family:verdana,sans-serif">=A0<span
+style="color:rgb(51,51,255)"><b>Tel :</b>=A0<a
+href="tel:%2B91-20-24391742" value="+912024391742"
+target="_blank">+91-20-24391742</a>=A0<b>Ext:</b>=A0168</span></font></font></span></span></span>
+<div class="elided-text"><br />
+--<br />
+You received this message because you are subscribed to the Google
+Groups "simca_mca08" group.<br />
+To post to this group, send an email to <a
+href="mailto:simca_mca08@googlegroups.com"
+target="_blank">simca_mca08@googlegroups.com</a>.<br />
+To unsubscribe from this group, send email to <a
+href="mailto:simca_mca08%2Bunsubscribe@googlegroups.com"
+target="_blank">simca_mca08+unsubscribe@googlegroups.com</a>.<br />
+For more options, visit this group at <a
+href="http://groups.google.com/group/simca_mca08?hl=en-GB"
+target="_blank">http://groups.google.com/group/simca_mca08?hl=en-GB</a>.<br />
+</div>
+</div>
+--e89a8ff1c14c9fecf004c633b62e--<br />
+</div>
+</div>
+</div>
+<div id='mail13' class='mails'>
+<div id='mailcount'>Mail - 13</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Webinar on February 10, 2012<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:19:01 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "The Vaahini Team" &lt;<a
+href="mailto:vaahininetwork@accenture.com">vaahininetwork@accenture.com</a>&gt;<br />
+Date: Feb 7, 2012 3:58 PM<br />
+Subject: Webinar on February 10, 2012<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div>
+<table width="615" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/Vaahini_Mailer_Banner_Sea_green.gif"
+ width="615" height="95" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table width="615" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" width="19"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="19" height="1" border="0" alt="" /></td>
+<td valign="top" width="595">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="30" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="420px;">
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px">Dear Shalini,</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px">Vaahini is hosting the next
+session of its virtual learning series on February 10, 2012. The
+topic of the session is <font face="arial, helvetica, sans-serif"
+style="color:#cc9933;font-size:12px;font-weight:bold">The Anatomy
+of Guilt in the Indian Woman</font> and the guest speaker is
+Saundarya Rajesh, Founder - President of AVTAR Career Creators and
+FLEXI Careers India.</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/arrow_right_blue.jpg"
+ width="5" height="12" border="0" alt="" /></td>
+<td valign="top" width="5">=A0</td>
+<td valign="top" width="400"><a
+href="http://click.goview.accenture.com/?qs=a24bad094fd712293c2cdb8cd5dbde927562e7fa748c0e6808c5fb4b4e89d7e5"
+ title="Register now to attend the webcast. This opens in new window"
+ target="_blank"><font face="arial, helvetica, sans-serif"
+style="color:#557799;font-size:14px;font-weight:bold"><font
+face="Arial, Helvetica, sans-serif"
+style="color:#557799;font-size:14px"><b>Register now to attend the
+webcast</b></font></font></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px"><b>Date:</b> Friday, February
+10 2012</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="5" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px"><b>Time:</b> 3:30 pm to 4:30
+pm</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" width="420px;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#557799;font-size:12px"><b>About the
+session:</b></font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="1" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px">Studies show that women have a
+stronger sense of guilt then men. Women feel much more guilt about
+leaving children in another's care and worry about being able to
+fill the roles of wife, mother and homemaker perfectly. How do we
+handle this dilemma and ensure that we succeed on all fronts?
+Saundarya Rajesh, Founder - President of AVTAR Career Creators and
+FLEXI Careers India, which works in the area of creating
+sustainable careers for women, provides some interesting insights
+on this.</font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top" colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="4" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/SaundaryaRajeshMay2011_2.jpg"
+ width="100" height="90" border="0" alt="" /></td>
+<td valign="top" width="10px;"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="10" height="1" border="0" alt="" /></td>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#557799;font-size:12px;font-weight:bold">About the
+speaker:</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px">Saundarya Rajesh is a winner
+of the Standard Chartered SCOPE Woman Exemplar Award 2006, the
+Yuvashakthi Entrepreneur of the Year award 2007 and the Swadeshi
+Jagran Manch'sAward 2008. <a
+href="http://click.goview.accenture.com/?qs=a24bad094fd7122982a23ad6d5a65c06dfc28e0bdef7f463788c5a12f475407d"
+ title="Read More. This opens in new window"
+style="color:557799!important" target="_blank"><font
+face="arial, helvetica, sans-serif"
+style="color:#557799;font-size:12px;font-weight:bold">Read
+More</font></a><font face="arial, helvetica, sans-serif"
+style="color:#557799;font-size:12px;font-weight:bold">.</font></font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="10" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px;font-weight:bold">Saundarya
+Rajesh</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px">We are excited about having
+Saundarya Rajesh for this session and look forward to your
+participation.</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="20" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top">
+<table bgcolor="#660000" width="140" border="0" cellspacing="0"
+cellpadding="0" align="left">
+<tr>
+<td bgcolor="#660000" width="5">=A0</td>
+<td width="" height="30" bgcolor="#660000" align="center"><font
+color="#ffffff" face="Arial, Helvetica, sans-serif"
+style="font-size:11px"><a
+style="color:#ffffff;font-size:14px;font-weight:bold"
+href="http://click.goview.accenture.com/?qs=a24bad094fd712293c2cdb8cd5dbde927562e7fa748c0e6808c5fb4b4e89d7e5"
+ title="Register Here. This opens a new window."
+target="_blank"><b>Register Here</b></a></font></td>
+<td width="5" bgcolor="#660000">=A0</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="20" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px">Warm Regards,</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="8" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#660000;font-size:14px;font-weight:bold">Vaahini
+Team</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:10px">This is a promotional message
+from Accenture that may contain research, analysis or marketing
+information. Accenture would like to continue using your e-mail
+address to inform you about services we deliver relevant to your
+industry. If you do not wish to receive such messages, either from
+all Accenture, or regarding events from this group,<br />
+ <a
+href="mailto:vaahininetwork@accenture.com?subject=Unsubscribe+-+The+Anatomy+of+Guilt+in+the+Indian+Woman"
+ style="color:#557799!important;font-size:10px"
+title="You may unsubscribe - The Anatomy of Guilt in the Indian Woman"
+ target="_blank"><font color="#557799"
+face="Arial, Helvetica, sans-serif" style="font-size:9px">You may
+unsubscribe here</font></a>.</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="10" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:10px">Accenture may keep your
+contact details and track patterns of use regarding such messages
+for the above purposes. Your data may be transferred
+internationally throughout Accenture's worldwide organization.
+Accenture will keep your information secure and will only use it in
+accordance with our global policies and applicable data privacy
+laws.</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="10" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:10px">You have a right to access
+your information and to correct it at any time by <a
+href="mailto:vaahininetwork@accenture.com?subject=Contacting+us+-+The+Anatomy+of+Guilt+in+the+Indian+Woman"
+ style="color:#557799!important;font-size:10px"
+title="Contacting us - The Anatomy of Guilt in the Indian Woman"
+target="_blank"><font color="#557799"
+face="Arial, Helvetica, sans-serif"
+style="font-size:9px">Contacting us</font></a>. Please review our<a
+href="http://click.goview.accenture.com/?qs=a24bad094fd712297ed4cbb26608dc131d080b48871b3d1a3076139d8f38ee1c"
+ style="color:#557799!important;font-size:10px"
+title="Privacy Statement. This opens in new window"
+target="_blank"><font color="#557799"
+face="Arial, Helvetica, sans-serif" style="font-size:9px">Privacy
+Statement</font></a>. for further details on how we use your
+information.</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="10" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:10px">Accenture, Internet Marketing,
+IBC Knowledge Park, 4/1, Bannerghatta Road, Bangalore 560034,
+India</font></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="10" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:10px">1996-2012 Accenture All Rights
+Reserved</font></td>
+</tr>
+</table>
+</td>
+<td valign="top" width="10px;"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="10" height="1" border="0" alt="" /></td>
+<td valign="top" width="10"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/dotted_150.gif"
+ width="1" height="150" border="0" alt="" /></td>
+<td valign="top">
+<table width="155" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/b16th+Nov.gif"
+ width="1" height="3" /></td>
+</tr>
+<tr>
+<td valign="top" colspan="3"><font
+face="arial, helvetica, sans-serif"
+style="color:#660000;font-size:14px"><b>Contact
+Accenture</b></font></td>
+</tr>
+<tr>
+<td colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="14" border="0" alt="" /></td>
+</tr>
+<tr>
+<td width="7%"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/arrow_right_blue.jpg"
+ width="5" height="12" border="0" alt="" /></td>
+<td colspan="3"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px"><a
+href="mailto:vaahininetwork@accenture.com?subject=The+Anatomy+of+Guilt+in+the+Indian+Woman"
+ style="color:#557799;font-size:12px"
+title="vaahininetwork@accenture.com" target="_blank"><b>Email
+Us</b></a></font></td>
+</tr>
+<tr>
+<td colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="15" border="0" alt="" /></td>
+</tr>
+<tr>
+<td valign="top" colspan="3"><font
+face="arial, helvetica, sans-serif"
+style="color:#660000;font-size:14px"><b>Visit</b></font></td>
+</tr>
+<tr>
+<td colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="14" border="0" alt="" /></td>
+</tr>
+<tr>
+<td width="7%"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/arrow_right_blue.jpg"
+ width="5" height="12" border="0" alt="" /></td>
+<td colspan="3"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px"><a
+href="http://click.goview.accenture.com/?qs=a24bad094fd71229abc21b0bd93fa826a035120c907c377533ea11bbb520c682"
+ style="color:#557799"
+title="accenture.com/vaahini. This opens in new window"
+target="_blank"><b>accenture.com/vaahini</b></a></font></td>
+</tr>
+<tr>
+<td colspan="3"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/spacer1.gif"
+ width="1" height="10" border="0" alt="" /></td>
+</tr>
+<tr>
+<td width="7%"><img
+src="http://image.goview.accenture.com/lib/fecb1670776c0079/m/1/arrow_right_blue.jpg"
+ width="5" height="12" border="0" alt="" /></td>
+<td colspan="3"><a
+href="http://click.goview.accenture.com/?qs=a24bad094fd712290f06a52640435e9909fb622ec430357cd9320f94dde85149"
+ style="color:#557799"
+title="accenture.com/india. This opens in new window"
+target="_blank"><font face="arial, helvetica, sans-serif"
+style="color:#666666;font-size:12px"><b>accenture.com/india</b></font></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img
+src="http://click.goview.accenture.com/open.aspx?ffcb10-fe5f1578706106797610-fdf51c767560037a77127275-fec6157976640378-fe8a177670630c7876-fe2b167071610675701777-ffcf14"
+ width="1" height="1" /></div>
+</div>
+--e89a8f646e2b2261b404c633b855--<br />
+</div>
+</div>
+</div>
+<div id='mail14' class='mails'>
+<div id='mailcount'>Mail - 14</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Travelyaari Itinerary : PNR Number
+135663-TS-YAR586241<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:20:40 +0530</td>
+</tr>
+<tr>
+<td class='first'>Attachments :</td>
+<td class='second'></td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Travelyaari" &lt;<a
+href="mailto:donotreply@travelyaari.com">donotreply@travelyaari.com</a>&gt;<br />
+Date: Dec 25, 2011 4:21 PM<br />
+Subject: Travelyaari Itinerary : PNR Number
+135663-TS-YAR586241<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div
+style="margin:0 auto;padding:0px;font:11px Arial,Helvetica,sans-serif;background-color:#666">
+<table width="98%" border="0" cellspacing="0" cellpadding="5"
+align="center" style="border:0px solid #666;background-color:#fff">
+<tr>
+<td colspan="2">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="200"><img
+src="http://static.travelyaari.com/img/logo_mail2.png" /></td>
+<td style="font-size:13pt;font-weight:bold" align="center">
+Travelyaari.com</td>
+<td align="right" width="60"><img
+src="http://static.travelyaari.com/img/ph.png" /></td>
+<td style="font-size:13px;font-weight:bold" align="left"
+width="130">=A0(079) 44820000=A0 =A0(080) 44820000</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">Electronic Reservation Slip</td>
+</tr>
+<tr>
+<td width="48%"
+style="font-size:13pt;font-weight:bold;border-bottom:1px solid #000">Pune
+- Bangalore</td>
+<td width="52%"
+style="font-size:13pt;font-weight:bold;border-bottom:1px solid #000"
+ align="right">PNR: 135663-TS-YAR586241</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom:1px solid #000">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="75%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="2" style="border-bottom:1px solid #000">
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td width="16%">Ticket No:=A0</td>
+<td width="30%" style="font-size:13pt;font-weight:bold">
+333111292937</td>
+<td width="6%">=A0</td>
+<td width="14%" valign="top">From-To:</td>
+<td width="34%" style="font-size:13pt;font-weight:bold">Pune -
+Bangalore</td>
+</tr>
+<tr>
+<td>Journey date:</td>
+<td style="font-size:13pt;font-weight:bold">26-Dec-2011</td>
+<td>=A0</td>
+<td>Departure time:</td>
+<td style="font-size:13pt;font-weight:bold">04:35 PM</td>
+</tr>
+<tr>
+<td valign="top">Operator:</td>
+<td>HKB Tours</td>
+<td>=A0</td>
+<td>Booking date:</td>
+<td>25-Dec-2011</td>
+</tr>
+<tr>
+<td>No. of Pax:</td>
+<td>1</td>
+<td>=A0</td>
+<td>Bus Type:</td>
+<td>AC</td>
+</tr>
+<tr>
+<td>Total Fare:</td>
+<td>Rs. 900</td>
+<td>=A0</td>
+<td valign="top">Boarding point:</td>
+<td>Wakhad</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom:1px solid #000">
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td width="20%"><strong>Passenger details</strong></td>
+<td width="27%">=A0</td>
+<td width="25%">=A0</td>
+<td width="3%">=A0</td>
+<td width="25%">=A0</td>
+</tr>
+<tr>
+<td colspan="2">Name</td>
+<td>Seater Nos</td>
+<td>=A0</td>
+<td>Sleeper Nos</td>
+</tr>
+<tr>
+<td style="font-size:13pt;font-weight:bold" colspan="2">Shalini
+Singh</td>
+<td style="font-size:13pt;font-weight:bold">G3</td>
+<td>=A0</td>
+<td style="font-size:13pt;font-weight:bold"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><br />
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td width="20%"><strong>Boarding Address</strong></td>
+<td width="55%">=A0</td>
+<td width="25%">=A0=A0</td>
+</tr>
+<tr>
+<td>Location:</td>
+<td style="border-right:1px solid #ccc"><b>Wakhad</b></td>
+<td>Operator Contact No:</td>
+</tr>
+<tr>
+<td>Landmark:</td>
+<td style="border-right:1px solid #ccc">Near Hinjwadi Bridge</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Address:</td>
+<td style="border-right:1px solid #ccc">HKB Tours &amp; Travels
+,</td>
+<td>TravelYaari Contact No:</td>
+</tr>
+<tr>
+<td>Contact Nos:</td>
+<td style="border-right:1px solid #ccc">9370314768</td>
+<td>(079) 44820000<br />
+(080) 44820000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table width="95%" border="0" cellspacing="0" cellpadding="5"
+style="background-color:#fcfce1;border:1px dashed #ffcc00"
+align="center">
+<tr>
+<td height="367" valign="top" style="color:#333333;font-size:12px">
+<div style="min-height:auto">
+<div style="padding-left:20px;font-size:13px;font-weight:bold">In
+Your Account :</div>
+<div style="padding-left:30px;line-height:20px"><a
+href="http://www.travelyaari.com/ticket/view/ff16543314788b5ba8b8b12aee3cb42c_1743789_1324810282"
+ target="_blank">Print / View Ticket</a><br />
+ <a
+href="http://www.travelyaari.com/ticket/sms/ff16543314788b5ba8b8b12aee3cb42c_1743789_1324810282"
+ target="_blank">SMS Itinerary</a><br />
+ <a
+href="http://www.travelyaari.com/ticket/simCancel?pnrNo=135663-TS-YAR586241&amp;ticketNo=333111292937"
+ target="_blank">Online Cancellation</a></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">Note: Printout of this ticket has to be produced at
+the time of boarding. Please be present atleast 15 mins prior to
+time of departure at the boarding point.</td>
+</tr>
+<tr>
+<td colspan="2" style="text-decoration:underline">Terms and
+conditions:</td>
+</tr>
+<tr>
+<td colspan="2"><u>Travelyaari is responsible for:</u><br />
+ (1) Issuing valid ticket (a ticket that will be accepted by the
+bus operators or their network) (2) Providing refund &amp; support
+in case of cancellations (3) Providing customer support in case of
+delays or other inconvenience.</td>
+</tr>
+<tr>
+<td colspan="2"><u>Travelyaari is not responsible for:</u><br />
+ (1) Bus not departing or reaching on time (2) The bus operator's
+employees being rude (3) Bus seats etc. not being upto expectation
+of the customer (4) The bus operator cancelling the trip due to
+unavoidable reasons (5) Stolen/Lost/Damaged baggage during the
+journey (6) Bus operator changing allotted seat at the last moment
+to accomodate a lady/child (7) Customer waiting at the wrong
+boarding point or getting delayed in reaching the boarding point
+(8) Bus operator changing the boarding point and/or using a pickup
+vehicle at the boarding point to take customer to the bus departure
+point.</td>
+</tr>
+<tr>
+<td colspan="2">The arrival and departure time on the ticket is
+tentative. However, bus will not leave the source before scheduled
+departure.</td>
+</tr>
+<tr>
+<td colspan="2">Passengers are required to furnish a valid identity
+proof (driving license, student/company card, Passport, PAN or
+Voter id). Failing to do so can result in boarding being denied by
+the bus operator.</td>
+</tr>
+<tr>
+<td colspan="2">Change of bus: In case the bus type mentioned on
+the ticket is changed for any reason, Travelyaari will refund the
+differential amount to the customer upon being intimated by the
+customer in 24 hours of the journey.</td>
+</tr>
+<tr>
+<td colspan="2">
+<table width="90%" border="0" cellspacing="0" cellpadding="3"
+align="left">
+<tr>
+<td colspan="3"><u>Cancellation Charges:</u></td>
+</tr>
+<tr>
+<td>(1)</td>
+<td>Within <strong>2 Hrs</strong> of Journey Time.</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>(2)</td>
+<td>Between <strong>2 Hrs</strong> and <strong>1 Day</strong> of
+Journey Time.</td>
+<td>30%</td>
+</tr>
+<tr>
+<td>(3)</td>
+<td><strong>30 Days</strong> before Journey Time.</td>
+<td>10%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">Travelyaari.com levies 10% cancellation charge of
+its own. These charges can be up to 100% depending on the service
+provider. Please check with our Customer Help Desk for the exact
+cancellation rules on the ticket you have purchased.</td>
+</tr>
+</table>
+<div class="elided-text">
+<table width="98%" cellspacing="0" cellpadding="0" border="0"
+align="center"
+style="border-color:#ffcc00;border-style:solid;border-width:0px;color:#444444;background-color:#fcfce1;padding:5px;margin-top:5px;margin-bottom:5px">
+<tr>
+<td>Your e-ticket is attached with this email. In case you face any
+problems in viewing the attachment, you can <b><a
+href="http://www.travelyaari.com/ticket/view/ff16543314788b5ba8b8b12aee3cb42c_1743789_1324810282"
+ target="_blank">view &amp; print your ticket online
+&gt;&gt;</a></b></td>
+</tr>
+<tr>
+<td style="padding-top:10px"><strong>This email-id is not
+monitored. Please do not reply to this email.</strong></td>
+</tr>
+<tr>
+<td>For any queries/concerns, please call our Helpline at
+<strong>(079) 44820000 / (080) 44820000</strong>.</td>
+</tr>
+<tr>
+<td>Thank you for using Travelyaari.<br />
+<br />
+The Travelyaari Team</td>
+</tr>
+</table>
+<table width="98%" cellspacing="0" cellpadding="0" border="0"
+align="center"
+style="border:0px solid #666;background-color:#fff;padding:5px;margin-top:0px">
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="58%" align="left">
+<div style="min-height:20px;padding-left:20px"><span
+style="padding-bottom:2px;display:block;float:left;padding-right:5px"><img
+ src="http://static.travelyaari.com/img/ph.png" width="20"
+height="20" /></span><span
+style="padding-top:3px;font-size:11px;display:block;float:left">Phone
+Helpline : (079) 44820000 / (080) 44820000</span></div>
+</td>
+<td width="42%" align="right">
+<div style="padding-right:10px;min-height:20px;float:right"><span
+style="padding-bottom:2px;display:block;float:left;padding-right:5px">Follow
+us:</span> <span
+style="padding-bottom:2px;display:block;float:left;padding-right:5px"><a
+ href="http://www.facebook.com/travelyaari" target="_blank"><img
+src="http://static.travelyaari.com/img/fb.png" width="16"
+height="17" border="0" alt="Follow us on Facebook" /></a></span>
+<span
+style="padding-bottom:2px;display:block;float:left;padding-right:5px"><a
+ href="http://www.twitter.com/travelyaari" target="_blank"><img
+src="http://static.travelyaari.com/img/tw.png" width="16"
+height="17" border="0"
+alt="Follow us on Twitter" /></a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+--f46d0444e9d1ff607804c633bd28--<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

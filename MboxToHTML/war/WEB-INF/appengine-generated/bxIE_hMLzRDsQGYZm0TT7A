@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+var current=0;var prev=0;var next=0;var totalCount=4;function hideShow(num,count){if(num==1){prev=1;}else{prev=num-1;}next=num+1;current=num;hideAll(count);document.getElementById('mail'+current).style.display='block';}function hideAll(count){totalCount=count;for(var i=1;i <=totalCount;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}function showNext(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=2;next=3;}else{if( current != totalCount){prev=current;}current=next;if( current != totalCount){next=next+1;}}document.getElementById('mail'+current).style.display='block';}function showPrev(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=1;next=2;}else{if(current!=1){next=current;current=prev;}if(prev!=1){prev=prev-1;}}document.getElementById('mail'+current).style.display='block';}function showFirst(){hideAll(totalCount);prev=1; current=1; next=2;document.getElementById('mail'+current).style.display='block';}function showLast(){hideAll(totalCount);prev=totalCount-1; current=totalCount; next=totalCount;document.getElementById('mail'+current).style.display='block';}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color     :       #C8E2EB;width                           :       1000px;margin                           :       auto;}#main{font-family :       sans-serif;font-size            :       14px;width                      :       auto;height                     :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #008000;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       12px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{white-space: nowrap;font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:25px;color:        black;}#mailheader td{vertical-align: top; }#mailcontent{padding:10px;overflow-x:auto;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+</head>
+<body onload='hideShow(1,4);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='showprev' onclick='showPrev()'
+href='javascript:void(0)'>prev</a>&nbsp;&nbsp;<a id='shownext'
+onclick='showNext()' href='javascript:void(0)'>next</a><br />
+<a id='showFirst' onclick='showFirst()'
+href='javascript:void(0)'>First</a>&nbsp;&nbsp;<a id='page1'
+onclick='hideShow(1,4)' href='javascript:void(0)'>1</a> <a
+id='page2' onclick='hideShow(2,4)' href='javascript:void(0)'>2</a>
+<a id='page3' onclick='hideShow(3,4)'
+href='javascript:void(0)'>3</a> <a id='page4'
+onclick='hideShow(4,4)' href='javascript:void(0)'>4</a> <a
+id='showLast' onclick='showLast()'
+href='javascript:void(0)'>Last</a>&nbsp;&nbsp;<a id='showall'
+onclick='showAll(4)' href='javascript:void(0)'>Show All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Blank Message<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 10 Jun 2012 14:06:43 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:10pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 10
+June 2012 1:30 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Fw: Blank
+Message<br />
+</font></div>
+<br />
+<div id="yiv2098632845">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div><br />
+</div>
+<div
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div
+style="font-family:times new roman, new york, times, serif;font-size:12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight:bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight:bold;">Sent:</span></b> Saturday, 9
+June 2012 12:33 AM<br />
+ <b><span style="font-weight:bold;">Subject:</span></b> Blank
+Message<br />
+</font></div>
+<br />
+<div id="yiv2098632845"></div>
+<br />
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail2' class='mails'>
+<div id='mailcount'>Mail - 2</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Text Message<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 10 Jun 2012 14:06:54 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:10pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 10
+June 2012 1:30 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Fw: Text
+Message<br />
+</font></div>
+<br />
+<div id="yiv2070514752">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div><br />
+</div>
+<div
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div
+style="font-family:times new roman, new york, times, serif;font-size:12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight:bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight:bold;">Sent:</span></b> Saturday, 9
+June 2012 12:35 AM<br />
+ <b><span style="font-weight:bold;">Subject:</span></b> Text
+Message<br />
+</font></div>
+<br />
+<div id="yiv2070514752">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div>Hi,</div>
+<div><br />
+</div>
+<div>This is the sample email. This mail contains only text
+and&nbsp; special characters like !@#$%^.</div>
+<div><br />
+</div>
+<div>&amp;*()</div>
+<div>}</div>
+<div>{</div>
+<div>+</div>
+<div>$</div>
+<div>#</div>
+<div>@</div>
+<div><br />
+</div>
+<div>From - This line is similar to from line.</div>
+<div><br />
+</div>
+<div><br />
+</div>
+<div><br />
+</div>
+<div>This is the last line of this text mail.</div>
+<div><br />
+</div>
+<div>Thanks &amp; Regards,</div>
+<div>Gaurav</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail3' class='mails'>
+<div id='mailcount'>Mail - 3</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Text File and Text Message<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 10 Jun 2012 14:07:11 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:10pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 10
+June 2012 1:30 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Fw: Text
+File and Text Message<br />
+</font></div>
+<br />
+<div id="yiv177503895">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div><br />
+</div>
+<div
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div
+style="font-family:times new roman, new york, times, serif;font-size:12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight:bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight:bold;">Sent:</span></b> Saturday, 9
+June 2012 12:36 AM<br />
+ <b><span style="font-weight:bold;">Subject:</span></b> Text File
+and Text Message<br />
+</font></div>
+<br />
+<div id="yiv177503895">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div>Hi,</div>
+<div><br />
+</div>
+<div>This mail will contain the text as well as the attached text
+file.</div>
+<div><br />
+</div>
+<div>This is the end of the Text File and Text Message</div>
+<div><br />
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail4' class='mails'>
+<div id='mailcount'>Mail - 4</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Test mail containning FROM<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Sun, 10 Jun 2012 14:08:55 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:10pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 10
+June 2012 1:31 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Fw: Test
+mail containning FROM<br />
+</font></div>
+<br />
+<div id="yiv93233554">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div><br />
+</div>
+<div
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div
+style="font-family:times new roman, new york, times, serif;font-size:12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Gaurav
+Sachdeva &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight:bold;">To:</span></b>
+"nerdsachdeva@gmail.com" &lt;nerdsachdeva@gmail.com&gt;<br />
+ <b><span style="font-weight:bold;">Sent:</span></b> Friday, 8 June
+2012 10:12 PM<br />
+ <b><span style="font-weight:bold;">Subject:</span></b> Test mail
+containning FROM<br />
+</font></div>
+<br />
+<div id="yiv93233554">
+<div>
+<div
+style="color:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">
+<div>From - This is a new line</div>
+<div><br />
+</div>
+<div><br />
+</div>
+<div>FROM - This is second line</div>
+<div><br />
+</div>
+<div>FROM - Jul 2 2012<br />
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

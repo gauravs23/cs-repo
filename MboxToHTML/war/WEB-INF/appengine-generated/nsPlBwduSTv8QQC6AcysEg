@@ -1,0 +1,530 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Newsletter Left Column</title>
+</head>
+<body>
+<div id='mail13' class='mails'>
+<div id='mailcount'>Mail - 13</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Exascale Computing Gets Boost from DOE
+'FastForward'<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 23:28:55 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> SourceForge
+Resources &lt;sourceforge@resources.sourceforge.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Wednesday, 25
+July 2012 6:53 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Exascale
+Computing Gets Boost from DOE 'FastForward'<br />
+</font></div>
+<br />
+<div id="yiv1415628422">
+<div>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="20"
+cellspacing="5" height="700" width="780">
+<tbody>
+<tr>
+<td width="65%">
+<div>
+<div class="yiv1415628422MsoNoSpacing"><span
+style="font-size:12pt;"><span
+style="font-family:Arial;"><b>Editor's Note:</b> Calling all
+software developers! Let us know your thoughts on performance,
+scalability and other topics by <a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,gjpv,m4ic,bdfy,3niw">taking
+our poll</a>. We'll be creating a report based on the responses, so
+check back on the <a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,i902,1we0,bdfy,3niw">Go
+Parallelsite</a> in late September to download your free
+copy.</span></span><span style="font-family:Arial;"><br />
+</span></div>
+<div class="yiv1415628422MsoNoSpacing"><span
+style="font-family:Arial;"><span style="font-size:10pt;"><span
+style="text-decoration:underline;">Don't miss a single issue of the
+Go Parallelnewsletter. Add sourceforge@resources.sourceforge.com to
+your address book.</span></span></span></div>
+<div class="yiv1415628422asset"><a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,i902,1we0,bdfy,3niw"><span
+ style="font-family:Arial;"><img
+src="http://www.elabs10.com/content/2010001400/2596_Intel_GoParallel_Newsletter_Header.png"
+ alt="" title="2596_Intel_GoParallel_Newsletter_Header.png"
+border="0" /></span></a></div>
+<div class="yiv1415628422asset"><span
+style="font-family:Arial;">&#160;</span></div>
+<div class="yiv1415628422asset">
+<div class="yiv1415628422asset"><a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,i902,1we0,bdfy,3niw"><span
+ style="font-family:Arial;"><img
+src="http://www.elabs10.com/content/2010001400/2596_Intel_GoParallel_EditorsPick.png"
+ alt="" title="2596_Intel_GoParallel_EditorsPick.png"
+border="0" /></span></a></div>
+<span style="font-family:Arial;"><br />
+</span>
+<div class="yiv1415628422asset">
+<div><span style="font-size:12pt;"><span
+style="font-family:Arial;"><a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,bgjc,1mv7,bdfy,3niw">Exascale
+Computing Gets Boost from DOE'FastForward'</a><br />
+The U.S. Department of Energy (DOE) recently announced the award of
+two initial research subcontracts, totaling $19 million, to Intel
+Federal LLC, as part of the agency's Lawrence Livermore National
+Security LLC-managed Extreme-Scale Computing Research and
+Development"FastForward" program. John Jainschigg takes a deep dive
+into what this will mean for exascale computing, and what
+developers should know about the FastForward program. Tell us what
+you think either in the comments section of John's blog, or by
+emailing us at <a rel="nofollow"
+ymailto="mailto:feedback@go-parallel.com" target="_blank"
+href="mailto:feedback@go-parallel.com">feedback@go-parallel.com</a>.</span></span><span
+ style="font-size:12pt;"><span style="font-family:Arial;"><br />
+</span></span><a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,bgjc,1mv7,bdfy,3niw"><span
+ style="font-size:12pt;"><span style="font-family:Arial;"><img
+src="http://www.elabs10.com/content/2010001400/2596_Intel_GoParallel_Button_ReadMore_v2.gif"
+ alt="" title="2596_Intel_GoParallel_Button_ReadMore_v2.gif"
+border="0" /></span></span></a></div>
+</div>
+<div class="yiv1415628422asset">
+<div class="yiv1415628422asset">
+<div class="yiv1415628422asset"><span style="font-size:12pt;"><span
+style="font-family:Arial;">&#160;</span></span></div>
+<div class="yiv1415628422asset">
+<div class="yiv1415628422asset"><span style="font-size:12pt;"><span
+style="font-family:Arial;">&#160;</span></span>
+<div class="yiv1415628422asset"><a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,i902,1we0,bdfy,3niw"><span
+ style="font-size:12pt;"><span style="font-family:Arial;"><img
+alt=""
+src="http://www.elabs10.com/content/2010001400/2596_Intel_GoParallel_RelatedResources.png"
+ title="2596_Intel_GoParallel_RelatedResources.png"
+border="0" /></span></span></a></div>
+</div>
+<div class="yiv1415628422asset"><span style="font-size:12pt;"><span
+style="font-family:Arial;">&#160;</span></span></div>
+<span style="font-size:12pt;"><span style="font-family:Arial;"><a
+rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,kay7,amz9,bdfy,3niw">Parallel
+Programming Pattern 6: Partition</a><br />
+<br />
+<a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,4mwn,cc17,bdfy,3niw">Hyper-Threading
+Technology Questions Answered</a><br />
+</span></span><span style="font-family:Arial;"><br />
+</span>
+<div class="yiv1415628422asset"><span
+style="font-family:Arial;">&#160;</span></div>
+<div class="yiv1415628422asset">
+<div style="text-align:center;"><span
+style="font-family:Arial;"><span style="color:#808080;"><span
+style="font-size:10pt;">You are subscribedto this Newsletter as
+gauravs23@ymail.com</span></span></span></div>
+<div style="text-align:center;">
+<div style="text-align:center;"><span
+style="font-family:Arial;">&#160;<span style="color:#808080;"><span
+style="font-size:10pt;">To unsubscribe, <a rel="nofollow"
+target="_blank"
+href="http://clicks.slashdot.org/functions/mailing_list.html?mid=1865217&amp;submitaction=2&amp;mlid=6640&amp;activity=submit&amp;siteid10001400&amp;email=gauravs23@ymail.com&amp;redirection=http%3A%2F%2Fclicks.slashdot.org%2Ffunctions%2Funsubscribed.html">click
+here</a> or send an email to:unsubscribe-6640@elabs10.com<br />
+SourceForge | 594 Howard Street, Suite 300 | San Francisco, CA
+94105<br />
+To view our Privacy Policy click</span></span></span> <span
+style="font-size:11pt;"><span style="color:#333399;"><span
+style="font-size:10pt;"><span style="font-size:10pt;"><span
+style="color:#808080;"><a rel="nofollow" target="_blank"
+href="http://clicks.slashdot.org/c.html?ufl=8&amp;rtr=on&amp;s=x8pb08,13z7l,54g,me80,eapd,bdfy,3niw"><font
+ face="arial, verdana, sans-serif"><span
+style="font-family:Arial;">here.</span></font></a></span></span></span></span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div><span style="font-family:Arial;"><span
+style="font-size:11pt;">&#160;</span></span></div>
+<div><span style="font-family:Arial;"><span
+style="font-size:11pt;">&#160;</span></span></div>
+<img
+src="http://clicks.slashdot.org/images/mlopen_post.html?rtr=on&amp;siteid10001400&amp;mid=1865217&amp;mlid=6640&amp;uid=818ce299d8" /></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail14' class='mails'>
+<div id='mailcount'>Mail - 14</div>
+<div id='mailbody'>
+<div id='mailheader'>Google Account password changed<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>accounts-noreply@google.com</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 08:34:05 -0700 (PDT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+The password for your Google Account - nerdsachdeva@gmail.com - was
+recently changed.If you made this change, you don't need to do
+anything more.If you didn't change your password, your account
+might have been hijacked. Toget back into your account, you'll need
+to reset your password by clicking thislink:
+https://accounts.google.com/RecoverAccount?fpOnly=1&amp;source=ancpe&amp;Email=nerdsachdeva@gmail.com.Important
+account security tips:- Never give out your password or personal
+information by email or on social networks. Google will never
+contact you to ask you for your password.- Never use the same
+password for Google and other websites.- Add your mobile phone to
+your account so you can easily pass Google's security measures and
+make it hard for hijackers to get in.Note: This email address
+cannot accept replies. To fix an issue or learn moreabout your
+account, visit our help
+center:https://www.google.com/support/accounts/bin/answer.py?answer=1628875.Sincerely,The
+Google Accounts Team &#169; 2012 Google Inc. 1600 Amphitheatre
+Parkway, Mountain View, CA 94043You have received this mandatory
+email service announcement to update you about important changes to
+your Google product or account.<br />
+</div>
+</div>
+</div>
+<div id='mail15' class='mails'>
+<div id='mailcount'>Mail - 15</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: New Mail with CC<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>CC :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 21:56:02 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<br />
+ 
+<div class="moz-forward-container"><br />
+<br />
+ -------- Original Message -------- 
+<table class="moz-email-headers-table" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">Subject:</th>
+<td>New Mail with CC</td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">Date:</th>
+<td>Thu, 26 Jul 2012 21:53:28 +0530</td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">From:</th>
+<td>Gaurav Sachdeva <a class="moz-txt-link-rfc2396E"
+href="mailto:nerdsachdeva@gmail.com">&lt;nerdsachdeva@gmail.com&gt;</a></td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">To:</th>
+<td><a class="moz-txt-link-abbreviated"
+href="mailto:nerdsachdeva@gmail.com">nerdsachdeva@gmail.com</a></td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">CC:</th>
+<td><a class="moz-txt-link-abbreviated"
+href="mailto:nerdsachdeav@gmail.com">nerdsachdeav@gmail.com</a></td>
+</tr>
+</tbody>
+</table>
+<br />
+<br />
+ 
+<pre>
+THIS MAIL HAS TO AND CC AND BCC fields filled.
+</pre>
+
+<br />
+<br />
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<div id='mail16' class='mails'>
+<div id='mailcount'>Mail - 16</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: New Comment for 'mbox to HTML converter'
+Challenge<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Fri, 27 Jul 2012 00:32:03 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> CloudSpokes
+Team &lt;support@cloudspokes.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"gauravs23@ymail.com" &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Thursday, 26
+July 2012 9:37 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> New
+Comment for 'mbox to HTML converter' Challenge<br />
+</font></div>
+<br />
+<div id="yiv1215310691">
+<div>
+<table cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/"><img
+src="https://s3.amazonaws.com/cs-public/email_images/cloudspokes-logo.png"
+ width="75" /></a></td>
+<td>
+<h2>mbox to HTML converter</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<div>A new comment has been posted by <a rel="nofollow"
+target="_blank"
+href="http://www.cloudspokes.com/members/kadarusj">kadarusj</a> for
+this challenge that you are either registered for or
+watching:</div>
+<table cellpadding="5" cellspacing="5">
+<tbody>
+<tr>
+<td>&#160;</td>
+<td><img
+src="https://acdcstorage.blob.core.windows.net/userimages/profilekadarusj07f819af-bb93-4b86-a340-f7f119798bd7.png"
+ width="75" /></td>
+<td><i>"Correct."</i></td>
+</tr>
+</tbody>
+</table>
+<div><br />
+You can <a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1639?reply_to=a09U0000006bWA1IAM#comment">reply
+to this comment</a> or <a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1639">view the
+challenge</a> for more info.</div>
+<table>
+<tbody>
+<tr>
+<td><img
+src="http://cs-public.s3.amazonaws.com/email_images/email-remove.png"
+ width="40" /></td>
+<td>&#160;</td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1639/toggle_discussion_email">Stop
+sending me</a> Discussion list email for this challenge.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div><br />
+Regards,<br />
+The CloudSpokes Team<br />
+<i>...where the rubber meets the code!</i></div>
+<h3 style="padding-top:25px;">Follow Us!</h3>
+<table cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.github.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/github_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.twitter.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/twitter_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.facebook.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/facebook_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.youtube.com/cloudspokescommunity"><img
+src="https://s3.amazonaws.com/cs-public/email_images/youtube_icon.png"
+ style="padding-left:5px;padding-top:3px;" width="59" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://blog.cloudspokes.com/"><img
+src="https://s3.amazonaws.com/cs-public/email_images/blogicon.png"
+style="padding-left:10px;padding-top:4px;" width="55" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/feed"><img
+src="https://s3.amazonaws.com/cs-public/email_images/rss_icon.png"
+style="padding-left:10px;padding-top:3px;" width="57" /></a></td>
+</tr>
+</tbody>
+</table>
+<div><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/">http://www.cloudspokes.com</a></div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail17' class='mails'>
+<div id='mailcount'>Mail - 17</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Facebook password change<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Fri, 27 Jul 2012 00:34:08 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Facebook
+&lt;password_change+zii=e1l1@facebookmail.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b> Gaurav Sachdeva
+&lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Thursday, 26
+July 2012 9:08 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Facebook
+password change<br />
+</font></div>
+<br />
+Hi Gaurav,<br />
+<br />
+You recently changed your Facebook password on 26 July 2012 at
+21:08.<br />
+As a security precaution, this notification has been sent to all
+email addresses associated with your account.<br />
+<br />
+If you have not changed your password, your account may have been
+the victim of a phishing scam.<br />
+Please follow the link to regain control over your account:<br />
+<a
+href="https://www.facebook.com/checkpoint/checkpointme?u=1285914901&amp;n=8bK2vfys"
+ target="_blank">https://www.facebook.com/checkpoint/checkpointme?u=1285914901&amp;n=8bK2vfys</a><br />
+<br />
+Your password was changed from the following location:<br />
+Mumbai, MH, IN (IP=14.99.228.3)<br />
+<br />
+Thanks,<br />
+The Facebook Team<br />
+<br />
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+</body>
+</html>
+

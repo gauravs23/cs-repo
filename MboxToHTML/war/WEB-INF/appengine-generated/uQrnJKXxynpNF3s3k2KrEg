@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+var current=0;var prev=0;var next=0;var totalCount=1;function hideShow(num,count){if(num==1){prev=1;}else{prev=num-1;}next=num+1;current=num;hideAll(count);document.getElementById('mail'+current).style.display='block';}function hideAll(count){totalCount=count;for(var i=1;i <=totalCount;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}function showNext(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=2;next=3;}else{if( current != totalCount){prev=current;}current=next;if( current != totalCount){next=next+1;}}document.getElementById('mail'+current).style.display='block';}function showPrev(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=1;next=2;}else{if(current!=1){next=current;current=prev;}if(prev!=1){prev=prev-1;}}document.getElementById('mail'+current).style.display='block';}function showFirst(){hideAll(totalCount);prev=1; current=1; next=2;document.getElementById('mail'+current).style.display='block';}function showLast(){hideAll(totalCount);prev=totalCount-1; current=totalCount; next=totalCount;document.getElementById('mail'+current).style.display='block';}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color     :       #C8E2EB;}#main{font-family      :       sans-serif;font-size            :       14px;width                      :       auto;margin-left        :       100px;margin-right      :       100px;height                    :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #008000;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       12px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{white-space: nowrap;font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:25px;color:        black;}#mailheader td{vertical-align: top; }#mailcontent{padding:10px;overflow-x:auto;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+<style type="text/css">
+/*<![CDATA[*/
+<!--#yiv488418771   _filtered #yiv488418771 {font-family:"Cambria Math";panose-1:2 4 5 3 5 4 6 3 2 4;} _filtered #yiv488418771 {font-family:Calibri;panose-1:2 15 5 2 2 2 4 3 2 4;} _filtered #yiv488418771 {font-family:"Trebuchet MS";panose-1:2 11 6 3 2 2 2 2 2 4;}#yiv488418771  #yiv488418771 p.yiv488418771MsoNormal, #yiv488418771 li.yiv488418771MsoNormal, #yiv488418771 div.yiv488418771MsoNormal{margin:0cm;margin-bottom:.0001pt;font-size:12.0pt;font-family:"serif";}#yiv488418771 a:link, #yiv488418771 span.yiv488418771MsoHyperlink{color:blue;text-decoration:underline;}#yiv488418771 a:visited, #yiv488418771 span.yiv488418771MsoHyperlinkFollowed{color:purple;text-decoration:underline;}#yiv488418771 .yiv488418771MsoChpDefault{}#yiv488418771 .yiv488418771MsoPapDefault{margin-bottom:10.0pt;line-height:115%;} _filtered #yiv488418771 {margin:72.0pt 72.0pt 72.0pt 72.0pt;}#yiv488418771 div.yiv488418771Section1{}-->
+/*]]>*/
+</style>
+</head>
+<body onload='hideShow(1,1);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='showprev' onclick='showPrev()'
+href='javascript:void(0)'>prev</a>&nbsp;&nbsp;<a id='shownext'
+onclick='showNext()' href='javascript:void(0)'>next</a><br />
+<a id='showFirst' onclick='showFirst()'
+href='javascript:void(0)'>First</a>&nbsp;&nbsp;<a id='page1'
+onclick='hideShow(1,1)' href='javascript:void(0)'>1</a> <a
+id='showLast' onclick='showLast()'
+href='javascript:void(0)'>Last</a>&nbsp;&nbsp;<a id='showall'
+onclick='showAll(1)' href='javascript:void(0)'>Show All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Fw: Greetings from
+TATA_DOCOMO_SERVICE_Representative-(BILL<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 21:04:20 +0530</td>
+</tr>
+<tr>
+<td class='first'>Attachments :</td>
+<td class='second'></td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:14pt">
+<div><br />
+</div>
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 14pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Sreedhar
+&lt;sreedhar.tatadocomo@lotus.ind.in&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Sunday, 1
+July 2012 2:03 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Greetings
+from TATA_DOCOMO_SERVICE_Representative-(BILL AMOUNT and
+DUE_DATE)<br />
+</font></div>
+<br />
+<div id="yiv488418771">
+<div>
+<div class="yiv488418771Section1">
+<div class="yiv488418771MsoNormal" style=""><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Dear <b>GAURAV</b></span><span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&nbsp;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">At the outset we thank you for choosing Tata Tele
+ServicesLimited as the preferred service provider.</span> <span
+lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&nbsp;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">We have observed that you have been a loyal customer
+of TataDOCOMO A/c No. <b>910157006</b> since <b>1/11/2012</b> =A6!
+Kindly requestyou to share your valuable feedback for further
+assistance on service. If thereis any unresolved issues please
+write or do call us on the below contactdetails for follow up &amp;
+closures.</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&nbsp;</span> <span lang="EN-US"><br />
+</span><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Account Status-ACTIVE</span></b> <span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Currentoutstanding Rs. 618 /- Kindly request you to
+pay the bill before due date 3<sup>rd</sup>JULY to avoid Late Pay
+Fee. If already paid please keep in touch with us.</span> <span
+lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&nbsp;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">For online payment please click the following URL;
+-</span> <span lang="EN-US"><a rel="nofollow" target="_blank"
+href="http://www.billdesk.com/tataindicom/html/instantPay_billdetails.htm"><span
+ style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;">http://www.billdesk.com/tataindicom/html/instantPay_billdetails.htm</span></a></span>
+<span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">, Cheque or Cash will be collected @ your preferred
+address,date &amp; time..!</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&nbsp;</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">It=99s our privilege to have you as our valued
+customer&amp; would like thank you for your continued patronage. We
+look forwarded to avery warm &amp; fruitful long standing
+association with you.</span> <span lang="EN-US"><br />
+</span><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">&nbsp;</span> <span lang="EN-US"><br />
+</span><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">SREEDHAR</span></b></div>
+<div class="yiv488418771MsoNormal" style=""><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Customer Relationship Executive</span></b> <span
+lang="EN-US"><br />
+</span><b><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Tata Tele Enterprise Business Services
+Karnataka.</span></b> <span lang="EN-US"><br />
+</span><b><u><span
+style="font-size:10.0pt;font-family:&quot;sans-serif&quot;;color:#7F604F;"
+ lang="EN-US">Contact No- <i>9243602924</i> -Monday to Saturday
+from 9.30AM to6.30PM</span></u></b></div>
+<div class="yiv488418771MsoNormal">&nbsp;</div>
+</div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

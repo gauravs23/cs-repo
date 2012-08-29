@@ -1,0 +1,4510 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+var current=0;var prev=0;var next=0;var totalCount=16;function hideShow(num,count){if(num==1){prev=1;}else{prev=num-1;}next=num+1;current=num;hideAll(count);document.getElementById('mail'+current).style.display='block';}function hideAll(count){totalCount=count;for(var i=1;i <=totalCount;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}function showNext(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=2;next=3;}else{if( current != totalCount){prev=current;}current=next;if( current != totalCount){next=next+1;}}document.getElementById('mail'+current).style.display='block';}function showPrev(){hideAll(totalCount);if(current == 0 && next == 0 && prev == 0){prev=1;current=1;next=2;}else{if(current!=1){next=current;current=prev;}if(prev!=1){prev=prev-1;}}document.getElementById('mail'+current).style.display='block';}function showFirst(){hideAll(totalCount);prev=1; current=1; next=2;document.getElementById('mail'+current).style.display='block';}function showLast(){hideAll(totalCount);prev=totalCount-1; current=totalCount; next=totalCount;document.getElementById('mail'+current).style.display='block';}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color    :       #C8E2EB;width                           :       1000px;margin                           :       auto;}#main{font-family :       sans-serif;font-size            :       14px;width                      :       auto;height                     :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #008000;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       12px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{white-space: nowrap;font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:25px;color:        black;}#mailheader td{vertical-align: top; }#mailcontent{padding:10px;overflow-x:auto;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+<title>PAYBACK</title>
+<style type="text/css">
+/*<![CDATA[*/
+<!--#yiv1858960678 body {margin-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;background:#e1eaf7;}-->
+/*]]>*/
+</style>
+<title>Untitled Document</title>
+<title>Small Biz Canada</title>
+<style type="text/css">
+/*<![CDATA[*/
+#yiv744298335 a:link, #yiv744298335 a:visited, #yiv744298335 area{color:#36C;}
+/*]]>*/
+</style>
+<style type="text/css">
+/*<![CDATA[*/
+#yiv744298335 a:link, #yiv744298335 a:visited{color:#36C;}
+/*]]>*/
+</style>
+<title>Bankbazaar-Homeloan-Edm</title>
+<title>Untitled Document</title>
+<title>Try iOS - iPhone App Course on Kickstarter</title>
+<style type="text/css">
+/*<![CDATA[*/
+ _filtered #yiv4070376 {padding-top:15px !important;}#yiv4070376  _filtered #yiv4070376 {width:100% !important;}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {}#yiv4070376  _filtered #yiv4070376 {max-width:100% !important;}#yiv4070376  _filtered #yiv4070376 {max-width:98% !important;}#yiv4070376 
+/*]]>*/
+</style>
+<title>Box July 2012 Developers Newsletter</title>
+</head>
+<body onload='hideShow(1,16);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='showprev' onclick='showPrev()'
+href='javascript:void(0)'>prev</a>&#160;&#160;<a id='shownext'
+onclick='showNext()' href='javascript:void(0)'>next</a><br />
+<a id='showFirst' onclick='showFirst()'
+href='javascript:void(0)'>First</a>&#160;&#160;<a id='page1'
+onclick='hideShow(1,16)' href='javascript:void(0)'>1</a> <a
+id='page2' onclick='hideShow(2,16)' href='javascript:void(0)'>2</a>
+<a id='page3' onclick='hideShow(3,16)'
+href='javascript:void(0)'>3</a> <a id='page4'
+onclick='hideShow(4,16)' href='javascript:void(0)'>4</a> <a
+id='page5' onclick='hideShow(5,16)' href='javascript:void(0)'>5</a>
+<a id='page6' onclick='hideShow(6,16)'
+href='javascript:void(0)'>6</a> <a id='page7'
+onclick='hideShow(7,16)' href='javascript:void(0)'>7</a> <a
+id='page8' onclick='hideShow(8,16)' href='javascript:void(0)'>8</a>
+<a id='page9' onclick='hideShow(9,16)'
+href='javascript:void(0)'>9</a> <a id='page10'
+onclick='hideShow(10,16)' href='javascript:void(0)'>10</a> <a
+id='page11' onclick='hideShow(11,16)'
+href='javascript:void(0)'>11</a> <a id='page12'
+onclick='hideShow(12,16)' href='javascript:void(0)'>12</a> <a
+id='page13' onclick='hideShow(13,16)'
+href='javascript:void(0)'>13</a> <a id='page14'
+onclick='hideShow(14,16)' href='javascript:void(0)'>14</a> <a
+id='page15' onclick='hideShow(15,16)'
+href='javascript:void(0)'>15</a> <a id='page16'
+onclick='hideShow(16,16)' href='javascript:void(0)'>16</a> <a
+id='showLast' onclick='showLast()'
+href='javascript:void(0)'>Last</a>&#160;&#160;<a id='showall'
+onclick='showAll(16)' href='javascript:void(0)'>Show All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Exclusive Offer for PAYBACK members only!
+Flat 50% OFF + Earn 5 Times PAYBACK pts!<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:18:01 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> PAYBACK
+&lt;newsletter@mail.payback.in&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 7:59 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Exclusive
+Offer for PAYBACK members only! Flat 50% OFF + Earn 5 Times PAYBACK
+pts!<br />
+</font></div>
+<br />
+<div id="yiv1858960678">
+<div><img
+src="http://mail.payback.in/tr/p.gif?uid=12030660357&amp;mid=1200304001&amp;msd=1343743461445"
+ height="1" width="1" />
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="708">
+<tbody>
+<tr>
+<td style="text-align:center;background-color:rgb(225, 234, 247);"
+height="50" width="706"><font
+style="font-size:11px;line-height:14px;font-family:Verdana, Geneva, sans-serif;color:rgb(88, 89, 91);">Over
+active email filters could be preventing you from getting your
+rewards. To avoid this, add<br />
+<a rel="nofollow" ymailto="mailto:newsletter@mail.payback.in"
+target="_blank" href="mailto:newsletter@mail.payback.in"
+style="color:rgb(0, 51, 153);">newsletter@mail.payback.in</a> to
+your address book. Having trouble viewing the email below? <a
+rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=BjumohtI5iyqsxxIh5b32b0oI&amp;u=http%3A%2F%2Fmail.payback.in%2Fpublic%2Fread_message.jsp%3Ftsp%3D1343744975706%26custid%3D12151%26uid%3D12030660357%26sig%3DKNKLGBIOOJDBFNBI%26mid%3D1200304001&amp;s=FIFIPOJOHKOLBDIP"
+ style="color:rgb(0, 51, 153);">Click here</a></font></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682452/zovi_pic1.jpg"
+usemap="#map4" style="display:block;" border="0" height="106"
+width="708" /></td>
+</tr>
+<tr>
+<td align="left" height="140" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="140" valign="top" width="708">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="140" valign="top" width="29"><img
+src="http://mail.payback.in/imgproxy/img/620682453/zovi_pic2.jpg"
+style="display:block;" height="190" width="29" /></td>
+<td align="left" bgcolor="#FFFFFF" valign="top" width="322">
+<table border="0" cellpadding="0" cellspacing="0" width="322">
+<tbody>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="25" valign="top"
+width="322"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;">Dear
+Gaurav Sachdeva,</font></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="48" valign="top"
+width="307"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;line-height:16px;">Re-defining
+style now comes easy with Central. Take your pick from over 100
+brands on display and get a flat 50% off.</font></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="42" valign="top"
+width="307"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;line-height:16px;">Just
+flash your PAYBACK card at the billing counter and earn 5X bonus
+PAYBACK points on your purchase.</font></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFFF" height="42" valign="top"><font
+style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;line-height:16px;">So,
+mark the date today as the offer is valid on 01 Aug 12
+only!</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" bgcolor="#FFFFFF" valign="top" width="333">
+<table border="0" cellpadding="0" cellspacing="0" width="333">
+<tbody>
+<tr>
+<td colspan="3" align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682454/red_nl03.jpg"
+style="display:block;" height="33" width="333" /></td>
+</tr>
+<tr>
+<td align="left" height="60" valign="top" width="43"><img
+src="http://mail.payback.in/imgproxy/img/620682455/red_nl04.jpg"
+style="display:block;" height="60" width="43" /></td>
+<td align="left" bgcolor="#D2EAF4" valign="top" width="252">
+<table style="line-height:18px;" align="left" bgcolor="#D3E6F8"
+border="0" cellpadding="0" cellspacing="0" width="248">
+<tbody>
+<tr>
+<td id="yiv1858960678Td_Height" align="left" bgcolor="#D2EAF6"
+height="20" valign="top" width="248"><font
+style="font-family:InterstatePl Regular, Arial;color:#003399;font-size:12px;line-height:12px;display:block;"><b>Your
+PAYBACK number</b>:</font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" bgcolor="#D2EAF6" height="18"
+valign="top" width="248"><font
+style="font-family:InterstatePl Regular, Arial;color:#003399;font-size:12px;display:block;"><b>9401152867000304</b></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="38"><img
+src="http://mail.payback.in/imgproxy/img/620682456/red_nl05.jpg"
+style="display:block;" height="60" width="38" /></td>
+</tr>
+<tr>
+<td colspan="3" align="left" height="31" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682457/red_nl07.jpg"
+style="display:block;" height="31" width="333" /></td>
+</tr>
+<tr>
+<td colspan="3" align="center" height="31" valign="top"><img
+style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620682458/rem.jpg"
+height="56" width="258" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="24"><img
+src="http://mail.payback.in/imgproxy/img/620682459/zovi_pic3.jpg"
+style="display:block;" height="190" width="24" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"><img style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620712330/cen-01.jpg"
+alt="cen-01" height="184" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620682461/cen-02.jpg"
+height="243" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" valign="top" width="708"><img
+style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620712331/cen-03.jpg"
+height="175" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="708"><img
+style="display:block;"
+src="http://mail.payback.in/imgproxy/img/620682463/cen-04.jpg"
+usemap="#map3map" border="0" height="158" width="708" /> <map
+name="Map3Map" id="yiv1858960678Map3Map">
+<area shape="rect" coords="250,116,354,142" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI5" />
+</map></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682464/zovi_pic8.jpg"
+usemap="#map5" style="display:block;" border="0" height="127"
+width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682465/i_mint.jpg"
+style="display:block;" border="0" height="56" width="708" /></td>
+</tr>
+<tr>
+<td align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682466/ipin.jpg"
+usemap="#map6map" style="display:block;" border="0" height="62"
+width="708" /> <map name="Map6Map" id="yiv1858960678Map6Map">
+<area shape="rect" coords="571,16,639,39" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI6" />
+</map></td>
+</tr>
+<tr>
+<td align="left" height="154" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td colspan="4" align="left" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682467/info-links-top.jpg"
+ alt="info-links-top" style="display:block;" height="19"
+width="708" /></td>
+</tr>
+<tr>
+<td align="left" height="77" valign="top" width="57"><img
+src="http://mail.payback.in/imgproxy/img/620682468/info-links-lft.jpg"
+ alt="info-links-lft" style="display:block;" height="77"
+width="57" /></td>
+<td align="left" bgcolor="#003399" valign="top" width="372">
+<table border="0" cellpadding="0" cellspacing="0" width="372">
+<tbody>
+<tr>
+<td height="20" width="372"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">Services</span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI0"
+title="PAYBACK online Coupon Center" style="color:#FFFFFF;">PAYBACK
+online Coupon Center</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI1"
+title="Shop and earn online" style="color:#FFFFFF;">Shop and earn
+online</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI2"
+title="Contact &amp; FAQ's"
+style="color:#FFFFFF;">FAQ's</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" bgcolor="#003399" valign="top" width="243">
+<table border="0" cellpadding="0" cellspacing="0" width="243">
+<tbody>
+<tr>
+<td height="20" width="243"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">Manage
+your account</span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI3"
+title="To my account" style="color:#FFFFFF;">Contact
+us</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI4"
+title="To my account" style="color:#FFFFFF;">To my
+account</a></span></td>
+</tr>
+<tr>
+<td height="10"><span
+style="font-family:Arial;color:#FFFFFF;font-size:12px;line-height:17px;font-weight:bold;">&gt;
+<a rel="nofollow" target="_blank"
+href="http://mail.payback.in/public/unsubscribe.jsp?gid=1200034080&amp;uid=12030660357&amp;mid=1200304001&amp;sig=JJFNPMHHNJHCAACB"
+ title="Newsletter Unsubscribe" style="color:#FFFFFF;">Newsletter
+Unsubscribe</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="36"><img
+src="http://mail.payback.in/imgproxy/img/620682469/info-links-rht.jpg"
+ alt="info-links-rht" style="display:block;" height="77"
+width="36" /></td>
+</tr>
+<tr>
+<td colspan="4" align="left" height="32" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="32" valign="top" width="708"><img
+src="http://mail.payback.in/imgproxy/img/620682470/fblogo.jpg"
+alt="info-links-lft-01" usemap="#map2" style="display:block;"
+border="0" height="32" width="708" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="left" height="26" valign="top"><img
+src="http://mail.payback.in/imgproxy/img/620682471/info-links-bottom.jpg"
+ alt="info-links-bottom" style="display:block;" height="26"
+width="708" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#E1EAF7" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="708">
+<tbody>
+<tr>
+<td align="left" height="39" valign="top" width="25">&#160;</td>
+<td align="left" valign="top" width="658"><font
+style="font-size:10px;font-weight:normal;font-family:Arial, Helvetica, sans-serif;color:rgb(102, 102, 102);text-align:left;">You
+receive this newsletter because you are a member of PAYBACK Loyalty
+Program owned by Loyalty Solutions and Research Private Limited
+("LSRPL"). LSRPL does not guarantee the completeness, accuracy and
+validity of this letter and its contents, including any offers
+stated in it. All offers are subject to the terms and conditions or
+any change to each such individual offer as specified by the
+partners or by LSRPL. This newsletter is a copyright of LSRPL and
+may not be reproduced without permission of LSRPL. The "PAYBACK"
+brand and trademark is owned by PAYBACK GmbH and "i-mint" brand and
+trademark is owned by LSRPL. All other brand names and trademarks
+are owned by their respective owners. Links to other sites on the
+newsletter do not imply approval or endorsement of the content at
+those links. LSRPL takes no responsibility for any loss or damage
+suffered as a result of using the linked Websites or as a result of
+using the information published on any of the pages of the linked
+Websites. All products /rewards herein are offered by LSRPL's
+outsourced third party Vendors directly. Every effort has been made
+to properly capitalize, punctuate, identify and attribute
+trademarks and trade names to their respective owners, including
+the use of =C2=AE and =84=A2 (TM ) wherever possible and practical.
+LSRPL shall not assume any legal liability or responsibility for
+any consequences, direct or indirect arising out of the use/misuse
+of any such information /trademark from this material, whatsoever.
+This promotion is open for all residents of India. However,
+residents of the State of Tamil Nadu and other States where
+applicable laws prohibit participation in the sweepstakes or any
+kind of such contest /offer or lucky draw, the sweepstakes, if any,
+will be not be applicable. To stop receiving these emails please
+click on the newsletter unsubscribe button above.</font></td>
+<td align="left" valign="top" width="25">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<map name="Map2" id="yiv1858960678Map2">
+<area shape="rect" coords="629,4,652,29" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI7" />
+</map><map name="Map4" id="yiv1858960678Map4">
+<area shape="rect" coords="31,23,159,70" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI8" />
+</map><map name="Map5" id="yiv1858960678Map5">
+<area shape="rect" coords="526,40,620,53" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxI9" />
+<area shape="rect" coords="510,95,600,107" target="_blank"
+href="http://mail.payback.in/re?l=jumohtI5iyqsxxIa" />
+</map></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail2' class='mails'>
+<div id='mailcount'>Mail - 2</div>
+<div id='mailbody'>
+<div id='mailheader'>Aparna showed interest in your profile..<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:18:23 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Aparna
+&lt;aparna8@moneybazar.biz&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Wednesday, 1
+August 2012 6:10 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Aparna
+showed interest in your profile..<br />
+</font></div>
+<br />
+<div id="yiv2143081907">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr align="center">
+<td><a rel="nofollow" target="_blank"
+href="http://fundbazzar.zeemail.in/fundbazzar/lt.php?id=LUhTBggCUQEDUkUGBAFQAE0=BFQEVwAJBgofU1FMFAcVFgZQdkFfA1xaS1pZWQ==">View
+this message in your browser</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><b>Hi,<br />
+<br />
+Getting a right partner should be a matter of choice<br />
+<br />
+<a rel="nofollow" target="_blank"
+href="http://fundbazzar.zeemail.in/fundbazzar/lt.php?id=LUhTBggCUAMDUEUGBAFQAE0=BFQEVwAJBgofU1FMFAcVFgZQdkFfA1xaS1pZWQ==">Click
+here to Search from millions of profiles.</a><br />
+<br />
+Regards<br />
+<br />
+Aparna</b><br />
+</div>
+<br />
+<br />
+<div class="yiv2143081907emailfooter">
+<div>--<br />
+To unsubscribe from further emails, <a rel="nofollow"
+target="_blank"
+href="http://fundbazzar.zeemail.in/fundbazzar/lt.php?id=LUhTBggCUQEDXUUGBAFQAE0=BFQEVwAJBgofU1FMFAcVFgZQdkFfA1xaS1pZWQ==">this
+link</a><br />
+<br />
+</div>
+</div>
+<img
+src="http://fundbazzar.zeemail.in/fundbazzar/ut.php?m=345&amp;u=c1e04da3ae67fef2a7328376b3c3a5c6"
+ border="0" /></div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail3' class='mails'>
+<div id='mailcount'>Mail - 3</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: About Small Biz Canada: 7 Ways to Beat
+Summer Slowdown<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:18:45 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Susan Ward -
+About.com Small Biz Canada Guide
+&lt;newsletters@about.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@YMAIL.COM<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 6:57 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> About
+Small Biz Canada: 7 Ways to Beat Summer Slowdown<br />
+</font></div>
+<br />
+<div id="yiv744298335">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="832">
+<tbody>
+<tr>
+<td>
+<center><a rel="nofollow" style="text-decoration:none;"
+target="_blank"
+href="http://clk.about.com/?zi=1/1UY&amp;sdn=sbinfocanada&amp;zu=http://specials.about.com/service/newsletters/sbinfocanada/1343696400.htm"><font
+ color="#5C5C5C" face="Arial, Helvetica, sans-serif" size="2">If
+you can't see this email, <u>click here</u></font></a></center>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="832">
+<tbody>
+<tr>
+<td bgcolor="#FF3400" height="3"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="832">
+<tbody>
+<tr>
+<td bgcolor="#EBE6DB" width="2"></td>
+<td bgcolor="#ffffff" width="830">
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0"
+width="830">
+<tbody>
+<tr>
+<td width="18"></td>
+<td align="left" valign="top" width="190">
+<div style="margin:26px 0 0 0;"><a rel="nofollow" target="_blank"
+href="http://www.about.com/?nl=1"><img
+src="http://0.tqn.com/f/d/an10.gif" alt="About.com" border="0"
+height="28" width="186" /></a></div>
+</td>
+<td align="left" valign="top">
+<div style="margin:15px 0 0 0;"><a rel="nofollow"
+style="text-decoration:none;" target="_blank"
+href="http://glclk.about.com/?zi/Gql3"><font
+style="font-size:40px;" color="#A69E8C"
+face="Georgia, Times New Roman, Times, serif" size="6">Small Biz
+Canada</font></a></div>
+</td>
+<td align="center" valign="middle" width="100"></td>
+</tr>
+</tbody>
+</table>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0"
+width="830">
+<tbody>
+<tr>
+<td><img src="http://0.tqn.com/f/d/news.jpg" height="26"
+width="828" /></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="830">
+<tbody>
+<tr>
+<td bgcolor="#EBE6DB" height="1"></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" height="25"
+width="830">
+<tbody>
+<tr>
+<td height="25" width="95"></td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql3">Small Biz
+Canada</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql6">Start
+Up</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql7">Manage &amp;
+Grow</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td align="center" height="25">
+<div style="margin:0 10px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><b><a
+rel="nofollow" style="text-decoration:none;color:#36C;"
+target="_blank" href="http://glclk.about.com/?zi/Gql8">Tools &amp;
+Tech</a></b></font></div>
+</td>
+<td bgcolor="#EBE6DB" height="25" width="1"></td>
+<td height="25" width="95"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#EBE6DB" height="1"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="830">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="19"><br />
+</td>
+<td valign="top"><br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="540">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="540">
+<tbody>
+<tr>
+<td valign="top" width="90"><a rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1"><img
+ src="http://0.tqn.com/d/g/6453.jpg" border="0" height="65"
+width="65" /></a></td>
+<td>
+<div><font color="#777777" face="Georgia,Times New Roman,serif"
+size="2"><b><i>From <a rel="nofollow"
+style="color:#36C;text-decoration:none;" target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1">Susan
+Ward</a>, your Guide to Small Biz Canada</i></b></font></div>
+<div style="line-height:18px;margin:12px 0;">
+<div><font color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">This is the
+season when I curse the fact my office has a window. If it didn't,
+I wouldn't be able to see how nice it is outside and spurred to
+concentrate on all the fun things I could be doing out there
+instead of concentrating on my work.</font></div>
+<div><font color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">But I'll keep
+at it because over the years I've learned how to cope with the
+I-am-the-only-person-in-the-universe-working-and-its-hot-and-sunny-out
+feeling - and just in case you're having trouble getting down to
+it, I'm sharing my knowledge in today's lead article, 7 Ways to
+Bear Summer Slowdown.</font></div>
+<div><font color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">I also need
+to mention today that GST/HST is due tomorrow for last quarter. If
+you're curious, I've laid out <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2Fb%2F2012%2F07%2F27%2Ftime-to-file-gst-hst-again-and-the-penalty-if-you-dont.htm%3Fnl%3D1">the
+penalties for late filing here</a>.</font></div>
+<div>Scroll down to find 5 Ways Your Business Can Make More Money
+and How to Remember Names among other things.</div>
+<div>And your daily vote matter so much - please <a rel="nofollow"
+target="_blank"
+href="http://influencers.smallbiztrends.com/small-business-journalists-2012/susan-ward-1/">vote
+for me</a> and <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Finfluencers.smallbiztrends.com%2Fsmall-business-experts-2012%2Fgregory-alyssa-2%2F%3Fnl%3D1">for
+my colleague, Alyssa Gregory</a> all this week. :-)</div>
+<div>And as always, please forward this newsletter, in its
+entirety, to your colleagues, coworkers and friends, because you
+want to add value to their work and lives. And don't forget to <a
+rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2F%3Fnl%3D1">check
+out my blog</a> in the center column on the website's home page;
+there's a new entry every day.</div>
+<div>Wishing you a productive, profitable week,</div>
+<div>Susan</div>
+<div><a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2F%3Fnl%3D1">Website</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fwww.facebook.com%2FSmallBizCanada%3Fsk%3Dwall%26nl%3D1">Facebook</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Ftwitter.com%2FSmallBizCanada%3Fnl%3D1">Twitter</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=https%3A%2F%2Fplus.google.com%2Fu%2F0%2F112270862214545903654%2Fposts%3Fnl%3D1">Google+</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fwww.linkedin.com%2Fpub%2Fsusan-ward%2F1%2F34%2F7a8%3Fnl%3D1">LinkedIn</a>
+| <a rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql3&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2Fgi%2Fpages%2Fstay.htm%3Fnl%3D1">Free
+Newsletters</a></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><br />
+ <font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqkt">7 Ways to Beat Summer
+Slowdown and Get Your Work Done</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="margin-bottom:6px;" color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">When you're
+finding it hard to resist the siren call of summer and focus on the
+work you should be doing for clients, keep your work motivation and
+productivity high with these seven tips.</font></div>
+<div style="color:#666666;font:11px Verdana;padding:0px 8px;"><span
+style="font-weight:bold;">See More About:&#160;&#160;</span><a
+rel="nofollow" style="font:11px Verdana;padding-left:2px;"
+target="_blank"
+href="http://sbinfocanada.about.com/lr/motivation/1820314/1/?nl=1">motivation</a>&#160;
+<a rel="nofollow" style="font:11px Verdana;padding-left:2px;"
+target="_blank"
+href="http://sbinfocanada.about.com/lr/business_motivation/1820314/2/?nl=1">business
+motivation</a>&#160; <a rel="nofollow"
+style="font:11px Verdana;padding-left:2px;" target="_blank"
+href="http://sbinfocanada.about.com/lr/increasing_productivity/1820314/3/?nl=1">increasing
+productivity</a></div>
+<br />
+</td>
+</tr>
+<tr>
+<td><font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;margin-bottom:6px;"
+target="_blank" href="http://glclk.about.com/?zi/Gqku">Time to File
+GST / HST Again - And the Penalty If You Don't</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="margin-bottom:6px;" color="#333333"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">GST / HST is
+due July 31st for the reporting period April 1 through June 30th.
+And you don't want to file late because of tax penalties... <a
+rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gqku&amp;zu=http%3A%2F%2Fsbinfocanada.about.com%2Fb%2F2012%2F07%2F27%2Ftime-to-file-gst-hst-again-and-the-penalty-if-you-dont.htm%3Fnl%3D1">Read
+more</a></font></div>
+<div style="color:#666666;font:11px Verdana;padding:0px 8px;"><span
+style="font-weight:bold;">See More About:&#160;&#160;</span><a
+rel="nofollow" style="font:11px Verdana;padding-left:2px;"
+target="_blank"
+href="http://sbinfocanada.about.com/lr/goods_and_services_tax/1816321/1/?nl=1">goods
+and services tax</a>&#160; <a rel="nofollow"
+style="font:11px Verdana;padding-left:2px;" target="_blank"
+href="http://sbinfocanada.about.com/lr/harmonized_sales_tax/1816321/2/?nl=1">harmonized
+sales tax</a>&#160; <a rel="nofollow"
+style="font:11px Verdana;padding-left:2px;" target="_blank"
+href="http://sbinfocanada.about.com/lr/filing_gst/1816321/3/?nl=1">filing
+gst</a></div>
+<br />
+</td>
+</tr>
+<tr>
+<td><font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;margin-bottom:6px;"
+target="_blank" href="http://glclk.about.com/?zi/Gqkv">Trade Shows
+vs. Cold Calling - Which is Best?</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="color:#333333;margin-bottom:6px;"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">Are they
+really worth all the time, money and craziness that goes along with
+them? Or is cold calling a better use of time? Read my
+reply.</font></div>
+<br />
+</td>
+</tr>
+<tr>
+<td><font face="Georgia, Times New Roman, Times, serif" size="4"><a
+rel="nofollow" style="color:#36C;margin-bottom:6px;"
+target="_blank" href="http://glclk.about.com/?zi/Gqkw">Why Buying a
+Franchise Is a Very Good Thing: BMO Study</a></font><br />
+ 
+<div style="line-height:18px;margin:5px 0;"><font
+style="color:#333333;margin-bottom:6px;"
+face="Verdana, Arial, Helvetica, sans-serif" size="2">Find out why
+current franchise owners chose to buy franchises rather than start
+their own businesses and why buying a franchise can be the best
+route to success - for some.</font></div>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="18">&#160;</td>
+<td width="540">
+<div style="margin-left:0;padding:4px;"><img
+src="http://nlsl.about.com/img?nl=sbinfocanada&amp;ts=1343696400&amp;uid=36819&amp;channel=about_newsletters_sbinfocanada%20test0&amp;url=http%3A%2F%2Fspecials.about.com%2Fservice%2Fnewsletters%2Fsbinfocanada%2F1343696400.htm&amp;adtest=off"
+ usemap="#nlsl_map" border="0" /><map id="nlsl_map"
+name="nlsl_map">
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=0"
+ coords="0,25,196,37" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=0"
+ coords="0,55,235,67" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=1"
+ coords="0,80,196,92" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=1"
+ coords="0,110,235,122" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=2"
+ coords="0,135,196,147" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=2"
+ coords="0,165,235,177" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=3"
+ coords="0,190,196,202" />
+<area shape="rect" target="_blank"
+href="http://nlsl.about.com/clk?uid=36819&amp;nl=sbinfocanada&amp;ts=1343696400&amp;pos=3"
+ coords="0,220,235,232" />
+</map></div>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" height="2"
+width="570">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+<td bgcolor="#F7F5F1" height="2" width="534"></td>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+</tr>
+</tbody>
+</table>
+<br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="20"></td>
+<td valign="top" width="230"><font style="color:#36C;"
+face="Georgia, Times New Roman, Times, serif" size="2"><font
+color="#777777" face="Georgia, Times New Roman, Times, serif"
+size="4">Small Business: Canada Ads<br />
+</font></font>
+<ul style="color:#888;margin:8px 0pt 0pt 15px;padding:0;">
+<li style="font-size:11px;margin-bottom:6px;"><font
+style="color:#36C;" face="Georgia, Times New Roman, Times, serif"
+size="2"><font color="#FD340A" face="arial" size="2"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Franchise%20Business&amp;d=Franchise%20Business&amp;r=Franchise%20Business&amp;nl=1">Franchise
+Business</a></font></font></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Sales%20Tax&amp;d=Sales%20Tax&amp;r=Sales%20Tax&amp;nl=1">Sales
+Tax</a></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Business%20Plan%20Sample&amp;d=Business%20Plan%20Sample&amp;r=Business%20Plan%20Sample&amp;nl=1">Business
+Plan Sample</a></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Best%20Business%20Ideas&amp;d=Best%20Business%20Ideas&amp;r=Best%20Business%20Ideas&amp;nl=1">Best
+Business Ideas</a></font></li>
+<li style="font-size:11px;margin-bottom:6px;"><font
+face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" target="_blank"
+href="http://sbinfocanada.about.com/z/js/o.htm?k=Sample%20Business%20Plan&amp;d=Sample%20Business%20Plan&amp;r=Sample%20Business%20Plan&amp;nl=1">Sample
+Business Plan</a></font></li>
+</ul>
+</td>
+<td width="20"></td>
+<td bgcolor="#F7F5F1" width="2"></td>
+<td width="20"></td>
+<td valign="top" width="240">
+<div style="margin:0 0 0 12px;padding:0;"><font
+style="color:#777777;"
+face="Georgia, Times New Roman, Times, serif" size="4">Featured
+Articles</font></div>
+<table style="margin-top:3px;" border="0" cellpadding="4"
+cellspacing="2">
+<tbody>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqkx">How to Remember
+Names</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqky">7 Government Grants Your
+Business May Qualify For</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gqkz">Top Lightweight Portable
+Projectors</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gql0">Sample Misson
+Statements</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gql1">How to Write a Mission
+Statement</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl4.gif" height="5" width="5" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#36C;" target="_blank"
+href="http://glclk.about.com/?zi/Gql2">5 Ways Your Business Can
+Make More Money</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" height="2"
+width="570">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+<td bgcolor="#F7F5F1" height="2" width="534"></td>
+<td bgcolor="#ffffff" height="2" width="18"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="10" width="500">&#160;</td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+<tbody>
+<tr>
+<td width="20"></td>
+<td valign="top" width="230">
+<div><i><font color="#777777"
+face="Georgia, Times New Roman, Times, serif" size="2">More from
+About.com</font></i></div>
+</td>
+<td width="20"></td>
+<td></td>
+<td width="20"></td>
+<td width="240"></td>
+</tr>
+<tr>
+<td width="20"></td>
+<td valign="top" width="230"><font
+face="Georgia, Times New Roman, Times, serif" size="3"><a
+rel="nofollow"
+style="font-size:17px;color:#36C;text-decoration:none;"
+target="_blank" href="http://glclk.about.com/?zi/Gql4">Free
+Children's Books</a></font> <font
+style="color:#333333;font-size:11px;"
+face="Verdana, Arial, Helvetica, sans-serif"><br />
+How would you like to have access to a free online public library
+of books from around the world for kids 3 to 13? <a rel="nofollow"
+target="_blank"
+href="http://glclk.about.com/?zi/Gql4&amp;zu=http%3A%2F%2Fclk.about.com%2F%3Fzi%3D1%2F1%5DM%26zu%3Dhttp%3A%2F%2Fchildrensbooks.about.com%2Fcs%2Fonlineliterature%2Fa%2Ficdl.htm%26nl%3D1">Read
+more...&gt;</a><br />
+<br />
+</font><br />
+<br />
+</td>
+<td width="20"></td>
+<td bgcolor="#F7F5F1" width="2"></td>
+<td width="20"></td>
+<td valign="top" width="240"><font
+face="Georgia, Times New Roman, Times, serif" size="3"><a
+rel="nofollow"
+style="font-size:17px;color:#36C;text-decoration:none;"
+target="_blank" href="http://glclk.about.com/?zi/Gql5">Best Water
+Parks</a></font> <font style="color:#333333;font-size:11px;"
+face="Verdana, Arial, Helvetica, sans-serif"><br />
+Better pack your bathing suit -- here are our recommendations for
+the funnest, wettest, splashiest water parks around. <a
+rel="nofollow" target="_blank"
+href="http://glclk.about.com/?zi/Gql5&amp;zu=http%3A%2F%2Fclk.about.com%2F%3Fzi%3D1%2F1%5DM%26zu%3Dhttp%3A%2F%2Fthemeparks.about.com%2Fod%2Fwaterparkfeaturearticles%2Fss%2FBest-Water-Theme-Parks.htm%26nl%3D1">Read
+more...&gt;</a><br />
+<br />
+</font><br />
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="467">
+<tbody>
+<tr>
+<td width="18"></td>
+<td valign="top"><font style="line-height:160%;color:#5c5c5c;"
+face="Georgia, Times New Roman, Times, serif" size="2">This
+newsletter is written by:</font><br />
+ <font face="Georgia, Times New Roman, Times, serif" size="3"><a
+rel="nofollow"
+style="color:#36C;font-size:17px;text-decoration:none;"
+target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1">Susan
+Ward</a></font><br />
+ <font style="font-size:11px;color:#5c5c5c;"
+face="Verdana, Arial, Helvetica, sans-serif">Small Biz Canada
+Guide</font><br />
+ <font style="color:#5c5c5c;line-height:160%;font-size:11px;"
+face="Verdana, Arial, Helvetica, sans-serif"><a rel="nofollow"
+style="color:#ff6600;text-decoration:none;" target="_blank"
+href="http://sbinfocanada.about.com/bio/Susan-Ward-6453.htm?nl=1">Email
+Me</a> | <a rel="nofollow"
+style="color:#ff6600;text-decoration:none;" target="_blank"
+href="http://sbinfocanada.about.com/b/?nl=1">My Blog</a> | <a
+rel="nofollow" style="color:#ff6600;text-decoration:none;"
+target="_blank" href="http://sbinfocanada.about.com/forum/?nl=1">My
+Forum</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" width="500">&#160;</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td width="20"></td>
+<td><font style="font-size:11px;color:#333333;"
+face="Verdana, Arial, Helvetica, sans-serif"><b><a rel="nofollow"
+target="_blank" href="http://clk.about.com/?zi=4/XR&amp;nl=1"
+style="color:#36c;">Sign up</a></b> for more free newsletters on
+your favorite topics</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="570">
+<tbody>
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td height="1" width="11"></td>
+<td><font style="font-size:11px;color:#333;"
+face="Verdana, Arial, Helvetica, sans-serif">You are receiving this
+newsletter because you subscribed to the About.com Small Biz Canada
+newsletter. If you wish to change your email address or
+unsubscribe, please <a rel="nofollow" target="_blank"
+href="http://www.about.com/nl/usgs.htm?nl=sbinfocanada&amp;e=gauravs23@YMAIL.COM">click
+here</a>.<br />
+<br />
+ About.com respects your privacy: <a rel="nofollow" target="_blank"
+href="http://www.about.com/gi/pages/mprivacy.htm?nl=1"
+style="color:#36c;">Our Privacy Policy</a><br />
+<br />
+ Contact Information:<br />
+249 West 17th Street<br />
+New York, NY, 10011<br />
+<br />
+ 2012 About.com</font></td>
+</tr>
+<tr>
+<td>&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#EEEEEE" valign="top" width="240">
+<table border="0" cellpadding="0" cellspacing="0" width="240">
+<tbody>
+<tr>
+<td width="13"></td>
+<td align="left" height="25"><br />
+<br />
+ 
+<div style="margin:0 0 0 12px;padding:0;"><font
+style="color:#5C5C5C;"
+face="Georgia, Times New Roman, Times, serif" size="4">Must
+Reads</font></div>
+<table style="margin-top:3px;" border="0" cellpadding="4"
+cellspacing="2">
+<tbody>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/Gql9">The Best
+Business Opportunities of 2012</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlA">8 Rules for
+Good Customer Service</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlB">Starting a
+Business FAQs</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlC">Steps to
+Starting a Business in Canada<br />
+</a></font></td>
+</tr>
+<tr>
+<td style="padding-top:10px;" valign="top" width="5%"><img
+src="http://0.tqn.com/f/d/bl2.gif" height="6" width="6" /></td>
+<td><font face="Georgia, Times New Roman, Times, serif" size="2"><a
+rel="nofollow" style="color:#457498;text-decoration:underline;"
+target="_blank" href="http://glclk.about.com/?zi/GqlD">Business
+Plan Outline</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="5" width="5">&#160;</td>
+</tr>
+<tr>
+<td height="1" width="5"></td>
+<td align="left">
+<div style="margin:0 0 0 5px;padding:0;"><font
+style="color:#5C5C5C;"
+face="Georgia, Times New Roman, Times, serif" size="4">Follow me
+on:</font></div>
+</td>
+</tr>
+<tr>
+<td height="1" width="5"></td>
+<td align="left">
+<table width="171">
+<tbody>
+<tr>
+<td align="center" width="85"><a rel="nofollow" target="_blank"
+href="http://clk.about.com/?zi=11/1nj&amp;zu=http://www.facebook.com/SmallBizCanada"><img
+ src="http://0.tqn.com/f/nl/fb2.png" alt="Facebook" border="0"
+height="22" width="84" /></a></td>
+<td bgcolor="#EBE6DB" width="1"></td>
+<td align="center" width="85"><a rel="nofollow" target="_blank"
+href="http://clk.about.com/?zi=11/1nk&amp;zu=http://twitter.com/SmallBizCanada"><img
+ src="http://0.tqn.com/f/nl/tw2.png" alt="Twitter" border="0"
+height="22" width="84" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="1" width="5"></td>
+<td align="center" valign="top"><br />
+ <font color="#5C5C5C" face="arial"
+size="2">Advertisement</font><br />
+ <a rel="nofollow" target="_blank"
+href="http://ad.doubleclick.net/jump/newsletters.about.com/money_sbinfocanada;site=sbinfocanada;kw=;chan=money;sz=160x600;dcove=r;ord=134369640036819"><img
+ src="http://ad.doubleclick.net/ad/newsletters.about.com/money_sbinfocanada;site=sbinfocanada;kw=;chan=money;sz=160x600;dcove=r;ord=134369640036819"
+ border="0" height="600" width="160" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#EBE6DB" height="1" width="100%"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#EBE6DB" width="2"><img
+src="http://pixel3.about.com/mp/pixel/pixel.cgi?partner=sbinfocanada_20120730"
+ height="1" width="1" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail4' class='mails'>
+<div id='mailcount'>Mail - 4</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: rollcaption (@roll_caption) has requested
+to follow you on Twitter!<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 17:57:26 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Twitter" &lt;n-funnyvavwvzzl=<a
+href="mailto:tznvy.pbz-d499d@postmaster.twitter.com">tznvy.pbz-d499d@postmaster.twitter.com</a>&gt;<br />
+Date: Aug 1, 2012 6:59 AM<br />
+Subject: rollcaption (@roll_caption) has requested to follow you on
+Twitter!<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div lang="en" style="padding:0;margin:0">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style="background-color:#e9eff2;padding:30px 15px 0">
+<table cellspacing="0" cellpadding="0" border="0" align="center"
+width="710"
+style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;color:#333">
+<tr>
+<td style="background-color:#63839b"><a
+style="color:#ffffff;display:block"
+href="https://twitter.com/?from=emailheader&amp;iid=am-74725293413437845943561666&amp;nid=24+header&amp;uid=270443447"
+ target="_blank"><img alt="Twitter" height="52"
+src="http://a0.twimg.com/a/1343696545/images/email/email_header_710.png"
+ style="border:0;display:block" width="710" /></a></td>
+</tr>
+<tr>
+<td style="background-color:#fff;padding:25px 40px 22px">
+<table cellpadding="0" cellspacing="0" border="0" width="600"
+align="center" style="margin:0 auto">
+<tr>
+<td height="36" width="540" valign="middle"
+style="padding:0 0 25px">
+<h1
+style="font-weight:normal;font-size:19px;line-height:1.2;margin:0">
+<a
+href="https://twitter.com/roll_caption?iid=am-74725293413437845943561666&amp;nid=24+sender&amp;uid=270443447&amp;utm_content=profile"
+ style="text-decoration:none;color:#333333"
+target="_blank"><strong>rollcaption</strong> <span
+style="color:#5a7b93">@roll_caption</span></a> requested to follow
+you (<a
+href="https://twitter.com/shalinijimmy?iid=am-74725293413437845943561666&amp;nid=24+recipient&amp;uid=270443447&amp;utm_content=profile"
+ style="color:#5a7b93;text-decoration:none"
+target="_blank">@shalinijimmy</a>).</h1>
+</td>
+<td valign="middle" align="right" style="padding:0 0 25px"><a
+href="http://twitter.com/follower_requests?iid=am-74725293413437845943561666&amp;nid=24+friend_requests&amp;uid=270443447"
+ style="text-decoration:none" target="_blank"><img alt=""
+src="http://a0.twimg.com/a/1343696545/images/email/request-icon.png"
+ style="display:block;border:0" /></a></td>
+</tr>
+</table>
+<table style="background:#ecf2f5;border-radius:4px" width="100%"
+cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" width="50%">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" style="padding:15px 10px 15px 15px"><a
+href="https://twitter.com/roll_caption?iid=am-74725293413437845943561666&amp;nid=24+profile_user&amp;uid=270443447&amp;utm_content=profile"
+ style="text-decoration:none" target="_blank"><img alt=""
+height="48"
+src="https://si0.twimg.com/profile_images/1833286653/TheBigLebowski_normal.jpg"
+ style="display:block;border:none" width="48" /></a></td>
+<td valign="top" style="padding:15px 15px 15px 0">
+<div style="line-height:15px"><a
+href="https://twitter.com/roll_caption?iid=am-74725293413437845943561666&amp;nid=24+profile_user&amp;uid=270443447&amp;utm_content=profile"
+ style="font-size:15px;font-weight:bold;color:#333;text-decoration:none"
+ target="_blank">roll_caption <span
+style="font-size:13px;font-weight:normal;color:#999">rollcaption</span></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td valign="top" width="50%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td valign="top" style="padding:15px 0 15px 15px;font-size:13px"
+nowrap="nowrap"><a
+href="https://twitter.com/roll_caption?iid=am-74725293413437845943561666&amp;nid=24+user_statuses&amp;uid=270443447&amp;utm_content=profile"
+ style="color:#5a7b93;text-decoration:none" target="_blank"><span
+style="font-size:15px;font-weight:bold;color:#333;text-decoration:none">69</span><br />
+ Tweets</a></td>
+<td valign="top" style="padding:15px 0 15px 15px;font-size:13px"
+nowrap="nowrap"><a
+href="https://twitter.com/roll_caption/following?iid=am-74725293413437845943561666&amp;nid=24+user_following&amp;uid=270443447&amp;utm_content=following"
+ style="color:#5a7b93;text-decoration:none" target="_blank"><span
+style="font-size:15px;font-weight:bold;color:#333;text-decoration:none">377</span><br />
+ Following</a></td>
+<td valign="top" style="padding:15px 15px 15px 15px;font-size:13px"
+nowrap="nowrap"><a
+href="https://twitter.com/roll_caption/followers?iid=am-74725293413437845943561666&amp;nid=24+user_follower&amp;uid=270443447&amp;utm_content=followers"
+ style="color:#5a7b93;text-decoration:none" target="_blank"><span
+style="font-size:15px;font-weight:bold;color:#333;text-decoration:none">1,195</span><br />
+ Followers</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img width="1" height="1" style="display:block"
+src="https://twitter.com/scribes/ibis?iid=am-74725293413437845943561666&amp;nid=24&amp;uid=270443447" /></td>
+</tr>
+<tr>
+<td style="background-color:#fff;padding:0 0 10px 0"></td>
+</tr>
+<tr>
+<td
+style="background-color:#fff;padding:32px 40px 22px;border-top:1px solid #e4ecf0">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="middle" style="padding:0 0 0 15px">
+<table style="background-color:#63839b" cellpadding="0" border="0"
+cellspacing="0">
+<tr>
+<td width="1" height="1" style="background-color:#fff"></td>
+<td></td>
+<td width="1" height="1" style="background-color:#fff"></td>
+</tr>
+<tr>
+<td></td>
+<td style="padding:5px"><a
+href="http://twitter.com/follower_requests?iid=am-74725293413437845943561666&amp;nid=24+friend_requests&amp;uid=270443447"
+ style="color:#fff;text-decoration:none;padding:5px 13px;font-size:16px;display:block"
+ target="_blank">Approve or deny this request</a></td>
+<td></td>
+</tr>
+<tr>
+<td width="1" height="1" style="background-color:#fff"></td>
+<td style="background-color:#4e6f8a"></td>
+<td width="1" height="1" style="background-color:#fff"></td>
+</tr>
+</table>
+</td>
+<td valign="middle"
+style="padding:0 0 0 15px;font-size:15px;line-height:19px"><a
+href="https://twitter.com/download?iid=am-74725293413437845943561666&amp;nid=24+mobile&amp;uid=270443447"
+ style="text-decoration:none;color:#666" target="_blank">Want to
+receive mobile notifications?<br />
+ <span style="color:#63839a"><strong
+style="border-bottom:1px solid #e7eef2">Download Twitter</strong>
+for your phone =BB</span></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td
+style="padding:0 0 10px 0;background-color:#fff;border-bottom-right-radius:8px;border-bottom-left-radius:8px"></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td
+style="font-size:11px;line-height:16px;color:#aaa;padding:25px 40px">
+<div
+style="font-family:'Helvetica Neue',Arial,Helvetica,sans-serif;margin-top:5px;font-size:11px;color:#666666">If
+you believe rollcaption is engaging in abusive behavior on Twitter,
+you may <a
+href="https://twitter.com/user_spam_reports/shalinijimmy/confirm/roll_caption?token=8zafpyvo76JxPSzjMCvV4p28xuEwrNbhGXqWrf0WNkSMsU%2FkVcDHNM7UvxUJOBWK&amp;iid=am-74725293413437845943561666&amp;nid=24+block&amp;uid=270443447&amp;utm_content=block"
+ style="color:#6d90a9;text-decoration:none" target="_blank">report
+rollcaption</a> for spam.</div>
+If you'd rather not receive follow request emails from Twitter, you
+can <a
+href="https://twitter.com/account/unsubscribe?code=gwv35l%2FXucWMDGPsBYNmiMJcWmwKdexw&amp;iid=am-74725293413437845943561666&amp;nid=24+unsubscribe&amp;t=follow&amp;uid=270443447&amp;utm_content=optout"
+ style="color:#6d90a9;text-decoration:none"
+target="_blank">unsubscribe</a> immediately. To resubscribe or
+change other Twitter email preferences, visit your account settings
+to manage <a
+href="https://twitter.com/settings/notifications?iid=am-74725293413437845943561666&amp;nid=24+settings&amp;uid=270443447&amp;utm_content=notices"
+ style="color:#6d90a9;text-decoration:none" target="_blank">email
+notifications</a>. Please do not reply to this message; it was sent
+from an unmonitored email address. This message is a service email
+related to your use of Twitter. For general inquiries or to request
+support with your Twitter account, please visit us at <a
+href="https://support.twitter.com/?iid=am-74725293413437845943561666&amp;nid=24+support_footer&amp;uid=270443447"
+ style="color:#6d90a9;text-decoration:none" target="_blank">Twitter
+Support</a>.</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+--f46d0444e9d1f05b4404c6336ace--<br />
+</div>
+</div>
+</div>
+<div id='mail5' class='mails'>
+<div id='mailcount'>Mail - 5</div>
+<div id='mailbody'>
+<div id='mailheader'>Getting a home loan is as simple as opening
+this mail<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:27:34 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Home loan
+deals &lt;bankbaar@emaarket.info&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 11:12 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Getting a
+home loan is as simple as opening this mail<br />
+</font></div>
+<br />
+<div id="yiv1026187165">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr align="center">
+<td><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlNSA05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA==">View
+this message in your browser</a></td>
+<td width="20">|</td>
+<td><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlNSAU5UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA==">Forward
+to your friends</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="484">
+<tbody>
+<tr>
+<td colspan="3" bgcolor="#FF6600"><img
+src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/spacer.gif"
+ width="1" /></td>
+</tr>
+<tr>
+<td bgcolor="#FF6600" width="1"><img
+src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/spacer.gif"
+ height="1" /></td>
+<td width="482">
+<table id="yiv1026187165Table_01" border="0" cellpadding="0"
+cellspacing="0" height="513" width="483">
+<tbody>
+<tr>
+<td height="68"><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlBXC05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA=="><img
+ src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/Bankbazaar-Homeloan-Edm_01.gif"
+ alt="" border="0" height="68" width="483" /></a></td>
+</tr>
+<tr>
+<td height="321"><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlBXC05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA=="><img
+ src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/Bankbazaar-Homeloan-Edm_02.jpg"
+ alt="Finding Your Dream Home will Take Time and Money. The Best Deal on Your Home Loan is Available Instantly. Apply now for an Instant Home Loan"
+ border="0" height="321" width="483" /></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFFFF" width="483">
+<table border="0" cellpadding="0" cellspacing="0" width="96%">
+<tbody>
+<tr height="8">
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3" align="left"><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlBXC05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA=="
+ style="text-decoration:none;"><span style="font-size:12px;"><font
+color="#116A9E" face="Arial, Helvetica, sans-serif"><b>Save up to
+<span style="font-size:16px;">Rs. 45,550</span> based on your loan
+eligibility at <font
+color="#F99D1C">www.BankBazaar.com</font></b></font></span></a></td>
+</tr>
+<tr height="8">
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3" align="left"><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlBXC05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA=="
+ style="text-decoration:none;"><font color="#333333"
+face="Arial, Helvetica, sans-serif"><span
+style="font-size:11px;">Checking online can save you time &amp;
+money and takes 3 minutes. Get the lowest interest rate quotes on
+your Home Loan from Leading Financial Institutions. Apply Online
+and Save</span></font></a></td>
+</tr>
+<tr>
+<td align="left" width="15%"><font color="#333333"
+face="Arial, Helvetica, sans-serif"><span
+style="font-size:11px;">Thousands of</span></font></td>
+<td align="left" width="2%"><img
+src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/rupee.gif"
+ height="13" width="9" /></td>
+<td align="left" width="83%"><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlBXC05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA=="
+ style="text-decoration:none;"><font color="#333333"
+face="Arial, Helvetica, sans-serif"><span
+style="font-size:11px;">upees on your loan with instant approval
+only at <font color="#DB7100"
+face="Arial, Helvetica, sans-serif"><span
+style="font-size:11px;">www.BankBazaar.com</span></font></span></font></a></td>
+</tr>
+<tr height="10">
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3" align="right"><a rel="nofollow" target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlBXC05UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA=="
+ style="text-decoration:none;"><img
+src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/applynow.gif"
+ border="0" height="44" width="206" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr height="20">
+<td width="483"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#FF6600" width="1"><img
+src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/spacer.gif"
+ height="1" /></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#FF6600"><img
+src="http://sparrowonlinemedia.com/email-images/axisbank-homeloan-edm/spacer.gif"
+ width="1" /></td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=19&amp;mc=imp&amp;pli=5098365&amp;PluID=0&amp;ord=[timestamp]&amp;rtu=-1" /></div>
+<br />
+<br />
+<div class="yiv1026187165emailfooter">
+<div>--<br />
+If you do not want to receive any newsletters, <a rel="nofollow"
+target="_blank"
+href="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/lt.php?id=KRgCBgEAVlNSAE5UBVIAD0w=AwRTBgFbUgcYBFZMEVBDElYBdkhdBwwIHVELWA==">this
+link</a><br />
+<br />
+</div>
+</div>
+<img
+src="http://fundbazzarinfo.zeemail.in/fundbazzarinfo/ut.php?m=66&amp;u=c1e04da3ae67fef2a7328376b3c3a5c6"
+ border="0" /></div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail6' class='mails'>
+<div id='mailcount'>Mail - 6</div>
+<div id='mailbody'>
+<div id='mailheader'>Check Out Our Collection of Cyber Security
+Books!<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:28:28 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Flipkart.com
+&lt;noreply@flipkart.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 11:54 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Check Out
+Our Collection of Cyber Security Books!<br />
+</font></div>
+<br />
+<div id="yiv105868548">
+<div>
+<table
+style="background-color:#FFF;font-family:tahoma, verdana, arial, sans-serif;color:#333;"
+ cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center"><span style="color:#FFF;font-size:1px;">Hacking,
+Viruses, Cryptography and other issues related to cyber
+security!</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><span
+style="font-size:11px;color:black;font-family:tahoma, verdana, arial, sans-serif;">Email
+not displaying correctly? <a rel="nofollow"
+style="font-size:11px;color:#004b91;line-height:200%;font-family:tahoma, verdana, arial, sans-serif;"
+ target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=browserview&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1314%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">View
+it in your browser.</a></span></td>
+</tr>
+<tr>
+<td align="center">
+<div style="width:650px;background-color:#FFFFFF;">
+<div style="width:650px;background-color:#001B33;"><a
+rel="nofollow"
+style="font-size:40px;color:#FFFFFF;text-decoration:none;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=headerLogo&amp;url=http%3A%2F%2Fwww.flipkart.com&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://www.flipkart.com/newsletter/images/header-gen.jpg"
+alt="Flipkart.com" title="Flipkart.com" align="middle" border="0"
+height="101" width="650" /></a></div>
+<div style="background-color:#FFF;">
+<table
+style="border:2px solid #A6A6A6;border-width:0 2px;width:650px;font-size:13px;background-color:#dddddd;"
+ cellpadding="0" cellspacing="5px">
+<tbody>
+<tr style="background-color:#FFFFFF;">
+<td colspan="2">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=catImgLink&amp;url=http%3A%2F%2Fwww.flipkart.com%2Funblock-everything-internet-windows-hacking-2-0-5111128535%2Fp%2F9785111128535%3Fpid%3D9785111128535&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img7.flixcart.com//image/book/5/3/5/how-to-unblock-everything-on-the-internet-windows-hacking-2-0-set-of-2-books-200x200-imad6gj2dyrv9h9z.jpeg"
+ style="padding:10px 20px;border:0px;" /></a></td>
+<td
+style="vertical-align:middle;padding-left:20px;padding-right:25px;padding-top:10px;text-align:left;">
+<div
+style="font-family:tahoma, verdana, arial, sans-serif;font-size:13px;margin-bottom:15px;">Looking
+for insights on cyber security threats and their prevention?</div>
+<div
+style="font-size:13px;font-family:tahoma, verdana, arial, sans-serif;margin-bottom:15px;">We
+have put together an extensive collection of <a rel="nofollow"
+style="color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=-&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1314%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cyber
+Security Books</a> for you! Books ranging from <a rel="nofollow"
+style="color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=-&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-5896%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Hacking</a>
+to <a rel="nofollow" style="color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=-&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1317%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Viruses</a>
+and from <a rel="nofollow" style="color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=-&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1316%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cryptography</a>
+to <a rel="nofollow" style="color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=-&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1315%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">General
+Security Issues</a> - we have them all!</div>
+<div
+style="font-size:13px;font-family:tahoma, verdana, arial, sans-serif;margin-bottom:15px;">Order
+now and get them delivered right at your doorstep!</div>
+<div
+style="text-align:center;padding:15px 0;margin:10px 0;font-family:tahoma, verdana, arial, sans-serif;"><a
+ rel="nofollow"
+style="background-color:#FF7906;color:#FFFFFF;font-size:14px;font-weight:bold;padding:5px 10px;text-decoration:none;"
+ target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=ButtonLink&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1314%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">View
+our complete collection</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="background-color:#FFFFFF;">
+<td colspan="2">
+<table style="border:0px;" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr style="border-bottom:2px solid #A6A6A6;">
+<td colspan="3" style="padding:30px 15px 5px 15px;">
+<div
+style="background-color:#ffffff;color:#333333;text-transform:uppercase;font-size:16px;font-weight:bold;margin-bottom:10px;">Featured
+Books</div>
+</td>
+<td colspan="1" style="padding-right:15px;padding-top:10px;"
+align="right">
+<div
+style="background-color:#ffffff;color:#333333;margin-bottom:10px;">
+<a rel="nofollow" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=sectionViewMore&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers-internet-books-1314%3Flayout%3Dgrid&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">View
+more</a></div>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg1&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8126522852&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img7.flixcart.com/image/book/8/5/9/cryptography-and-security-100x100-imadbjsz9pp6wxrg.jpeg"
+ border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle1&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8126522852&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cryptography
+And Security</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span> C.
+K. Shyamala, N. Harini, T. R. Padmanabhan</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 459</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+367</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg2&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F0071077316&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/316/9780071077316.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle2&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F0071077316&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Gray
+Hat Hacking: The Ethical Hackers Handbook</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Shon Harris</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 775</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+581</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg3&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8126533404&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/404/9788126533404.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle3&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8126533404&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">The
+Web Application Hacker's Handbook: Finding And Exploiting Security
+Flaws</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Dafydd Stuttard, Marcus Pinto</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 699</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+524</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg4&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1403928509&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/504/9781403928504.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle4&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1403928509&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">An
+Ethical Guide to Hacking Mobile Phones</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Ankit Fadia</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 399</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+319</div>
+</td>
+</tr>
+<tr>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg5&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8125918132&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img7.flixcart.com/image/book/1/3/4/even-you-can-hack-e-mail-hacking-100x100-imad8c8yfpbyfymj.jpeg"
+ border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle5&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8125918132&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Even
+You Can Hack: E-Mail Hacking</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+ANKIT FADIA</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 250</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+200</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg6&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F0061962244&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/240/9780061962240.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle6&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F0061962244&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cyber
+War: The Next Threat to National Security and What to Do about
+It</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Richard A. Clarke, Robert Knake</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 590</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+472</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg7&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F813178701X&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img5.flixcart.com/image/book/0/1/4/network-security-first-step-100x100-imad9vmfbmgxgfxh.jpeg"
+ border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle7&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F813178701X&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Network
+Security First-Step</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Tom Thomas, Donald Stoddard</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 450</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+360</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg8&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8126521791&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img8.flixcart.com/image/book/7/9/1/cyber-security-understanding-cyber-crimes-computer-forensics-and-legal-perspectives-with-cd-100x100-imad8zbsphcggtqm.jpeg"
+ border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle8&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F8126521791&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cyber
+Security: Understanding Cyber Crimes, Computer Forensics and Legal
+Perspectives</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Sunit Belapure Nina Godbole</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 549</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+439</div>
+</td>
+</tr>
+<tr>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg9&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1439809593&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/594/9781439809594.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle9&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1439809593&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Official
+(Isc)2 Guide To The Cissp Cbk- Second Edition</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Harold F. Tipton</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 800</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+600</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg10&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F812651535X&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/356/9788126515356.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle10&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F812651535X&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">The
+CEH Prep Guide, The Comprehensive Guide To Certified Ethical
+Hacking (With CD)</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Russell Dean Vines Ronald L. Krutz</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 599</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+479</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg11&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1403924457&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/452/9781403924452.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle11&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1403924457&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">The
+Ethical Hacking Guide to Corporate Security</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Ankit Fadia</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 399</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+319</div>
+</td>
+<td
+style="padding:15px 0px 15px 25px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;"
+ align="left" width="25%">
+<div style="margin-bottom:5px;" align="left"><a rel="nofollow"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoImg12&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1584885084&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img1.flixcart.com/img/thumb/085/9781584885085.jpg"
+border="0" /></a></div>
+<div style="font-size:12px;margin-bottom:0px;"><a rel="nofollow"
+style="text-decoration:none;color:#004b91;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=recoTitle12&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F1584885084&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cryptography:
+Theory and Practice, Third Edition</a></div>
+<div style="font-size:11px;"><span style="color:gray;">by</span>
+Douglas Stinson</div>
+<div style="font-size:11px;"><span
+style="color:gray;">Price:</span> <span
+style="text-decoration:line-through;">Rs. 695</span></div>
+<div style="color:#BB0000;font-size:12px;font-weight:bold;">Rs.
+556</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="background-color:#FFFFFF;">
+<td colspan="2"
+style="font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;">
+<table style="border:1px solid #cccccc;padding:5px;" width="100%">
+<tbody>
+<tr style="background-color:#FFFFFF;">
+<td colspan="2"
+style="font-family:tahoma, verdana, arial, sans-serif;vertical-align:top;">
+<table style="border:1px solid #cccccc;padding:5px;" width="100%">
+<tbody>
+<tr>
+<td style="padding-left:20px;"><a rel="nofollow" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=adimg&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fpierre-cardin-analog-watch-men%2Fp%2Fitmdayyk3exsvhc2%3Fpid%3DWATDAYVJNCFJPHXU&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img7.flixcart.com/image/watch/h/x/u/2920-pierre-cardin-100x100-imadaznyhvqtfyhg.jpeg"
+ border="0" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=adimg&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fguess-future-star-hand-bag-women%2Fp%2Fitmd9z8trxgfu5at%3Fpid%3DHMBD9Z8T76TY24MT&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM"><img
+ src="http://img5.flixcart.com/image/hand-messenger-bag/4/m/t/pv281125-guess-hand-bag-future-star-100x100-imadafhm7z5gwyzb.jpeg"
+ border="0" /></a></td>
+<td>
+<div
+style="padding:10px 15px;font-size:13px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:middle;font-size:14px;">Celebrate
+this End-of-Season sale with discounts <b>upto 50%</b>.<br />
+ <b>Hurry up!</b> Grab your favorite brands before the SALE ends.
+<div
+style="padding:10px 15px;font-size:13px;font-family:tahoma, verdana, arial, sans-serif;vertical-align:middle;margin-top:5px;"><a
+ rel="nofollow"
+style="background-color:#FF7906;color:#FFFFFF;font-size:14px;font-weight:bold;padding:5px 10px;text-decoration:none;"
+ target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=ad&amp;url=http%3A%2F%2Fwww.flipkart.com%2Flifestyle%2Flta-watches-sale&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Check
+it out Now</a> if you haven't already!</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td
+style="width:560px;text-align:center;font-size:10px;padding:5px 15px;"
+ colspan="2">
+<div
+style="border:2px solid #A6A6A6;border-width:2px 0 0 0;color:red;text-transform:uppercase;padding-top:5px;margin:0 15px;"><small><b>The
+Online Megastore!</b></small></div>
+<div style="font-family:tahoma, verdana, arial, sans-serif;"><a
+rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbooks%2F&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Books</a>
+| <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fmobiles&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Mobiles</a>
+| <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fmusic%2F&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Music</a>
+| <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcameras%2F&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Cameras</a>
+| <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fmovies%2F&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Movies</a>
+| <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fgames%2F&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Gaming
+Zone</a> | <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fcomputers&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Computers</a>
+| <a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fmp3-players-ipods&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Audio
+&amp; MP3 Players</a> | <a rel="nofollow" style="color:#333;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fhome-appliances%2F&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Home
+&amp; Kitchen</a> |<br />
+<a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Ftv-video&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">TV
+&amp; Video</a> | <a rel="nofollow" style="color:#333;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fpens-office-supplies&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Pens
+&amp; Stationery</a> | <a rel="nofollow" style="color:#333;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fpersonal-health-care&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Personal
+&amp; Health Care</a> |<a rel="nofollow" style="color:#333;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Flifestyle%2Ffragrances&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Fragrances</a>
+|<a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Flifestyle%2Fbags-belts-luggage&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Belts,
+Bags &amp; Luggage</a> |<a rel="nofollow" style="color:#333;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fhealth-and-beauty&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Health
+and Beauty</a> |<a rel="nofollow" style="color:#333;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Flifestyle%2Fwatches&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Watches</a>
+|<br />
+<a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fbuy-gift-voucher&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Gift
+Voucher</a> |<a rel="nofollow" style="color:#333;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=footer&amp;url=http%3A%2F%2Fwww.flipkart.com%2Fmp3-downloads&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">MP3
+Downloads</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div
+style="width:650px;color:#fff;background-color:#001B33;font-size:11px;font-family:tahoma, verdana, arial, sans-serif;">
+<div style="padding:15px 0;">Give us your <a rel="nofollow"
+style="color:#FED20B;" target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=feedback&amp;url=https%3A%2F%2Fwww.surveymonkey.com%2Fs%2F7W7J9YY%3Fc%3D%24campaignName&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">feedback</a>
+on this newsletter. <a rel="nofollow" style="color:#FED20B;"
+target="_blank"
+href="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=click&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=unsubscribe&amp;url=http%3A%2F%2Fwww.flipkart.com%2Funsubscribe.php&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM">Unsubscribe</a>
+if you do not wish to receive newsletter.</div>
+<div style="font-size:8px;padding-bottom:10px;">Copyright(??) 2011
+Flipkart.com. All Rights Reserved.<br />
+Flipkart.com, 1st Floor, No. 447/C, 1st A Cross, 12th Main, 4th
+Block, Opp. BSNL Telephone Exchange, Koramangala, Bangalore -
+560034, Karnataka, India.</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://www.flipkart.com/ch.php?affid=EM-0GQJVE5T6W22MDM&amp;utm_source=EM-0GQJVE5T6W22MDM&amp;utm_campaign=EM-0GQJVE5T6W22MDM&amp;utm_content=open&amp;utm_medium=email&amp;u=b25e5dfeefd04a3884f99ff4a29e2e5f&amp;l=openImg&amp;url=&amp;cmpid=email_promo_EM-0GQJVE5T6W22MDM" /><img
+ src="http://sendgrid.flipkart.com/wf/open?upn=mcTyqcYTtmn56LU3ATD1f1XRdqbzQhaOAhf0g0bt62GVZ1el0RO5ywl04Bz4e4JiuIkP00SzKp0gZJxiBuY4cj4c5uEj3eufwZM9QP3ECn1OcOjtNvIV2rMn7QsQy9uwO3D8ilYIyu-2F2aQ6eXvzam5TLyG99A-2B7QjgR3ocRBG9w4OxPdghkU8vqS3XHD-2BQYR2BadMpHYHcwhOL-2FtIJP2-2FjVk1T1mxRcqhUhPfxWIgq2F7J7q6pRHFO0PQ6cCKglH9iHqdlONtd4u-2BAhvt2g7cw-3D-3D"
+ alt="" /></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail7' class='mails'>
+<div id='mailcount'>Mail - 7</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Now Get Cafe Coffe Day, Dominos and many
+more free coupons with every recharge<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:28:37 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b>
+EasyMobileRecharge.com &lt;noreply@easymobilerecharge.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 12:35 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Now Get
+Cafe Coffe Day, Dominos and many more free coupons with every
+recharge<br />
+</font></div>
+<br />
+<div id="yiv365016314">Hi,<br />
+<br />
+Greetings from EasyMobileRecharge.com!<br />
+<br />
+Do you know that we have started giving <font color="#FF3300"
+size="3"><b>Free Coupons</b></font> with every recharge now? All
+you have to do is recharge your mobile or DTH as a registered user,
+you will get the free coupons along with the recharge successful
+confirmation email.<br />
+<br />
+Coupons of Cafe Coffee Day, Dominos and other brands are
+available.<a rel="nofollow" target="_blank"
+href="http://www.easymobilerecharge.com/free-discount-coupons-online-recharge.php?utm_source=Coupons_Start&amp;utm_medium=email&amp;utm_campaign=FreeCouponsALL">Click
+here</a> to view all the coupons. More coupons would be added
+soon.<br />
+<br />
+<font color="FF8C00" size="5"><b><a rel="nofollow" target="_blank"
+href="http://www.easymobilerecharge.com/recharge.php?utm_source=Coupons_Start&amp;utm_medium=email&amp;utm_campaign=FreeCouponsALL">Click
+here to Recharge Now.</a></b></font><br />
+<br />
+So what are you waiting for? Recharge your mobile or DTH now and
+get all these coupons!<br />
+<br />
+Happy Recharging!<br />
+EasyMobileRecharge.com Team<br />
+<br />
+<div
+style="text-align:left;font-family:Verdana, Geneva, sans-serif;font-size:10px;padding:5px;color:rgb(102, 102, 102);">You
+are getting this mail as you have opted to recieve latest offers
+from EasyMobileRecharge.com. <a rel="nofollow" target="_blank"
+href="http://www.easymobilerecharge.com/unsubscribe.php"
+style="color:rgb(51, 51, 51);">click here</a> if you want to
+unsubscribe.</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail8' class='mails'>
+<div id='mailcount'>Mail - 8</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Flash Sale - 24hrs Left - Upto 60% Off on
+Branded watches and bags<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:28:32 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b>
+"Watchkart@cool-watches.in" &lt;Watchkart@cool-watches.in&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Tuesday, 31
+July 2012 11:23 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Flash Sale
+- 24hrs Left - Upto 60% Off on Branded watches and bags<br />
+</font></div>
+<br />
+<div id="yiv974463756">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr align="center">
+<td><a rel="nofollow" target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4ADUoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf">Unsubscribe</a></td>
+<td width="20">|</td>
+<td><a rel="nofollow" target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4ADEoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf"><img
+ alt="Dndurl"
+src="cid:1.210794553@web192802.mail.sg3.yahoo.com" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table style="border:1px solid #ccc;" align="center" border="0"
+cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="600">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4ADkoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf"><img
+ src="cid:2.210794553@web192802.mail.sg3.yahoo.com" valign="top"
+style="padding:0;margin:0;display:inline block;" alt="" title=" "
+height="142" width="301" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4AAUoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf"><img
+ src="cid:3.210794553@web192802.mail.sg3.yahoo.com" valign="top"
+style="padding:0;margin:0;display:inline block;" alt="" title=" "
+height="142" width="299" /></a></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="600">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4AAEoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf"><img
+ src="cid:4.210794553@web192802.mail.sg3.yahoo.com" valign="top"
+style="padding:0;margin:0;display:inline block;" alt="" title=" "
+height="812" width="300" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4BCUoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf"><img
+ src="cid:5.210794553@web192802.mail.sg3.yahoo.com" valign="top"
+style="padding:0;margin:0;display:inline block;" alt="" title=" "
+height="812" width="300" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br />
+<br />
+<div class="yiv974463756emailfooter">
+<div>--<br />
+To unsubscribe from further emails, <a rel="nofollow"
+target="_blank"
+href="http://watchstor.corporium.com/lenskart/lt.php?id=ekwEVlQICA4ADUoCBFNdBR0=XApQUgcNBxlfAkRCBERLAAN0HwlYUVsWWllf">click
+here</a><br />
+<br />
+</div>
+</div>
+<img
+src="http://watchstor.corporium.com/lenskart/ut.php?m=580&amp;u=c1e04da3ae67fef2a7328376b3c3a5c6"
+ border="0" /></div>
+<img src="cid:6.210794553@web192802.mail.sg3.yahoo.com" /><img
+src="cid:7.210794553@web192802.mail.sg3.yahoo.com" /><img
+src="cid:8.210794553@web192802.mail.sg3.yahoo.com" /><img
+src="cid:9.210794553@web192802.mail.sg3.yahoo.com" /><img
+src="cid:10.210794553@web192802.mail.sg3.yahoo.com" /><br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail9' class='mails'>
+<div id='mailcount'>Mail - 9</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Try iOS - iPhone App Course on
+Kickstarter<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:28:44 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> Code School
+Team &lt;eric@codeschool.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Monday, 30
+July 2012 2:40 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Try iOS -
+iPhone App Course on Kickstarter<br />
+</font></div>
+<br />
+<div id="yiv4070376">
+<div>
+<center>
+<table id="yiv4070376bodyWrapper"
+style="color:#525254;font-family:Tahoma, Geneva, sans-serif;font-size:16px;line-height:1.4;"
+ bgcolor="#EDEADB" border="0" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td>
+<table id="yiv4070376preheaderTableWrapper" bgcolor="#F6F4EC"
+border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table id="yiv4070376preheaderTable"
+class="yiv4070376flexSize yiv4070376noSmallScreen"
+style="color:#999999;font-size:10px;width:580px;" bgcolor="#F6F4EC"
+border="0" cellpadding="10" cellspacing="0">
+<tbody>
+<tr>
+<td style="width:65%;">Try iOS being launched on KickStarter!</td>
+<td style="padding-left:20px;width:35%;" valign="top">Email not
+displaying correctly?<br />
+<a rel="nofollow" target="_blank"
+href="http://us5.campaign-archive2.com/?u=8234ed62d6a7fa87721ff1d8a&amp;id=59c5f7c94b&amp;e=0bbff3f425"
+ style="color:#777777;">View it in your browser</a>.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="yiv4070376headerTableWrapper" bgcolor="#F6F4EC"
+border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table id="yiv4070376preheaderTable" class="yiv4070376flexSize"
+style="color:#999999;font-size:12px;width:600px;" bgcolor="#F6F4EC"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-bottom:30px;padding-top:30px;"
+class="yiv4070376mobileHeader" align="center" valign="top"><a
+rel="nofollow" target="_blank"
+href="http://codeschool.us5.list-manage1.com/track/click?u=8234ed62d6a7fa87721ff1d8a&amp;id=52b149b290&amp;e=0bbff3f425"
+ style="display:block;width:300px;"><img
+src="http://gallery.mailchimp.com/8234ed62d6a7fa87721ff1d8a/images/codeschool_logo_light.3.png"
+ alt="Code School - Learn by doing"
+class="yiv4070376logo" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-bottom:1px solid #ffffff;" bgcolor="#D4D0C6"
+border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" height="5" valign="top"></td>
+</tr>
+</tbody>
+</table>
+<table id="yiv4070376bodyTableWrapper" border="0" cellpadding="0"
+cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:15px;" align="center" valign="top">
+<table class="yiv4070376flexSize"
+style="color:#525254;font-family:Tahoma, Geneva, sans-serif;font-size:16px;line-height:1.4;width:580px;"
+ border="0" cellpadding="10" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table class="yiv4070376flexSize"
+style="color:#525254;font-family:Tahoma, Geneva, sans-serif;font-size:16px;line-height:1.4;width:580px;"
+ border="0" cellpadding="10" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top">
+<h1
+style="color:#616F67;font-family:Helvetica, Arial, sans-serif;font-size:32px;font-weight:bold;margin-bottom:5px;margin-top:5px;"><span
+ style="color:rgb(98, 111, 104);font-family:Helvetica;font-size:26px;line-height:26px;text-align:left;">Ready
+to Try iOS? &#160;We need your help!</span></h1>
+<br />
+<span
+style="margin:0px;padding:0px;border:0px;outline:0px;font-size:15px;vertical-align:baseline;color:rgb(0, 0, 0);font-family:ProximaNova, helvetica, arial, sans-serif;line-height:21px;color:#616F67;text-align:left;">And
+that is why we created a Kickstarter project for<b
+style="margin:0px;padding:0px;border:0px;outline:0px;vertical-align:baseline;background-color:transparent;">&#160;Try
+iOS</b>, a course on how to build your own iPhone apps. Complete
+with an in-browser iPhone simulator, this course offers
+high-quality screencasts, code challenges, and gamification
+principles to make learning fun. Everything you'd expect from a
+Code School course.&#160;<br />
+<br />
+Check out our project page to learn more, pledge today, and get
+some great rewards: Access to the course, T-shirts, patches, and
+more!</span><br />
+<br />
+<div>&#160; &#160; &#160; &#160; &#160; &#160; &#160;<a
+rel="nofollow" target="_blank"
+href="http://codeschool.us5.list-manage.com/track/click?u=8234ed62d6a7fa87721ff1d8a&amp;id=4abf2f5e7f&amp;e=0bbff3f425"><img
+ alt="Try iOS Video"
+src="http://gallery.mailchimp.com/8234ed62d6a7fa87721ff1d8a/images/3485358000.png"
+ align="middle" height="377" /></a></div>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="border-bottom:1px solid #ffffff;" bgcolor="#D4D0C6"
+border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" height="5" valign="top"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top">From your friends at<br />
+~ Code School</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-bottom:1px solid #ffffff;" bgcolor="#D4D0C6"
+border="0" cellpadding="0" cellspacing="0" height="5" width="100%">
+<tbody>
+<tr>
+<td align="center" height="5" valign="top"></td>
+</tr>
+</tbody>
+</table>
+<table id="yiv4070376footerTableWrapper" bgcolor="#46524D"
+border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-bottom:30px;padding-top:30px;" align="center"
+valign="top">
+<table id="yiv4070376footerTable" class="yiv4070376flexSize"
+style="color:#f5f5f5;font-size:12px;width:580px;" bgcolor="#46524D"
+border="0" cellpadding="0" cellspacing="10">
+<tbody>
+<tr>
+<td class="yiv4070376footerContent" valign="top"><a rel="nofollow"
+target="_blank"
+href="http://us5.forward-to-friend2.com/forward?u=8234ed62d6a7fa87721ff1d8a&amp;id=59c5f7c94b&amp;e=0bbff3f425"
+ style="color:#E8E5D7;">Forward to Friend</a>&#160;</td>
+</tr>
+<tr>
+<td class="yiv4070376footerContent" style="padding-top:20px;"
+valign="top">
+<div><a rel="nofollow" target="_blank"
+href="http://codeschool.us5.list-manage.com/profile?u=8234ed62d6a7fa87721ff1d8a&amp;id=b819d211aa&amp;e=0bbff3f425"
+ style="color:#E8E5D7;font-size:16px;">update subscription
+preferences</a><br />
+<a rel="nofollow" target="_blank"
+href="http://us5.campaign-archive2.com/?u=8234ed62d6a7fa87721ff1d8a&amp;id=59c5f7c94b&amp;e=0bbff3f425"
+ style="font-size:16px;color:#E8E5D7;">view email in
+browser</a><br />
+<a rel="nofollow" target="_blank"
+href="http://codeschool.us5.list-manage1.com/unsubscribe?u=8234ed62d6a7fa87721ff1d8a&amp;id=b819d211aa&amp;e=0bbff3f425&amp;c=59c5f7c94b"
+ style="color:#E8E5D7;">Unsubscribe</a><br />
+</div>
+</td>
+</tr>
+<tr>
+<td class="yiv4070376footerContent" style="padding-top:20px;"
+valign="top"><i>Copyright 2012 Code School, All rights
+reserved.</i><br />
+ You have registered your information and email on the
+CodeSchool.com site<br />
+<br />
+ <b>Our mailing address is:</b><br />
+ 
+<div class="yiv4070376vcard"><span
+class="yiv4070376org yiv4070376fn">Code School</span>
+<div class="yiv4070376adr">
+<div class="yiv4070376street-address">189 S Orange 2010</div>
+<span class="yiv4070376locality">Orlando</span>, <span
+class="yiv4070376region">FL</span> <span
+class="yiv4070376postal-code">32801</span></div>
+<br />
+<a rel="nofollow" target="_blank"
+href="http://codeschool.us5.list-manage.com/vcard?u=8234ed62d6a7fa87721ff1d8a&amp;id=b819d211aa"
+ class="yiv4070376hcard-download">Add us to your address
+book</a></div>
+</td>
+</tr>
+<tr>
+<td id="yiv4070376monkeyRewards" class="yiv4070376footerContent"
+style="padding-top:20px;" valign="top"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<img
+src="http://CodeSchool.us5.list-manage.com/track/open.php?u=8234ed62d6a7fa87721ff1d8a&amp;id=59c5f7c94b&amp;e=0bbff3f425"
+ height="1" width="1" /></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail10' class='mails'>
+<div id='mailcount'>Mail - 10</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: You have 3 friends with birthdays this
+week<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 17:59:41 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Facebook" &lt;notification+zj4oz_=<a
+href="mailto:ojz66@facebookmail.com">ojz66@facebookmail.com</a>&gt;<br />
+Date: Jul 22, 2012 8:27 AM<br />
+Subject: You have 3 friends with birthdays this week<br />
+To: "Shalini Singh" &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div style="margin:0;padding:0" dir="ltr">
+<table width="98%" border="0" cellspacing="0" cellpadding="40">
+<tr>
+<td bgcolor="#F7F7F7" width="100%"
+style="font-family:'lucida grande',tahoma,verdana,arial,sans-serif">
+<table cellpadding="0" cellspacing="0" border="0" width="620">
+<tr>
+<td
+style="background:#3b5998;color:#ffffff;font-weight:bold;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px 8px;font-size:16px;letter-spacing:-0.03em;text-align:left">facebook</td>
+<td
+style="background:#3b5998;color:#ffffff;font-weight:bold;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px 8px;font-size:11px;text-align:right"></td>
+</tr>
+<tr>
+<td colspan="2"
+style="border-right:1px solid #cccccc;border-bottom:1px solid #3b5998;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;padding:15px;border-left:1px solid #cccccc"
+ valign="top">
+<table width="100%">
+<tr>
+<td width="100%" style="font-size:12px" valign="top" align="left">
+<div style="margin-bottom:15px;font-size:12px">Hi Shalini,</div>
+<div style="margin-bottom:15px">You have 3 friends with birthdays
+in the next week. Help them celebrate!</div>
+<div style="margin-bottom:15px">
+<table width="100%">
+<tbody>
+<tr>
+<td colspan="2"
+style="padding-top:10px;font-size:11px;border-bottom:1px solid #ccc;min-height:18px">Monday,
+July 23rd</td>
+</tr>
+<tr>
+<td width="60"><a
+href="http://www.facebook.com/n/?profile.php&amp;id=100001112114285&amp;ref=brem&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank"><img
+src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/276113_100001112114285_1090968641_q.jpg"
+ alt="Kalyani Korde" style="min-height:50px;width:50px" /></a></td>
+<td style="padding:0px 0px 10px 0px"><span
+style="font-weight:bold;font-size:13px"><a
+href="http://www.facebook.com/n/?profile.php&amp;id=100001112114285&amp;ref=brem&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ style="color:#3b5998;text-decoration:none" target="_blank">Kalyani
+Korde</a></span><br />
+<div style="display:inline-block;vertical-align:top">
+<table cellspacing="0" cellpadding="0"
+style="border-collapse:collapse">
+<tr>
+<td><a style="color:#3b5998;text-decoration:none"
+href="http://www.facebook.com/n/?profile.php&amp;id=100001112114285&amp;ref=brem&amp;composeropen=1&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank">Write on her Wall</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"
+style="padding-top:10px;font-size:11px;border-bottom:1px solid #ccc;min-height:18px">Sunday,
+July 29th</td>
+</tr>
+<tr>
+<td width="60"><a
+href="http://www.facebook.com/n/?profile.php&amp;id=100001715300856&amp;ref=brem&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank"><img
+src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/49138_100001715300856_5864054_q.jpg"
+ alt="Linta Shahare" style="min-height:50px;width:50px" /></a></td>
+<td style="padding:0px 0px 10px 0px"><span
+style="font-weight:bold;font-size:13px"><a
+href="http://www.facebook.com/n/?profile.php&amp;id=100001715300856&amp;ref=brem&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ style="color:#3b5998;text-decoration:none" target="_blank">Linta
+Shahare</a></span><br />
+<span style="font-size:11px">26 years old =B7</span>
+<div style="display:inline-block;vertical-align:top">
+<table cellspacing="0" cellpadding="0"
+style="border-collapse:collapse">
+<tr>
+<td><a style="color:#3b5998;text-decoration:none"
+href="http://www.facebook.com/n/?profile.php&amp;id=100001715300856&amp;ref=brem&amp;composeropen=1&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank">Write on her Wall</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td width="60"><a
+href="http://www.facebook.com/n/?profile.php&amp;id=640512335&amp;ref=brem&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank"><img
+src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/157863_640512335_1185549564_q.jpg"
+ alt="Kunal Singh" style="min-height:50px;width:50px" /></a></td>
+<td style="padding:0px 0px 10px 0px"><span
+style="font-weight:bold;font-size:13px"><a
+href="http://www.facebook.com/n/?profile.php&amp;id=640512335&amp;ref=brem&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ style="color:#3b5998;text-decoration:none" target="_blank">Kunal
+Singh</a></span><br />
+<span style="font-size:11px">23 years old =B7</span>
+<div style="display:inline-block;vertical-align:top">
+<table cellspacing="0" cellpadding="0"
+style="border-collapse:collapse">
+<tr>
+<td><a style="color:#3b5998;text-decoration:none"
+href="http://www.facebook.com/n/?profile.php&amp;id=640512335&amp;ref=brem&amp;composeropen=1&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ target="_blank">Write on his Wall</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin-bottom:15px">You can also use Facebook to plan a
+<a
+href="http://www.facebook.com/n/?events%2Fcreate%2F&amp;mid=6756945G5af34038b920G0G1a&amp;bcode=IfN3D2Vc_1.1342925847.AaQU-Eb_f9QRxA9k&amp;n_m=shaalinijimmy%40gmail.com"
+ style="color:#3b5998;text-decoration:none" target="_blank">special
+birthday event</a>.</div>
+<div style="margin-bottom:15px;margin:0">Thanks,<br />
+The Facebook Team</div>
+</td>
+</tr>
+</table>
+<span><img
+src="http://www.facebook.com/email_open_log_pic.php?mid=6756945G5af34038b920G0G1a"
+ style="border:0;width:1px;min-height:1px" /></span></td>
+</tr>
+<tr>
+<td colspan="2"
+style="color:#999999;padding:10px;font-size:12px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif">This
+message was sent to <a href="mailto:shaalinijimmy@gmail.com"
+target="_blank">shaalinijimmy@gmail.com</a>. If you don't want to
+receive these emails from Facebook in the future, please click: <a
+href="http://www.facebook.com/o.php?k=AS0jgQDRUOxl78r0&amp;u=100000801012000&amp;mid=6756945G5af34038b920G0G1a"
+ style="color:#3b5998;text-decoration:none"
+target="_blank">unsubscribe</a>.<br />
+ Facebook, Inc. Attention: Department 415 P.O Box 10005 Palo Alto
+CA 94303</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+--e89a8ff1c14cf4deff04c6337215--<br />
+</div>
+</div>
+</div>
+<div id='mail11' class='mails'>
+<div id='mailcount'>Mail - 11</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Gaurav sachdeva has shared this SlideShare
+presentation: Teach a Dog to REST<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:29:50 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> SlideShare
+&lt;donotreply@slidesharemail.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Thursday, 26
+July 2012 12:39 AM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Gaurav
+sachdeva has shared this SlideShare presentation: Teach a Dog to
+REST<br />
+</font></div>
+<br />
+<div id="yiv1641738311">
+<div>
+<table bgcolor="#999999" cellpadding="10" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<table cellpadding="0" cellspacing="0" width="610">
+<tbody>
+<tr>
+<td align="left" bgcolor="#EEEEEE" valign="middle"><a
+rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=nEHcwHfafXdhRH-2Bd5Rl3sfHWCQl8tfQm6EjSvh4MOaQ-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOEzlm2J4uKeOwvvmGFVWuTBfCWzhwiZRUm2huCVoPfmz2U0rMNAF78pKFtnKz5hXVS8HCK6UI0ZivRx50kMIcgriutODAM-2B0GPklWPjjHaD9SoqxdwpmVV9NksVypzMte2Crb5z7S6zhsgh7Gtmuflow-3D-3D"
+ style="display:block;font-size:18px;font-weight:700;line-height:2.4;color:#0077AA;"><img
+ src="http://slideshare.net/images/email-header.png"
+style="margin:0;" align="left" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+<table
+style="border:1px solid #EEEEEE;border-bottom-color:#E0E0E0;text-align:left;"
+ bgcolor="#FFFFFF" cellpadding="12" cellspacing="0" width="610">
+<tbody>
+<tr style="display:block;margin:12px 0;">
+<td style="font-size:12px;color:#000000;line-height:120%;"
+bgcolor="#FFFFFF" valign="top" width="400">
+<div style="font-family:arial;">Hey,<br />
+<br />
+ Your friend Gaurav sachdeva recommends this SlideShare
+presentation.<br />
+<br />
+</div>
+<div style="border:3px solid #E1EBE9;padding:12px;width:350px;"><a
+rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkeWpu7zpxYpKXy-2F8OXwHVU0KUl-2FU9QcelUaaVYakSK-2Bm2XuZQDu9ENWJyjF0YZtQRHlBUVQZn19A50xaH0migoI-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOEYE2PBu0JhEu8-2BRljUbK8zh-2B-2Bj-2B0EHzqy9PCFXjY295u-2FHiY7V-2FKHJRfJqScHX5Z1g-2FHLgxpXs5oieff-2BQe0J1rYMVZbf2sFT6ugNkjolWFWOIi9E3V-2Bmicvh16v0V9AcK2OlsgPyUL1u9HFQjOqHdw-3D-3D"><img
+ style="border:1px solid #ddd;float:left;margin-right:12px;padding:1px;"
+ src="https://cdn.slidesharecdn.com/ss_thumbnails/teachadogtorest-101206134208-phpapp02-thumbnail-2.jpg?1321176901"
+ height="90" width="120" /><br />
+</a> <b><a rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkeWpu7zpxYpKXy-2F8OXwHVU0KUl-2FU9QcelUaaVYakSK-2Bm2XuZQDu9ENWJyjF0YZtQRHlBUVQZn19A50xaH0migoI-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOEtbCCrEuicEhbFgE0vLWy5pTa5XEHadz8dCJvCZPQcpra6NjioAxtdT7JrD9-2BoNEPGU1RW0cGGLxzka1E9c6k8JDRdoLVHVq1bmlcjypN7KXrBfnsdcRFdBLeH8sEUw2eMbD8TYk3LQ-2B-2FXGAT5-2BQF8A-3D-3D"
+ style="display:block;margin:0 0 4px;text-decoration:none;color:#0077AA;font-family:arial;">Teach
+a Dog to REST=A6</a></b> <span
+style="color:#666666;display:block;font-family:arial;overflow:hidden;min-height:42px;height:42px;">this
+is an old version. new version here:
+http://blog.apigee.com/detail/slides_for_restful_api_design_second_edition_webinar/It's
+been 10 years since Fielding first defined REST. So, where are all
+the elegant REST APIs? While many claim REST has arrived, many APIs
+in the wild exhibit arbitrary, productivity-killing deviations from
+true REST. We'll start with a typical poorly-designed API and
+iterate it into a well-behaved RESTful API.</span><br />
+ <b><a rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkeWpu7zpxYpKXy-2F8OXwHVU0KUl-2FU9QcelUaaVYakSK-2Bm2XuZQDu9ENWJyjF0YZtQRHlBUVQZn19A50xaH0migoI-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOExN-2FwwtjAJQUoSlfriZCpvcXFS-2FShdXfogX7C1eOa-2BAUrLHFPa58FYBc9-2FMENekGUte1v7oXl3RxKRR-2B0eKm9-2Fz7ZPAvmWU0BgIR735NJVCfwW1GRuV3BjxRK8XKN2N-2BVpmZ4IYtX0PMT0ROxNF9jGQ-3D-3D"
+ style="background:#FF9900;border:1px solid #ffd391;border-top-color:#ffb74a;border-bottom-color:#af7928;border-right-color:#af7928;color:#392910;display:block;margin:12px 0 0;padding:6px;text-align:center;text-decoration:none;font-family:arial;width:110px;margin:0;">View
+presentation</a></b></div>
+</td>
+<td
+style="font-size:12px;color:#000000;line-height:150%;font-family:arial;border-left:1px dotted #CCCCCC;text-align:center;"
+ valign="middle" width="350"><span style="line-height:130%;">Want
+more from SlideShare?<br />
+<a rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=AXP-2B2X1pEs0tJHJCBlwDdQo7eX4HdvzuiPln2kkjnPAQWyHXrbM9wC7Ac73rqrhUThuXW-2Fq5pEp0HGpNr-2FXVJw6u0C6TjoCi3631rf195ys-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOEQjAHU5g5L5TMmsIqdoXk1iw-2B1BT5TJbhzCZDLvjknULuQ5hAnDe9oim76iHAXgS8kbOEjf77v-2BGVKGV0n3-2BCFOpEDtd-2BM-2BlKaMMq0EiNQD4-2F9x4VfMdRajw42ZtYGKQPAd54ITXRMvOpJCBvAIw3pw-3D-3D"
+ style="font-size:15px;font-weight:bold;text-decoration:none;color:#0077AA;">Go
+PRO</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div
+style="color:#444;font-family:Verdana, Arial, sans-serif;font-size:11px;line-height:1.35;padding:0 0 10px 10px;">We
+have your email address as gauravs23@ymail.com.<br />
+Click to <a rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkR6XzeRYg8dh3oYgNLzQ7MjpkaKdegbOlFp0mdiCADKueLZJLLiaHupONkJfpWJ4OETvXaobvnyJzs0iRekyzDtFY3DPTiUII7cD1Pz2aHWXWjGMUGdkyQNqKtLfES4sNw-3D-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOE4R-2FIJvz4SgIb0sZIaKDGEd0qSj2tqwRlBg67CXEX3MzWDZmE7XY14mBKjgZs8TTg86Gt-2FL30zmTcyZWufepNFqwNXx9vZiGvlQ8eu8utNzMFNdIVCV62yF-2BZU9UOFnUg-2FCbMMUJW9nX9ivg14ea6Ng-3D-3D">unsubscribe</a>
+from all SlideShare emails or to <a rel="nofollow" target="_blank"
+href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkSmaW7Jfo9t-2FMtAfay1mveAOtVMdOj4uM90kWutHMqwG8AOYb5JvjDjPHXL-2FPMnn4g-2Beisz4N0ep-2FdlAvPDHN5o-3D_JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOE0HHgV6Ix9ZrEH7nB87HmN-2F4wP87PWUViowmLfuuKwAUaiXE5byShibgxM1GJPVjNia79LxpYhu4fTafPJwM0o1xNCLvveL21qidNpb-2B0HuYEBLzFavQ6dmdLjpeuFnrcD3GV2OACAXabgGagQQ0gHg-3D-3D">adjust</a>
+your email notifications.</div>
+<img
+src="http://slidesharemail.com/wf/open?upn=JUGDP0F-2B6K0cb74oNnaDEJqn2hH9vCVNpHzDoiq7WUbCExQGdnkD4v1R1d0gzgOEQJcwwLjesJJHlxl5qhZlahH6dytoMickThr6dEFOu7sUwClLrR34k-2FQJWYBmi3v8ByoVLAiux-2FbJ0BD-2BIbA6pJLldOHmutcWR2ekaYVSTE823-2B5-2FW6ZSKa396oMrPnsryDAhInimeue-2BQ-2BYsNawur8X5sCSHQ0cGjWTG-2FEIWa1s-3D"
+ alt="" /></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail12' class='mails'>
+<div id='mailcount'>Mail - 12</div>
+<div id='mailbody'>
+<div id='mailheader'>New Comment for 'Convert Apex REST Service to
+JSON' Challenge<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:29:43 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> CloudSpokes
+Team &lt;support@cloudspokes.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+"gauravs23@ymail.com" &lt;gauravs23@ymail.com&gt;<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Wednesday, 25
+July 2012 8:34 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> New
+Comment for 'Convert Apex REST Service to JSON' Challenge<br />
+</font></div>
+<br />
+<div id="yiv1272595603">
+<div>
+<table cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/"><img
+src="https://s3.amazonaws.com/cs-public/email_images/cloudspokes-logo.png"
+ width="75" /></a></td>
+<td>
+<h2>Convert Apex REST Service to JSON</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<div>A new comment has been posted by <a rel="nofollow"
+target="_blank"
+href="http://www.cloudspokes.com/members/jeffdonthemic">jeffdonthemic</a>
+for this challenge that you are either registered for or
+watching:</div>
+<table cellpadding="5" cellspacing="5">
+<tbody>
+<tr>
+<td>&#160;</td>
+<td><img
+src="http://lh3.ggpht.com/YGARma3cFBpVaDe_LIycE6SChUYD-IEMOOqh6NO2q5nON75-5uqDBz6eq3RQUQ22XEs0BloXlTf9SyedQJS4H4Eyt23n5Cc"
+ width="75" /></td>
+<td><i>"@gauravs32, I actually just put this video overview
+together a couple of days ago. It needs to be tweaked a little but
+hope it helps:
+http://www.youtube.com/watch?v=5GD5tJ0Ymlk&amp;feature=plcp"</i></td>
+</tr>
+</tbody>
+</table>
+<div><br />
+You can <a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1621?reply_to=a09U0000006bUQbIAM#comment">reply
+to this comment</a> or <a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1621">view the
+challenge</a> for more info.</div>
+<table>
+<tbody>
+<tr>
+<td><img
+src="http://cs-public.s3.amazonaws.com/email_images/email-remove.png"
+ width="40" /></td>
+<td>&#160;</td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/1621/toggle_discussion_email">Stop
+sending me</a> Discussion list email for this challenge.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div><br />
+Regards,<br />
+The CloudSpokes Team<br />
+<i>...where the rubber meets the code!</i></div>
+<h3 style="padding-top:25px;">Follow Us!</h3>
+<table cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://www.github.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/github_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.twitter.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/twitter_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.facebook.com/cloudspokes"><img
+src="https://s3.amazonaws.com/cs-public/email_images/facebook_64.png" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.youtube.com/cloudspokescommunity"><img
+src="https://s3.amazonaws.com/cs-public/email_images/youtube_icon.png"
+ style="padding-left:5px;padding-top:3px;" width="59" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://blog.cloudspokes.com/"><img
+src="https://s3.amazonaws.com/cs-public/email_images/blogicon.png"
+style="padding-left:10px;padding-top:4px;" width="55" /></a></td>
+<td><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/challenges/feed"><img
+src="https://s3.amazonaws.com/cs-public/email_images/rss_icon.png"
+style="padding-left:10px;padding-top:3px;" width="57" /></a></td>
+</tr>
+</tbody>
+</table>
+<div><a rel="nofollow" target="_blank"
+href="http://www.cloudspokes.com/">http://www.cloudspokes.com</a></div>
+</div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail13' class='mails'>
+<div id='mailcount'>Mail - 13</div>
+<div id='mailbody'>
+<div id='mailheader'>Fw: Box Developer Newsletter - Join us for a
+Hackathon!<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva &lt;gauravs23@ymail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 20:30:16 +0800 (SGT)</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div
+style="color:#000; background-color:#fff; font-family:arial, helvetica, sans-serif;font-size:12pt">
+<div><br />
+</div>
+<div
+style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">
+<div
+style="font-family: times new roman, new york, times, serif; font-size: 12pt;">
+<div dir="ltr"><font face="Arial" size="2">----- Forwarded Message
+-----<br />
+ <b><span style="font-weight:bold;">From:</span></b> The Box
+Platform Team &lt;developers@box.com&gt;<br />
+ <b><span style="font-weight: bold;">To:</span></b>
+gauravs23@ymail.com<br />
+ <b><span style="font-weight: bold;">Sent:</span></b> Wednesday, 25
+July 2012 9:32 PM<br />
+ <b><span style="font-weight: bold;">Subject:</span></b> Box
+Developer Newsletter - Join us for a Hackathon!<br />
+</font></div>
+<br />
+<div id="yiv1715075553">
+<div>
+<table style="border:0;border-spacing:0;border-collapse:collapse;"
+align="center" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding:7px 10px;" align="center" bgcolor="#EFEFEF">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="http://s1464.t.en25.com/e/es.aspx?s=1464&amp;e=3714305&amp;elq=3a72d0f077bf4ff08ac012c88b693996"></a>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#E0E8ED" height="1" width="1"></td>
+<td bgcolor="#C8DCE9" height="1" width="1"></td>
+<td bgcolor="#C1D8E7" height="1" width="1"></td>
+<td bgcolor="#CFDFEA" height="1" width="1"></td>
+<td bgcolor="#E7EBEE" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="6" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#CCDDE9" height="1" width="1"></td>
+<td bgcolor="#C6DCEB" height="1" width="1"></td>
+<td bgcolor="#E4EEF6" height="1" width="1"></td>
+<td bgcolor="#ECF3F9" height="1" width="1"></td>
+<td bgcolor="#DCE9F3" height="1" width="1"></td>
+<td bgcolor="#B7D4E7" height="1" width="1"></td>
+<td bgcolor="#D3E1EA" height="1" width="1"></td>
+<td colspan="4" bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="5" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#D1E0EA" height="1" width="1"></td>
+<td bgcolor="#CEE1EE" height="1" width="1"></td>
+<td bgcolor="#FDFEFF" height="1" width="1"></td>
+<td bgcolor="#FCFEFF" height="1" width="1"></td>
+<td bgcolor="#FCFDFF" height="1" width="1"></td>
+<td bgcolor="#FDFEFF" height="1" width="1"></td>
+<td bgcolor="#F4F8FC" height="1" width="1"></td>
+<td bgcolor="#B8D4E7" height="1" width="1"></td>
+<td bgcolor="#E6EAED" height="1" width="1"></td>
+<td colspan="3" bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="4" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EEEFEF" height="1" width="1"></td>
+<td bgcolor="#B4D2E5" height="1" width="1"></td>
+<td bgcolor="#F8FBFD" height="1" width="1"></td>
+<td colspan="4" bgcolor="#FCFEFF" height="1" width="1"></td>
+<td bgcolor="#FDFEFF" height="1" width="1"></td>
+<td bgcolor="#DDEBF4" height="1" width="1"></td>
+<td bgcolor="#CDDEE9" height="1" width="1"></td>
+<td bgcolor="#E4EAED" height="1" width="1"></td>
+<td colspan="2" bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#E1E8ED" height="1" width="1"></td>
+<td bgcolor="#C8DCE9" height="1" width="1"></td>
+<td bgcolor="#BFD9E9" height="1" width="1"></td>
+<td bgcolor="#FEFFFF" height="1" width="1"></td>
+<td colspan="5" bgcolor="#FCFEFF" height="1" width="1"></td>
+<td bgcolor="#F7FBFD" height="1" width="1"></td>
+<td bgcolor="#D8E8F2" height="1" width="1"></td>
+<td bgcolor="#C0D9EA" height="1" width="1"></td>
+<td bgcolor="#CDDEE9" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#CFDFEA" height="1" width="1"></td>
+<td bgcolor="#C1DAEA" height="1" width="1"></td>
+<td bgcolor="#E4EFF6" height="1" width="1"></td>
+<td bgcolor="#F0F6FA" height="1" width="1"></td>
+<td bgcolor="#FEFEFF" height="1" width="1"></td>
+<td colspan="6" bgcolor="#FDFEFF" height="1" width="1"></td>
+<td bgcolor="#FEFEFF" height="1" width="1"></td>
+<td bgcolor="#FCFEFE" height="1" width="1"></td>
+<td bgcolor="#CCE0EE" height="1" width="1"></td>
+<td bgcolor="#D0DFEA" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#E9ECEE" height="1" width="1"></td>
+<td bgcolor="#BBD6E8" height="1" width="1"></td>
+<td bgcolor="#FAFCFD" height="1" width="1"></td>
+<td bgcolor="#FEFEFF" height="1" width="1"></td>
+<td colspan="10" bgcolor="#FDFEFF" height="1" width="1"></td>
+<td bgcolor="#F9FCFD" height="1" width="1"></td>
+<td bgcolor="#B6D3E6" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#D3E1EA" height="1" width="1"></td>
+<td bgcolor="#D6E7F1" height="1" width="1"></td>
+<td bgcolor="#FEFEFF" height="1" width="1"></td>
+<td colspan="11" bgcolor="#FDFEFF" height="1" width="1"></td>
+<td bgcolor="#FEFFFF" height="1" width="1"></td>
+<td bgcolor="#BFD9E9" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#D1E0EA" height="1" width="1"></td>
+<td bgcolor="#D9E8F2" height="1" width="1"></td>
+<td colspan="12" bgcolor="#FEFFFF" height="1" width="1"></td>
+<td bgcolor="#FDFEFE" height="1" width="1"></td>
+<td bgcolor="#B7D4E7" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#E4E9ED" height="1" width="1"></td>
+<td bgcolor="#C1DAEA" height="1" width="1"></td>
+<td bgcolor="#FEFEFF" height="1" width="1"></td>
+<td colspan="11" bgcolor="#FEFFFF" height="1" width="1"></td>
+<td bgcolor="#D9E8F2" height="1" width="1"></td>
+<td bgcolor="#CDDEE9" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#CCDEE9" height="1" width="1"></td>
+<td bgcolor="#CDE1EE" height="1" width="1"></td>
+<td bgcolor="#F2F7FA" height="1" width="1"></td>
+<td colspan="9" bgcolor="#ffffff" height="1" width="1"></td>
+<td bgcolor="#D1E3EF" height="1" width="1"></td>
+<td bgcolor="#CCDDE9" height="1" width="1"></td>
+<td bgcolor="#E9ECEE" height="1" width="1"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#D6E3EB" height="1" width="1"></td>
+<td bgcolor="#BED6E7" height="1" width="1"></td>
+<td colspan="9" bgcolor="#B3D1E5" height="1" width="1"></td>
+<td bgcolor="#CCDDE9" height="1" width="1"></td>
+<td colspan="2" bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a rel="nofollow" target="_blank"
+href="http://s1464.t.en25.com/e/es.aspx?s=1464&amp;e=3714305&amp;elq=3a72d0f077bf4ff08ac012c88b693996"
+ style="font-family:arial;font-size:12px;text-decoration:none;color:#1a74ba;padding:5px 0 5px 5px;">Read
+this in the cloud</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#F0F0F0" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F2F2F2" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6" height="1" width="1"></td>
+<td bgcolor="#F2F2F2" height="1" width="1"></td>
+<td bgcolor="#F0F0F0" height="1" width="1"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#EFEFEF" height="3" width="164"></td>
+<td>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#F0F0F0" height="1" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#EFEFEF" height="1" width="1"></td>
+<td bgcolor="#F2F2F2" height="1" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F0F0F0" height="1" width="1"></td>
+<td bgcolor="#F2F2F2" height="1" width="1"></td>
+<td bgcolor="#F6F6F6" height="1" width="1"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border:0;border-spacing:0;border-collapse:collapse;"
+align="center" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table
+style="border:0pt none;border-spacing:0pt;border-collapse:collapse;"
+ align="center" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td><br />
+</td>
+</tr>
+</tbody>
+</table>
+<table
+style="border:0pt none;border-spacing:0pt;border-collapse:collapse;"
+ align="center" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td>
+<table
+style="border:0pt none;border-spacing:0pt;border-collapse:collapse;"
+ align="center" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0"
+width="654">
+<tbody>
+<tr>
+<td style="padding-top:15px;" valign="bottom">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="3"></td>
+<td bgcolor="#308ACB"><a rel="nofollow" target="_blank"
+href="http://s1464.t.en25.com/e/er?s=1464&amp;lid=601&amp;elq=3a72d0f077bf4ff08ac012c88b693996"
+ style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/dev-newsletter-header-split-logo.jpg"
+ alt="Box Newsletter"
+style="vertical-align:bottom;border:0pt none;" height="64"
+width="402" /></a></td>
+<td bgcolor="#308ACB"><a rel="nofollow" target="_blank"
+href="http://s1464.t.en25.com/e/er?s=1464&amp;lid=602&amp;elq=3a72d0f077bf4ff08ac012c88b693996"
+ style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/newsletter-header-split-login.jpg"
+ alt="Box Login" style="vertical-align:bottom;border:0pt none;"
+height="64" width="248" /></a></td>
+<td width="3"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:15px;" bgcolor="#F0F0F0" valign="top"
+width="1"></td>
+<td style="padding-top:15px;" bgcolor="#E6E6E6" valign="top"
+width="1"></td>
+<td style="padding-top:15px;" bgcolor="#D0D0D0" valign="top"
+width="1"></td>
+<td
+style="padding:15px;background:none repeat scroll 0% 0% rgb(255, 255, 255);"
+ valign="top">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="padding-right:15px;border-right:1px solid rgb(208, 208, 208);"
+ valign="top" width="410">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="font-family:arial;font-size:21px;font-weight:bold;padding:5px 0pt 15px;">Come
+Hack at Box!</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-right:10px;">Dear
+Developers,<br />
+<br />
+ This August, we're opening up our office to developers all over
+the Valley for a hackathon - <a rel="nofollow" target="_blank"
+href="http://sites.box.com/redefiningwork/"
+style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);">Redefining
+Work</a> - in which we're encouraging you to build the next great
+business application.<br />
+<br />
+</td>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);"
+ valign="middle"><img
+src="http://img.en25.com/eloquaimages/clients/Boxnet/%7Bb7e72099-ed79-4146-8f62-16b0e58a034c%7D_Adam-Pisoni.jpg"
+ alt="Adam Pisoni" height="129" width="136" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:10px;">Just
+in case the burning desire in your heart to revolutionize
+enterprise software isn't enough motivation, we've rounded up a
+host of partners, all of whom will be giving away thousands of
+dollars worth of fantastic prizes. Twilio, Mashery, Firebase,
+Parse, TokBox and Iron.io will all join us to teach you about their
+APIs and give away iPads, monitors, Kindle Fires and more.</td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:10px;">We're
+also bringing in some of the Valley's biggest names, including
+<b>Adam Pisoni, CTO and Co-founder of Yammer</b>, and Jeff Lawson,
+CEO and Co-founder of Twilio, to tell you what it takes to be the
+next great startup. On top of that, because you're a Box developer
+and we think you're great, <b>we're giving you $25 off your ticket
+- just <a class="yui_3_2_0_32_1343790741008121" rel="nofollow"
+target="_blank"
+href="http://redefiningwork.eventbrite.com/?discount=work"
+style="font-family:arial;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">use
+the code "work" when you register</a>.</b></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:10px;">As
+always, if you have any questions, just shoot us an email at <a
+rel="nofollow" ymailto="mailto:API@box.com" target="_blank"
+href="mailto:API@box.com"
+style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);">API@box.com.</a>
+Happy coding!</td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:25px;">Cheers,<br />
+ Alex Willen<br />
+ Developer Advocate</td>
+</tr>
+<tr>
+<td
+style="padding:25px 0pt;border-top:1px dotted rgb(208, 208, 208);">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-right:10px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td><a rel="nofollow" target="_blank"
+href="https://www.box.com/boxworks/developers/"
+style="font-family:arial;font-size:15px;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Announcing
+BoxWorks Developer Day!</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:10px;">This
+year at BoxWorks, we're going to have a full day of content just
+for developers, including technical sessions, a special developer
+keynote and code consultations with our platform managers. <a
+rel="nofollow" target="_blank"
+href="https://www.box.com/boxworks/developers/"
+style="font-family:arial;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Read
+more =BA</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom:25px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-right:10px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-bottom:5px;"><a rel="nofollow" target="_blank"
+href="http://developers.blog.box.com/2012/07/13/more-v2-updates/"
+style="font-family:arial;font-size:15px;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">New
+API Functionality</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:10px;">In
+April, we launched a brand new, fully rebuilt version of our API
+that's more logically structured and generally easier to use.
+Recently, we released some updates to it that offer new
+functionality and make it even more intuitive. <a rel="nofollow"
+target="_blank"
+href="http://developers.blog.box.com/2012/07/13/more-v2-updates/"
+style="font-family:arial;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Read
+more =BA</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left:15px;" valign="top">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="font-family:arial;font-size:15px;font-weight:bold;color:rgb(51, 51, 51);padding-bottom:5px;border-bottom:1px dotted rgb(208, 208, 208);">App
+of the Month</td>
+</tr>
+<tr>
+<td style="padding-top:10px;" align="center"><a rel="nofollow"
+target="_blank" href="http://www.hojoki.com/"
+style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="http://img.en25.com/eloquaimages/clients/Boxnet/%7Bff276281-c57d-436a-a9ea-835b8c5203a7%7D_Hojoki.jpg"
+ alt="Hojoki" style="border:0pt none;" height="96"
+width="96" /></a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding:10px 0pt 20px;"><b>Hojoki</b>,
+one newsfeed for all your productivity apps.<br />
+<br />
+ <a rel="nofollow" target="_blank"
+href="https://www.box.com/services/hojoki"
+style="font-family:arial;font-size:13px;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Get
+Hojoki in the Box Apps Marketplace =BA</a><br />
+ <a rel="nofollow" target="_blank" href="http://hojoki.com/"
+style="font-family:arial;font-size:13px;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Visit
+the Hojoki site =BA</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:15px;font-weight:bold;color:rgb(51, 51, 51);padding-bottom:5px;border-bottom:1px dotted rgb(208, 208, 208);">Follow
+us on Twitter</td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding:10px 0pt 20px;">Get
+platform updates by following us <a rel="nofollow" target="_blank"
+href="http://app.en25.com/e/er?s=1464&amp;lid=482&amp;elq=b9a507d30f5b42038e53697b37e480ed"
+ style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);">@BoxPlatform</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:15px;font-weight:bold;color:rgb(51, 51, 51);padding-bottom:5px;border-bottom:1px dotted rgb(208, 208, 208);">Box
+on StackOverflow</td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding:10px 0pt 20px;">Get
+help and share ideas with the Box team and fellow developers.<br />
+ <a rel="nofollow" target="_blank"
+href="http://stackoverflow.com/tags/box-api/"
+style="font-family:arial;font-size:13px;text-decoration:none;font-weight:bold;color:rgb(26, 116, 186);">Visit
+StackOverflow =BA</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:15px;font-weight:bold;color:rgb(51, 51, 51);padding-bottom:5px;border-bottom:1px dotted rgb(208, 208, 208);">Good
+Reading</td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding:10px 0pt 15px;"><a
+ rel="nofollow" target="_blank"
+href="http://developers.box.com/onecloud/#android"
+style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);">Learn
+about OneCloud for Android</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:15px;"><a
+ rel="nofollow" target="_blank"
+href="http://developers.blog.box.com/2012/07/03/unit-testing-with-static-variables/"
+ style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);">Unit
+Testing with Static Variables</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:15px;"><a
+ rel="nofollow" target="_blank"
+href="http://developers.blog.box.com/2012/06/13/box-and-parse-create-your-first-mobile-app-in-seconds/"
+ style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);">Box
+and Parse</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:15px;"><a
+ rel="nofollow" target="_blank"
+href="http://blog.box.com/2012/06/wwdc-wrap-up-how-apple-is-powering-the-next-generation-of-businesses/"
+ style="font-family:arial;font-size:13px;text-decoration:none;color:rgb(26, 116, 186);">How
+Apple is Powering the Next Generation of Businesses</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:13px;line-height:18px;color:rgb(102, 102, 102);padding-bottom:20px;"><a
+ rel="nofollow" target="_blank"
+href="http://app.en25.com/e/er?s=1464&amp;lid=486&amp;elq=b9a507d30f5b42038e53697b37e480ed"
+ style="font-family:arial;font-size:13px;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Visit
+the Box Dev Blog =BA</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-top:15px;" bgcolor="#D0D0D0" valign="top"
+width="1"></td>
+<td style="padding-top:15px;" bgcolor="#E6E6E6" valign="top"
+width="1"></td>
+<td style="padding-top:15px;" bgcolor="#F0F0F0" valign="top"
+width="1"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom:15px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="5">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#F1F1F1" height="1" width="1"></td>
+<td bgcolor="#E7E7E7" width="1"></td>
+<td bgcolor="#D0D0D0" width="1"></td>
+<td bgcolor="#FBFBFB" width="1"></td>
+<td bgcolor="#ffffff" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F2F2F2" height="1" width="1"></td>
+<td bgcolor="#E8E8E8" width="1"></td>
+<td bgcolor="#D5D5D5" width="1"></td>
+<td bgcolor="#E4E4E4" width="1"></td>
+<td bgcolor="#FBFBFB" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F3F3F3" height="1" width="1"></td>
+<td bgcolor="#ECECEC" width="1"></td>
+<td bgcolor="#E1E1E1" width="1"></td>
+<td bgcolor="#D2D2D2" width="1"></td>
+<td bgcolor="#D0D0D0" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F5F5F5" height="1" width="1"></td>
+<td bgcolor="#F0F0F0" width="1"></td>
+<td bgcolor="#E9E9E9" width="1"></td>
+<td bgcolor="#E1E1E1" width="1"></td>
+<td bgcolor="#DADADA" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F6F6F6" height="1" width="1"></td>
+<td bgcolor="#F4F4F4" width="1"></td>
+<td bgcolor="#F0F0F0" width="1"></td>
+<td bgcolor="#ECECEC" width="1"></td>
+<td bgcolor="#E8E8E8" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#F6F6F6" height="1" width="2"></td>
+<td bgcolor="#F5F5F5" width="1"></td>
+<td bgcolor="#F3F3F3" width="1"></td>
+<td bgcolor="#F2F2F2" width="1"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="644">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="2" width="644"></td>
+</tr>
+<tr>
+<td bgcolor="#D0D0D0" height="1" width="644"></td>
+</tr>
+<tr>
+<td bgcolor="#D5D5D5" height="1" width="644"></td>
+</tr>
+<tr>
+<td bgcolor="#E6E6E6" height="1" width="644"></td>
+</tr>
+<tr>
+<td bgcolor="#F0F0F0" height="1" width="644"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="5">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="1" width="1"></td>
+<td bgcolor="#FBFBFB" width="1"></td>
+<td bgcolor="#D0D0D0" width="1"></td>
+<td bgcolor="#E7E7E7" width="1"></td>
+<td bgcolor="#F1F1F1" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#FBFBFB" height="1" width="1"></td>
+<td bgcolor="#E4E4E4" width="1"></td>
+<td bgcolor="#D5D5D5" width="1"></td>
+<td bgcolor="#E8E8E8" width="1"></td>
+<td bgcolor="#F2F2F2" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#D0D0D0" height="1" width="1"></td>
+<td bgcolor="#D2D2D2" width="1"></td>
+<td bgcolor="#E1E1E1" width="1"></td>
+<td bgcolor="#ECECEC" width="1"></td>
+<td bgcolor="#F3F3F3" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#DADADA" height="1" width="1"></td>
+<td bgcolor="#E1E1E1" width="1"></td>
+<td bgcolor="#E9E9E9" width="1"></td>
+<td bgcolor="#F0F0F0" width="1"></td>
+<td bgcolor="#F5F5F5" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" height="1" width="1"></td>
+<td bgcolor="#ECECEC" width="1"></td>
+<td bgcolor="#F0F0F0" width="1"></td>
+<td bgcolor="#F4F4F4" width="1"></td>
+<td bgcolor="#F6F6F6" width="1"></td>
+</tr>
+<tr>
+<td bgcolor="#F2F2F2" height="1" width="1"></td>
+<td bgcolor="#F3F3F3" width="1"></td>
+<td bgcolor="#F5F5F5" width="1"></td>
+<td colspan="2" bgcolor="#F6F6F6" width="2"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table
+style="border:0pt none;border-spacing:0pt;border-collapse:collapse;"
+ align="center" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" cellpadding="0" cellspacing="0" width="654">
+<tbody>
+<tr>
+<td style="padding:0pt 10px 15px 15px;">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td
+style="font-family:arial;font-size:12px;font-weight:bold;color:rgb(180, 180, 180);padding-bottom:5px;"><a
+ rel="nofollow" target="_blank" href="http://www.box.com/about-us/"
+style="font-family:arial;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">About
+Box</a> <span style="padding:0pt 5px;">=A2</span> <a rel="nofollow"
+target="_blank"
+href="http://s1464.t.en25.com/e/u.aspx?s=1464&amp;elq=3a72d0f077bf4ff08ac012c88b693996"
+ style="font-family:arial;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Unsubscribe</a>
+<span style="padding:0pt 5px;">=A2</span> <a rel="nofollow"
+target="_blank"
+href="https://www.box.com/static/html/privacy.html?elq=5a78845d7db64d08ade43db0efad3cc9"
+ style="font-family:arial;font-weight:bold;text-decoration:none;color:rgb(26, 116, 186);">Privacy
+Policy</a></td>
+</tr>
+<tr>
+<td
+style="font-family:arial;font-size:12px;color:rgb(180, 180, 180);">
+Box, Inc. 4440 El Camino Real, Los Altos, CA 94022</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="right">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="text-align:center;padding:0pt 15px;"><a rel="nofollow"
+target="_blank" href="http://www.box.com/login"
+style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/newsletter-footer-box.jpg"
+alt="Box" style="border:0pt none;" height="24"
+width="24" /></a></td>
+<td style="text-align:center;padding:0pt 15px;"><a rel="nofollow"
+target="_blank" href="http://blog.box.com/"
+style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/newsletter-footer-blog.jpg"
+alt="Blog" style="border:0pt none;" height="24"
+width="24" /></a></td>
+<td style="text-align:center;padding:0pt 15px;"><a rel="nofollow"
+target="_blank" href="http://www.youtube.com/box"
+style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/newsletter-footer-youtube.jpg"
+ alt="YouTube" style="border:0pt none;" height="24"
+width="24" /></a></td>
+<td style="text-align:center;padding:0pt 15px;"><a rel="nofollow"
+target="_blank" href="http://www.facebook.com/Box"
+style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/newsletter-footer-facebook.jpg"
+ alt="Facebook" style="border:0pt none;" height="24"
+width="24" /></a></td>
+<td style="text-align:center;padding:0pt 15px;"><a rel="nofollow"
+target="_blank"
+href="http://twitter.com/boxhq?elq=3a72d0f077bf4ff08ac012c88b693996"
+ style="font-family:arial;text-decoration:none;color:rgb(26, 116, 186);"><img
+ src="https://boxemail.s3.amazonaws.com/newsletter-footer-twitter.jpg"
+ alt="Twitter" style="border:0pt none;" height="24"
+width="24" /></a></td>
+</tr>
+<tr>
+<td style="text-align:center;padding-top:5px;"><a rel="nofollow"
+target="_blank" href="http://www.box.com/login"
+style="font-family:arial;font-size:10px;text-decoration:none;color:rgb(180, 180, 180);">Box</a></td>
+<td style="text-align:center;padding-top:5px;"><a rel="nofollow"
+target="_blank" href="http://blog.box.com/"
+style="font-family:arial;font-size:10px;text-decoration:none;color:rgb(180, 180, 180);">Blog</a></td>
+<td style="text-align:center;padding-top:5px;"><a rel="nofollow"
+target="_blank" href="http://www.youtube.com/box"
+style="font-family:arial;font-size:10px;text-decoration:none;color:rgb(180, 180, 180);">YouTube</a></td>
+<td style="text-align:center;padding-top:5px;"><a rel="nofollow"
+target="_blank" href="http://www.facebook.com/Box"
+style="font-family:arial;font-size:10px;text-decoration:none;color:rgb(180, 180, 180);">Facebook</a></td>
+<td style="text-align:center;padding-top:5px;"><a rel="nofollow"
+target="_blank"
+href="http://www.twitter.com/boxHQ?elq=3a72d0f077bf4ff08ac012c88b693996"
+ style="font-family:arial;font-size:10px;text-decoration:none;color:rgb(180, 180, 180);">Twitter</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://s1464.t.en25.com/e/FooterImages/FooterImage1?elq=3a72d0f077bf4ff08ac012c88b693996&amp;siteid=1464"
+ border="0" height="1px" width="1px" /></div>
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id='mail14' class='mails'>
+<div id='mailcount'>Mail - 14</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Assam: arrest the molesters<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:00:22 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Alex Wilks- Avaaz.org" &lt;<a
+href="mailto:avaaz@avaaz.org">avaaz@avaaz.org</a>&gt;<br />
+Date: Jul 20, 2012 2:42 AM<br />
+Subject: Assam: arrest the molesters<br />
+To: "<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>"
+&lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+ 
+<div>
+<center><small><font style="color:#666666">To ensure you receive
+emails like this, add Avaaz to your contacts <a
+href="http://avaazimages.s3.amazonaws.com/adding%20contacts%20gif.gif"
+ target="_blank">(how?)</a>. Or, <a
+href="https://secure.avaaz.org/act/?r=unsub&amp;cl=1927721336&amp;email=shaalinijimmy@gmail.com&amp;b=1906&amp;v=16237&amp;lang=en"
+ target="_blank">click here to
+unsubscribe</a>.</font></small></center>
+<br />
+Dear friends across India,<br />
+<br />
+<table align="right" bgcolor="#ffffff" width="220"
+style="margin-left:15px">
+<tr>
+<td style="border:1px solid #000;padding:10px"><font color="black"
+face="Arial"><a
+href="http://www.avaaz.org/en/petition/Guwahati_Arrest_the_molesting_mob/?bqrqacb&amp;v=16237"
+ target="_blank"><img
+src="http://avaazimages.s3.amazonaws.com/indiaassam.jpg"
+alt="Arrest the Molesters" width="200" height="100" /></a><br />
+<br />
+ <b>A woman was brutally attacked on a crowded Guwahati street</b>
+-- and the whole thing was recorded on camera. Public outrage has
+forced officials to make arrests, but we need to keep up the
+pressure until the entire molesting mob is put behind bars.
+<b>Let's take a massive step to end the culture of impunity behind
+the wave of attacks on women -- sign the petition now!</b><br />
+</font>
+<div style="text-align:center"><br />
+<a
+href="http://www.avaaz.org/en/petition/Guwahati_Arrest_the_molesting_mob/?bqrqacb&amp;v=16237"
+ target="_blank"><img
+src="http://avaazdesign.s3.amazonaws.com/btn_signthepetition.png"
+width="200" border="0" alt="Sign the petition" /></a></div>
+</td>
+</tr>
+</table>
+Days ago, a <b>woman in Guwahati was stripped, molested and beaten
+by a gang of men</b> in a busy city street. A big public fuss
+pushed the police to arrest 11 people so far, but one of the main
+perpetrators is still free. <b>Let=92s keep up the pressure on the
+police to act!</b><br />
+<br />
+The men involved, plus the people filming rather than intervening,
+apparently <b>thought they could get away with this.</b> But, when
+the video circulated widely on the internet, the police were forced
+to act by arresting the culprits. But now, with the main thug still
+on the run, the police are citing bureaucratic reasons for not
+chasing him down across state borders. Only our <b>sustained outcry
+will ensure that every last man from this molesting mob is brought
+to justice.</b><br />
+<br />
+This is our chance to end the culture of impunity that is
+encouraging a wave of brazen attacks against women across India. If
+we raise our voices in massive numbers to Assam's police chief
+today, we can get all the girl=92s attackers tracked down and put
+behind bars and get a commitment for proper patrolling of all city
+streets. <b>Sign the petition now and share widely:</b><br />
+<br />
+<a
+href="http://www.avaaz.org/en/petition/Guwahati_Arrest_the_molesting_mob/?bqrqacb&amp;v=16237"
+ target="_blank">http://www.avaaz.org/en/petition/Guwahati_Arrest_the_molesting_mob/?bqrqacb&amp;v=16237</a><br />
+<br />
+Even as India's wealth increases, a recent survey has found that it
+is still the <b>worst place to be a woman amongst all the G20
+nations.</b> We can see violence and sexual harassment reaching
+epic proportions, yet in 2010 the National Commission for Women
+received just <b>460 complaints for "molestation". It received more
+complaints, over 2000, for police apathy!</b><br />
+<br />
+Public pressure has forced the police to make arrests in the
+Guwahati case. Now one of the key suspects has been traced in
+another part of the country but the police are dithering over
+procedure. Let's not give them a chance to slip back into their
+usual apathy. Let=92s force the police to use all their resources
+to <b>find and arrest every last culprit from the molesting
+mob:</b><br />
+<br />
+<a
+href="http://www.avaaz.org/en/petition/Guwahati_Arrest_the_molesting_mob/?bqrqacb&amp;v=16237"
+ target="_blank">http://www.avaaz.org/en/petition/Guwahati_Arrest_the_molesting_mob/?bqrqacb&amp;v=16237</a><br />
+<br />
+Over 20,000 Avaaz members stood with the family of a poor labourer
+from Tamil Nadu who killed himself in Bahrain after his powerful
+employer stopped him from leaving the country. People power forced
+Nass Contracting to lift abusive travel bans on all remaining
+employees. Lets stand once again with the survivor of this heinous
+act in Guwahati and get justice.<br />
+<br />
+With hope and determination,<br />
+<br />
+Alex, Alaphia, Emily, Iain, Ricken and the whole Avaaz team<br />
+<br />
+<br />
+PS: This petition was started on Avaaz's new Community Petitions
+Site. It's quick and easy to start a petition on any issue you care
+about, click here: <a
+href="http://avaaz.org/en/petition/start_a_petition/?bv16237"
+target="_blank">http://avaaz.org/en/petition/start_a_petition/?bv16237</a><br />
+<br />
+<br />
+MORE INFORMATION<br />
+<br />
+Guwahati molestation case: 5 accused still free, NCW flays
+police<br />
+<a
+href="http://ibnlive.in.com/news/guwahati-case-5-accused-still-free-ncw-flays-police/271647-3-251.html"
+ target="_blank">http://ibnlive.in.com/news/guwahati-case-5-accused-still-free-ncw-flays-police/271647-3-251.html</a><br />
+<br />
+Guwahati molestation case: Two more arrested; reporter accused of
+'inciting' mob resigns<br />
+<a
+href="http://www.ndtv.com/article/cheat-sheet/guwahati-molestation-case-two-more-arrested-reporter-accused-of-inciting-mob-resigns-top-10-facts-243415"
+ target="_blank">http://www.ndtv.com/article/cheat-sheet/guwahati-molestation-case-two-more-arrested-reporter-accused-of-inciting-mob-resigns-top-10-facts-243415</a><br />
+<br />
+Sexual harassment prosecutions get short shrift in India, lawyer
+says<br />
+<a
+href="http://india.blogs.nytimes.com/2012/07/16/sexual-harassment-prosecutions-get-short-shrift-in-india-lawyer-says/"
+ target="_blank">http://india.blogs.nytimes.com/2012/07/16/sexual-harassment-prosecutions-get-short-shrift-in-india-lawyer-says/</a><br />
+<br />
+<br />
+<img src="http://open.avaaz.org/act/open/1927721336.gif"
+border="0" /><br />
+<hr />
+<font color="404040" size="-2"><b><br />
+Avaaz.org is a 15-million-person global campaign network</b> that
+works to ensure that the views and values of the world's people
+shape global decision-making. ("Avaaz" means "voice" or "song" in
+many languages.) Avaaz members live in every nation of the world;
+our team is spread across 19 countries on 6 continents and operates
+in 14 languages. Learn about some of Avaaz's biggest campaigns <a
+href="http://www.avaaz.org/en/highlights.php/?footer"
+target="_blank">here</a>, or follow us on <a
+href="http://www.facebook.com/Avaaz" target="_blank">Facebook</a>
+or <a href="http://twitter.com/Avaaz"
+target="_blank">Twitter</a>.<br />
+<br />
+You are getting this message because you signed "<a
+href="http://www.avaaz.org/en/free_anna" target="_blank">Free Anna
+and Free India of Corruption</a>" on 2011-08-16 using the email
+address <a href="mailto:shaalinijimmy@gmail.com"
+target="_blank">shaalinijimmy@gmail.com</a>.<br />
+To ensure that Avaaz messages reach your inbox, please add <a
+href="mailto:avaaz@avaaz.org" target="_blank">avaaz@avaaz.org</a>
+to your address book. To change your email address, language
+settings, or other personal information, <a
+href="https://secure.avaaz.org/act/index.php?r=profile&amp;user=e9a15ecdbc672345e3dfe312f6b7e546&amp;lang=en"
+ target="_blank">https://secure.avaaz.org/act/index.php?r=profile&amp;user=e9a15ecdbc672345e3dfe312f6b7e546&amp;lang=en</a>,
+or simply <b><a
+href="https://secure.avaaz.org/act/?r=unsub&amp;cl=1927721336&amp;email=shaalinijimmy@gmail.com&amp;b=1906&amp;v=16237&amp;lang=en"
+ target="_blank">go here to unsubscribe</a></b>.<br />
+<br />
+To contact Avaaz, please <b>do not reply to this email.</b>
+Instead, write to us at <a
+href="http://www.avaaz.org/en/contact?footer"
+target="_blank">www.avaaz.org/en/contact</a> or call us at <a
+href="tel:%2B1-888-922-8229" value="+18889228229"
+target="_blank">+1-888-922-8229</a> (US).</font></div>
+</div>
+--e89a8f643d9a6f904104c63375ea--<br />
+</div>
+</div>
+</div>
+<div id='mail15' class='mails'>
+<div id='mailcount'>Mail - 15</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Confirm your account on Heroku<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:00:51 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+ 
+<div style="word-wrap:break-word">
+<div>Thanks for signing up with Heroku! You must follow this link
+to activate your account:<br />
+<br />
+<a
+href="https://api.heroku.com/signup/accept2/1443979/1cfa41969f73e1ae9d5df52061a8dd7b"
+ target="_blank">https://api.heroku.com/signup/accept2/1443979/1cfa41969f73e1ae9d5df52061a8dd7b</a><br />
+<br />
+Have fun, and don't hesitate to contact us with your
+feedback.<br />
+<br />
+ - The Heroku Team<br />
+ <a href="http://heroku.com/"
+target="_blank">http://heroku.com/</a><br />
+<br />
+ 
+<hr />
+ <i>Heroku is the cloud platform for rapid deployment and scaling
+of web applications.<br />
+ Get up and running in minutes, then deploy instantly via
+Git.<br />
+<br />
+ To learn more about Heroku and all its features, check out the Dev
+Center:<br />
+ <a href="http://devcenter.heroku.com/articles/quickstart"
+target="_blank">http://devcenter.heroku.com/articles/quickstart</a></i></div>
+</div>
+</div>
+--14dae9399bd129551204c633770d--<br />
+</div>
+</div>
+</div>
+<div id='mail16' class='mails'>
+<div id='mailcount'>Mail - 16</div>
+<div id='mailbody'>
+<div id='mailheader'>Fwd: Like Us on Facebook and Help Support
+Make-A-Wish<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>shalini singh
+&lt;shaalinijimmy@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Wed, 1 Aug 2012 18:01:17 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<div class="gmail_quote">---------- Forwarded message
+----------<br />
+From: "Snap Fitness" &lt;<a
+href="mailto:memberservices@snapfitness.com">memberservices@snapfitness.com</a>&gt;<br />
+Date: Jul 18, 2012 8:22 PM<br />
+Subject: Like Us on Facebook and Help Support Make-A-Wish<br />
+To: &lt;<a
+href="mailto:shaalinijimmy@gmail.com">shaalinijimmy@gmail.com</a>&gt;<br />
+<br type="attribution" />
+<div bgcolor="#FFFFFF"
+style="font-family:arial,helvetica,sans-serif;font-size:12px">
+<center>
+<table cellpadding="0" cellspacing="0" border="0" width="100%"
+bgcolor="#FFFFFF" align="center" style="margin:auto">
+<tr>
+<td valign="top" align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="819"
+style="padding:0;border-collapse:collapse;border-spacing:0"
+bgcolor="#FFFFFF">
+<tr>
+<td width="891" height="119" valign="top" colspan="2"><img
+src="http://www.snapfitness.com/shared/images/emails/make-a-wish/July/slice1.jpg"
+ width="819" height="119" border="0"
+style="margin:0;padding:0;display:block"
+alt="Snap Fitness and Make-A-Wish=AE" /></td>
+</tr>
+<tr>
+<td width="891" height="160" valign="top" colspan="2"><img
+src="http://www.snapfitness.com/shared/images/emails/make-a-wish/July/slice2.jpg"
+ width="819" height="160" border="0"
+style="margin:0;padding:0;display:block"
+title="Snap Fitness is helping to grant wishes to children with life-threatening medical conditions by donating $1 to Make-A-Wish=AE for each =93like=94 on our Facebook Page from now until August 31st. =93Like=94 us at facebook.com/snapfitness247 to get us closer to our goal of $25,000!"
+ alt="Snap Fitness is helping children by donating to Make-A-Wish=AE" /></td>
+</tr>
+<tr>
+<td width="525" height="275" valign="top"><a
+href="http://cl.exct.net/?ju=fe211575756c027a731277&amp;ls=fdeb1d717263007a7412727d&amp;m=fef01274766d0d&amp;l=fe9116767367077a76&amp;s=fe221d727360077a751179&amp;jb=ffcf14&amp;t="
+ title="Click here to =93like=94 our page!" target="_blank"><img
+src="http://www.snapfitness.com/shared/images/emails/make-a-wish/July/slice3.jpg"
+ width="525" height="275" border="0"
+style="margin:0;padding:0;display:block"
+alt="Click here to =93like=94 our page!" /></a></td>
+<td width="294" height="275" valign="top"><img
+src="http://www.snapfitness.com/shared/images/emails/make-a-wish/July/slice4.jpg"
+ width="294" height="275" border="0"
+style="margin:0;padding:0;display:block"
+title="=93I wish to take a road trip to the Black Hills=94 -Taylor 8"
+ alt="=93I wish to take a road trip to the Black Hills=94 -Taylor 8" /></td>
+</tr>
+<tr>
+<td width="891" height="46" valign="top" colspan="2"><img
+src="http://www.snapfitness.com/shared/images/emails/make-a-wish/July/slice5.jpg"
+ width="819" height="46" border="0"
+style="margin:0;padding:0;display:block"
+title="Snap Fitness will donate $1 for every =93like=94 on Facebook from July 15th through August 31st with a minimum donation of $10,000 up to a maximum contribution of $25,000 to Make-A-Wish. For more information about Make-A-Wish visit wish.org."
+ alt="Snap Fitness will donate $1 for every =93like=94 on Facebook" /></td>
+</tr>
+<tr>
+<td align="center" valign="top" colspan="3"
+style="padding-top:10px">Copyright Snap Fitness 2012 All rights
+reserved.<br />
+ This email was sent by Snap Fitness 2411 Galpin Court Suite 110
+Chanhassen, MN, 55317, USA.<br />
+ Please do not reply to this email.<br />
+ If you would like to unsubscribe, click <a
+href="http://cl.exct.net/?ju=fe201575756c027a731278&amp;ls=fdeb1d717263007a7412727d&amp;m=fef01274766d0d&amp;l=fe9116767367077a76&amp;s=fe221d727360077a751179&amp;jb=ffcf14&amp;t="
+ target="_blank"><span
+style="text-decoration:underline">here</span></a>.</td>
+</tr>
+</table>
+<img
+src="http://cl.exct.net/open.aspx?ffcb10-fe5615747d63077e721c-fdeb1d717263007a7412727d-fef01274766d0d-fe9116767367077a76-fe221d727360077a751179-ffcf14"
+ width="1" height="1" /></td>
+</tr>
+</table>
+</center>
+</div>
+</div>
+--f46d04447383ad3c4904c63378cf--<br />
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

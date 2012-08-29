@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+<title>Mbox mails in HTML Format</title>
+<script type='text/javascript'>
+//<![CDATA[
+function hideShow(num,count){hideAll(count);document.getElementById('mail'+num).style.display='block';}function hideAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='none';}}function showAll(count){for(var i=1;i <=count;i++){document.getElementById('mail'+i).style.display='block';}}
+//]]>
+</script>
+<style type='text/css'>
+/*<![CDATA[*/
+body{background-color  :       #C8E2EB;}#main{font-family      :       sans-serif;font-size            :       14px;width                      :       auto;margin-left        :       100px;margin-right      :       100px;height                    :       100%;}#pageheader{font-size             :       26px;text-align         :       center;color                    :       #455560;font-weight             :       bold;border-bottom      :       2px solid #D455FF;}#pageheader span{font-size                   :       16px;text-align                 :       center;}#pagination{margin-top:10px;font-size   :       10px;text-align :       right;}#pagination a{font-style:        italic;}#mailcount{margin-top:  10px;margin-bottom:     10px;font-size: 18px;background-color:  #456179;color:white;padding: 5px;font-weight:   bold;}#mailbody{margin:10px;border: 2px solid black;background-color:   white;}#mailheader{background-color: #D2FDD2;font-size: 16px;padding :10px;font-weight:bold;color:blue;}#mailheader table{border-collapse:      collapse;}#mailheader .first{font-size:14px;text-align:right;font-weight:bold;color: grey;}#mailheader .second{padding-left:10px;font-size:14px;font-weight: bold;height:20px;color:    black;}#mailcontent{padding:10px;}#mailcontent span#mailcontentspan{font-size:16px;font-weight:bold;}#mailcontent hr{height: 5px;background-color:black;}
+/*]]>*/
+</style>
+</head>
+<body onload='hideShow(1,1);'>
+<div id='main'>
+<div id='pageheader'>MailBox<br />
+ <span>All your mbox mails in easy-to-read format</span></div>
+<div id='pagination'><a id='page1' onclick='hideShow(1,1)'
+href='javascript:void(0)'>1</a> <a id='showall'
+onclick='showAll(1)' href='javascript:void(0)'>Show All</a></div>
+<div id='allmails'>
+<div id='mail1' class='mails'>
+<div id='mailcount'>Mail - 1</div>
+<div id='mailbody'>
+<div id='mailheader'>New Mail with CC<br />
+<br />
+<table>
+<tr>
+<td class='first'>From :</td>
+<td class='second'>Gaurav Sachdeva
+&lt;nerdsachdeva@gmail.com&gt;</td>
+</tr>
+<tr>
+<td class='first'>To :</td>
+<td class='second'>nerdsachdeva@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>CC :</td>
+<td class='second'>nerdsachdeav@gmail.com</td>
+</tr>
+<tr>
+<td class='first'>Date :</td>
+<td class='second'>Thu, 26 Jul 2012 21:53:28 +0530</td>
+</tr>
+</table>
+</div>
+<div id='mailcontent'>
+<hr />
+<br />
+ 
+<div class="moz-forward-container"><br />
+<br />
+ -------- Original Message -------- 
+<table class="moz-email-headers-table" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">Subject:</th>
+<td>New Mail with CC</td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">Date:</th>
+<td>Thu, 26 Jul 2012 21:53:28 +0530</td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">From:</th>
+<td>Gaurav Sachdeva <a class="moz-txt-link-rfc2396E"
+href="mailto:nerdsachdeva@gmail.com">&lt;nerdsachdeva@gmail.com&gt;</a></td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">To:</th>
+<td><a class="moz-txt-link-abbreviated"
+href="mailto:nerdsachdeva@gmail.com">nerdsachdeva@gmail.com</a></td>
+</tr>
+<tr>
+<th nowrap="nowrap" align="right" valign="baseline">CC:</th>
+<td><a class="moz-txt-link-abbreviated"
+href="mailto:nerdsachdeav@gmail.com">nerdsachdeav@gmail.com</a></td>
+</tr>
+</tbody>
+</table>
+<br />
+<br />
+ 
+<pre>
+THIS MAIL HAS TO AND CC AND BCC fields filled.
+</pre>
+
+<br />
+<br />
+</div>
+<br />
+<br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+I am content of the file
+[B@9c98e8
